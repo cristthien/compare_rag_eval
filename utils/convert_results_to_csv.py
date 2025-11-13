@@ -10,23 +10,23 @@ def convert_json_to_csv(json_file, csv_file):
     """Convert results_multi.json to CSV format for evaluation."""
     
     # Read the JSON file
-    with open(json_file, 'r', encoding='utf-8') as f:
-        data = json.load(f)
+    with open(json_file, 'r', encoding='utf-8-sig') as f:
+        results  = json.load(f)
     
     # Prepare CSV rows
     csv_rows = []
     
-    for result in data['results']:
-        testcase_id = result['testcase_id']
+    for result in results:
+        testcase_id = result['question_id']
         question = result['question']
-        generated_answer = result['actual_output']
+        generated_answer = result['answer']
         
         # Extract context/sources
-        sources = result.get('sources', [])
+        contexts = result.get('contexts', [])
         
         # If there are sources, create one row per source
-        if sources:
-            for idx, source in enumerate(sources, start=1):
+        if contexts:
+            for idx, source in enumerate(contexts, start=1):
                 row = {
                     'query_id': testcase_id,
                     'query': question,
@@ -52,9 +52,13 @@ def convert_json_to_csv(json_file, csv_file):
     fieldnames = ['query_id', 'query', 'query_run', 'passage_id', 'passage', 'generated_answer']
     
     with open(csv_file, 'w', newline='', encoding='utf-8-sig') as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(
+            f, 
+            fieldnames=fieldnames, 
+            quoting=csv.QUOTE_ALL  # luôn đặt dấu "" cho mọi giá trị
+        )
         writer.writeheader()
         writer.writerows(csv_rows)
     
-    print(f"✅ Converted {len(data['results'])} queries to {csv_file}")
+    print(f"✅ Converted {len(results)} queries to {csv_file}")
     print(f"   Total rows: {len(csv_rows)}")

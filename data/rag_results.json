@@ -1,6 +1,6 @@
 ﻿[
   {
-    "query_id": "Q001",
+    "question_id": "Q001",
     "question": "Ngành Kỹ thuật Máy tính có thể làm những công việc gì sau khi tốt nghiệp?",
     "answer": "Dựa trên các tài liệu được cung cấp, sinh viên tốt nghiệp ngành Cử nhân Công nghệ Thông tin có thể làm việc trong nhiều phạm vi và lĩnh vực khác nhau, cụ thể như:\n\n| Công việc sau tốt nghiệp |\n|---|\n| Tham mưu, tư vấn |\n| Tổ chức thực hiện nhiệm vụ với tư cách của một chuyên viên trong lĩnh vực CNTT |\n| Nghiên cứu phát triển và ứng dụng công nghệ thông tin |\n\n**Nguồn tài liệu:**\n\n*   Cử Nhân Công Nghệ Thông Tin Nhật - 1.2\n*   Cử nhân Công Nghệ Thông Tin - 1\\. GIỚI THIỆU CHUNG - 1.1. Mục tiêu đào tạo\n*   Cử nhân Công Nghệ Thông Tin Văn Bằng Đại Học Thứ 2 - 1.1. Mục tiêu đào tạo\n*   Cử nhân Công Nghệ Thông Tin Liên Thông - 1.1. Mục tiêu đào tạo",
     "contexts": [
@@ -43,7 +43,7 @@
     "processing_time": 17.3589289188385
   },
   {
-    "query_id": "Q002",
+    "question_id": "Q002",
     "question": "Chương trình Kỹ thuật Máy tính có bao nhiêu tín chỉ tổng cộng, phân bổ giữa các khối kiến thức chính như thế nào?",
     "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
     "contexts": [
@@ -86,7 +86,7 @@
     "processing_time": 10.738356828689575
   },
   {
-    "query_id": "Q003",
+    "question_id": "Q003",
     "question": "Sinh viên mới vào học nên theo thứ tự học những môn nền tảng nào trong hai năm đầu để có nền tảng vững về lập trình, cấu trúc dữ liệu, hệ điều hành và kiến trúc máy tính?",
     "answer": "Dựa trên ngữ cảnh được cung cấp, thông tin cụ thể về thứ tự học các môn nền tảng trong hai năm đầu cho chương trình Cử nhân Công nghệ Thông tin không được liệt kê chi tiết. Tuy nhiên, các môn nền tảng quan trọng được đề cập bao gồm:\n\n| Môn học                     |\n| -------------------------- |\n| Kiến trúc máy tính           |\n| Hệ điều hành                 |\n| Lập trình (không được liệt kê cụ thể) |\n| Cấu trúc dữ liệu (không được liệt kê cụ thể) |\n\n**Lưu ý:** Ngữ cảnh chỉ cung cấp thông tin về các môn học *nền tảng* mà không phân loại thứ tự học cụ thể.",
     "contexts": [
@@ -129,7 +129,7 @@
     "processing_time": 17.023653030395508
   },
   {
-    "query_id": "Q004",
+    "question_id": "Q004",
     "question": "Nếu em muốn theo hướng Hệ thống nhúng/IoT thì yêu cầu học những môn gì và kế hoạch ra sao?",
     "answer": "Dựa trên ngữ cảnh được cung cấp, để theo hướng Hệ thống nhúng/IoT trong chương trình Cử nhân Công nghệ Thông tin, sinh viên sẽ được yêu cầu học các môn thuộc **Nhóm môn học định hướng Hệ thống nhúng và IoT**.\n\n**Bảng tổng hợp (dựa trên thông tin trong ngữ cảnh):**\n\n| Nhóm môn học                               |\n| ------------------------------------------ |\n| Hệ thống nhúng và IoT                      |\n| *Lưu ý:*  Ngữ cảnh hiện tại chưa cung cấp danh sách cụ thể các môn học thuộc nhóm này.  Thông tin này cần được tìm hiểu thêm từ các nguồn chính thức của chương trình Cử nhân Công nghệ Thông tin tại UIT.",
     "contexts": [
@@ -172,7 +172,7 @@
     "processing_time": 21.175246000289917
   },
   {
-    "query_id": "Q005",
+    "question_id": "Q005",
     "question": "Ngành này có những định hướng chuyên ngành tự chọn nào?",
     "answer": "Dựa trên ngữ cảnh được cung cấp, sinh viên Cử nhân Công nghệ Thông tin có thể lựa chọn các môn học chuyên ngành tự do để tích lũy tối đa 4 tín chỉ, trong đó có thể chọn các môn học thuộc danh mục 4.4.2.3. Sinh viên có thể chọn các môn học thuộc cả 01 hoặc 02 hướng, không nhất thiết cố định 01 hướng.\n\n**Bảng tóm tắt:**\n\n| Phương án chọn môn học | Số lượng tín chỉ tối đa |\n|---|---|\n| Môn học chuyên ngành tự do (4.4.2.3) | 4 tín chỉ |\n| Lựa chọn 01 hướng | Không nhất thiết cố định |\n| Lựa chọn 02 hướng | Không nhất thiết cố định |",
     "contexts": [
@@ -215,7 +215,7 @@
     "processing_time": 16.127131938934326
   },
   {
-    "query_id": "Q006",
+    "question_id": "Q006",
     "question": "Môn 'Thực tập doanh nghiệp' (CE502) có bắt buộc không? Có thể đổi sang hình thức khác không?",
     "answer": "**Câu trả lời:**\n\nDựa trên ngữ cảnh cung cấp:\n\n*   **Môn Thực tập doanh nghiệp (CE502) có thể đổi sang hình thức khác:** Sinh viên nên ưu tiên chọn thực tập tại các đơn vị đối tác của Khoa KTMT và Trường ĐH CNTT (xem Phụ lục 2 tại [https://fce.uit.edu.vn/](https://fce.uit.edu.vn/)) nhưng vẫn được phép chọn các doanh nghiệp… Ngoài ra, môn này có thể thay thế bằng Đồ án tốt nghiệp tại doanh nghiệp hoặc nhóm môn học thay thế.",
     "contexts": [
@@ -258,7 +258,7 @@
     "processing_time": 15.332540035247803
   },
   {
-    "query_id": "Q007",
+    "question_id": "Q007",
     "question": "Nếu em muốn theo hướng Hệ thống nhúng/IoT hoặc hướng Robotics & AI thì nên chọn những môn tự chọn nào, và mỗi hướng yêu cầu kỹ năng, nền tảng khác nhau ra sao?",
     "answer": "Dựa trên các tài liệu được cung cấp, đây là thông tin về các môn tự chọn cho hướng Hệ thống nhúng/IoT và hướng Robotics & AI, cùng với các nền tảng và kỹ năng khác nhau mà mỗi hướng yêu cầu:\n\n**1. Hướng Hệ thống nhúng/IoT:**\n\n*   **Các môn học được mở:** Môn học chuyên ngành được mở theo từng học kỳ có nội dung được cập nhật phù hợp với xu thế công nghệ và nhu cầu lao động.\n*   **Yêu cầu kỹ năng/nền tảng:** Hướng này tập trung vào việc trang bị kiến thức và kỹ năng thiết kế, xây dựng và lập trình cho các hệ thống nhúng và IoT.\n*   **Ví dụ môn học:** (Dựa trên các tài liệu, không có danh sách cụ thể các môn học tự chọn. Nhưng các môn như CE437, CE438, CE441, CE442 đều thuộc hướng này)\n\n**2. Hướng Robotics & AI:**\n\n*   **Các môn học được mở:** Tương tự như hướng Hệ thống nhúng/IoT, các môn học chuyên ngành được mở theo từng học kỳ, cập nhật xu hướng công nghệ.\n*   **Yêu cầu kỹ năng/nền tảng:**  Hướng này tập trung vào việc trang bị kiến thức và kỹ năng liên quan đến thiết kế, lập trình và điều khiển robot, cũng như các ứng dụng của trí tuệ nhân tạo.\n*   **Ví dụ môn học:** (Dựa trên các tài liệu, không có danh sách cụ thể các môn học tự chọn. Nhưng các môn như CE441, CE442 đều thuộc hướng này)\n\n**Lưu ý chung:**\n\n*   Sinh viên có thể lựa chọn các môn học thuộc cả 02 hướng mà không nhất thiết phải cố định một hướng.\n*   Sinh viên phải chọn tối thiểu 8 tín chỉ học bằng tiếng Nhật trong các môn chuyên ngành.\n\n**Bảng tóm tắt:**\n\n| Đặc điểm        | Hệ thống nhúng/IoT | Robotics & AI    |\n| ---------------- | ------------------- | ----------------- |\n| **Nền tảng**     | Thiết kế, lập trình hệ thống nhúng | Thiết kế, lập trình robot, AI |\n| **Mục tiêu**       | Xây dựng, điều khiển hệ thống nhúng | Thiết kế, điều khiển robot, ứng dụng AI |\n| **Ví dụ môn học** | CE437, CE438, CE441, CE442 | CE441, CE442     |\n\n**Xin lưu ý:** Đây là thông tin được trích xuất từ các tài liệu được cung cấp. Để có thông tin đầy đủ và chính xác nhất, bạn nên tham khảo thêm các nguồn tài liệu chính thức khác của trường.",
     "contexts": [
@@ -301,7 +301,7 @@
     "processing_time": 28.87071990966797
   },
   {
-    "query_id": "Q008",
+    "question_id": "Q008",
     "question": "Chương trình có những phương thức tốt nghiệp nào? Thời lượng/ tín chỉ và điều kiện tham gia mỗi phương thức ra sao?",
     "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
     "contexts": [
@@ -344,7 +344,7 @@
     "processing_time": 11.179155826568604
   },
   {
-    "query_id": "Q009",
+    "question_id": "Q009",
     "question": "Nếu một sinh viên muốn thay Khóa luận (CE505) bằng Đồ án tốt nghiệp tại doanh nghiệp (CE507): (a) họ cần tích lũy bao nhiêu tín chỉ thay thế, (b) thời gian thực hiện tối thiểu là bao lâu, (c) cần có những điều kiện/giấy tờ gì để đăng ký, và (d) mô tả checklist hướng dẫn từ việc tìm doanh nghiệp đến nộp báo cáo tốt nghiệp.",
     "answer": "Dựa trên ngữ cảnh được cung cấp, đây là câu trả lời cho câu hỏi của bạn:\n\n**Trả lời:**\n\n(a) Để thay thế môn Khóa luận tốt nghiệp (CE505) bằng Đồ án tốt nghiệp tại doanh nghiệp (CE507), sinh viên cần tích lũy **10 tín chỉ** thay thế.\n\n(b) Thời gian thực hiện tối thiểu của môn Đồ án tốt nghiệp tại doanh nghiệp là **4-6 tháng**, khuyến khích 6 tháng.\n\n(c) Điều kiện và giấy tờ cần thiết để đăng ký bao gồm:\n\n*   Sinh viên cần chọn các công ty có ký kết hợp tác chính thức với Khoa KTMT hoặc Trường ĐH CNTT.\n*   Cần tham vấn ý kiến trực tiếp từ cố vấn học tập hoặc giáo vụ khoa.\n*   Cần có kế hoạch đăng ký môn Thực tập doanh nghiệp và Đồ án tốt nghiệp tại doanh nghiệp trong cùng một học kỳ hoặc hai học kỳ liên tiếp.\n\n(d) Checklist hướng dẫn từ việc tìm doanh nghiệp đến nộp báo cáo tốt nghiệp:\n\n1.  **Tìm kiếm và lựa chọn đối tác:** Tham khảo danh sách các đối tác của Khoa KTMT và Trường ĐH CNTT (Phụ lục 2).\n2.  **Tham vấn cố vấn:** Thảo luận về ý tưởng đồ án với cố vấn học tập hoặc giáo vụ khoa.\n3.  **Đăng ký môn học:** Đăng ký môn Đồ án tốt nghiệp tại khoa.\n4.  **Thực hiện tại doanh nghiệp:** Thực hiện đồ án tại doanh nghiệp trong khoảng thời gian 4-6 tháng.\n5.  **Nộp báo cáo:** Chuẩn bị và nộp báo cáo tốt nghiệp theo hướng dẫn của khoa.\n\n**Lưu ý:** Thông tin này được trích xuất từ các document được cung cấp.",
     "contexts": [
@@ -387,7 +387,7 @@
     "processing_time": 25.855557918548584
   },
   {
-    "query_id": "Q010",
+    "question_id": "Q010",
     "question": "Ngành Kỹ thuật máy tính chương trình đại trà học tiếng Anh bao nhiêu tín chỉ?",
     "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
     "contexts": [
