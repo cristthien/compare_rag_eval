@@ -2,9 +2,9 @@ input_queries: "data/questions.csv" # file with a list of queries to use for eva
 
 # Evaluation results are written to the "results_folder" folder.
 # You can override the names of files in this folder by specifying 'generated_answers', 'eval_results_file', and 'metrics_file'.
-results_folder: "data/open_rag_eval_results/"
-generated_answers: "rag_results.csv" # Point to the pre-existing results (relative to results_folder)
-eval_results_file: "eval_results  .csv"
+results_folder: "data/open_rag_eval_results_raptor/"
+generated_answers: "rag_results_raptor.csv" # Point to the pre-existing results (relative to results_folder)
+eval_results_file: "eval_results_raptor.csv"
 metrics_file: "metrics.png"
 
 evaluator:
