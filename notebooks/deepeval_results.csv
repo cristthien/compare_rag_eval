@@ -1,0 +1,109 @@
+question,answer,faithfulness,answer_relevancy,contextual_relevancy
+Ngành Kỹ thuật Máy tính có thể làm những công việc gì sau khi tốt nghiệp?,"Sau khi tốt nghiệp, sinh viên ngành Kỹ thuật Máy tính có thể đảm nhận nhiều công việc khác nhau, bao gồm:
+
+*   **Phát triển giải pháp phần mềm máy tính.**
+*   **Thiết kế các hệ thống số, hệ thống nhúng, hệ thống IoT và ứng dụng trí tuệ nhân tạo.**
+*   **Nghiên cứu và ứng dụng Công nghệ thông tin** tại các viện, trung tâm nghiên cứu và các trường đại học, cao đẳng.
+*   **Giảng dạy** các môn liên quan đến kỹ thuật máy tính tại các trường đại học, cao đẳng, trung học chuyên nghiệp, dạy nghề và các trường phổ thông.
+*   **Nghiên cứu khoa học** trong các lĩnh vực như phần mềm hệ thống, thiết kế hệ thống số, điều khiển tự động và các hệ thống nhúng tại các viện nghiên cứu, các trung tâm và cơ quan nghiên cứu.
+*   **Làm việc** trong các bộ phận công nghệ thông tin của các đơn vị như hành chính sự nghiệp, ngân hàng, viễn thông, hàng không, xây dựng,…
+*   **Làm việc** trong các công ty sản xuất trong lĩnh vực điện tử, tự động hóa và giải pháp thông minh.
+*   **Tham gia** các chương trình đào tạo sau đại học.",1.0,1.0,0.7222222222222222
+"Sinh viên mới vào học nên theo thứ tự học những môn nền tảng nào trong hai năm đầu để có nền tảng vững về lập trình, cấu trúc dữ liệu, hệ điều hành và kiến trúc máy tính?","Dựa trên thông tin chương trình đào tạo ngành IT và chương trình đào tạo ngành Trí tuệ nhân tạo, sinh viên nên theo thứ tự học những môn nền tảng sau trong hai năm đầu để có nền tảng vững chắc:
+
+**Năm 1:**
+
+1.  **Nhập môn Lập trình:** Đây là môn học bắt buộc đầu tiên, cung cấp kiến thức cơ bản về các khái niệm lập trình, ngôn ngữ lập trình và cách giải quyết vấn đề bằng code.
+2.  **Giải tích:** Môn học này cung cấp kiến thức về các phép toán liên quan đến hàm số, giúp sinh viên hiểu rõ hơn về các thuật toán và mô hình trong lập trình.
+3.  **Đại số tuyến tính:** Môn học này cung cấp kiến thức về các phép toán trên vector và ma trận, rất quan trọng trong việc hiểu các thuật toán và mô hình trong nhiều lĩnh vực, đặc biệt là trong trí tuệ nhân tạo.
+4.  **Giới thiệu ngành Công nghệ Thông tin:** Môn học này giúp sinh viên có cái nhìn tổng quan về ngành IT, các lĩnh vực ứng dụng và các công nghệ phổ biến.
+5.  **Pháp luật đại cương:** Môn học này giúp sinh viên hiểu về các quy định pháp luật liên quan đến hoạt động của ngành IT.
+6.  **Anh văn 1:** Bắt đầu xây dựng nền tảng tiếng Anh cần thiết cho việc học tập và làm việc trong môi trường quốc tế.
+
+**Năm 2:**
+
+1.  **Lập trình hướng đối tượng:** Tiếp nối môn Nhập môn Lập trình, môn này đào sâu về lập trình hướng đối tượng, một phương pháp lập trình phổ biến và quan trọng.
+2.  **Cấu trúc dữ liệu và giải thuật:** Môn học này cung cấp kiến thức về các cấu trúc dữ liệu phổ biến (mảng, danh sách liên kết, cây, đồ thị) và các thuật toán cơ bản để giải quyết các bài toán lập trình.
+3.  **Kỹ năng nghề nghiệp:** Môn học này giúp sinh viên phát triển các kỹ năng mềm cần thiết cho sự nghiệp như giao tiếp, làm việc nhóm, giải quyết vấn đề.
+4.  **Cấu trúc rời rạc:** Môn học này cung cấp kiến thức về các khái niệm toán học rời rạc, giúp sinh viên hiểu rõ hơn về các thuật toán và mô hình trong nhiều lĩnh vực.
+5.  **Anh văn 2 & 3:** Tiếp tục nâng cao khả năng tiếng Anh để đáp ứng yêu cầu của chương trình.
+
+**Lý do:**
+
+Thứ tự này được đề xuất vì nó bắt đầu với các kiến thức cơ bản nhất (lập trình, giải tích, đại số tuyến tính) và dần dần đi sâu vào các môn chuyên ngành hơn (cấu trúc dữ liệu, hệ điều hành, kiến trúc máy tính).  Việc học các môn này theo thứ tự này sẽ giúp sinh viên xây dựng một nền tảng vững chắc, từ đó dễ dàng tiếp thu các kiến thức chuyên sâu hơn trong các năm sau.
+
+**Lưu ý:**  Ngoài ra, sinh viên nên tích cực tham gia các hoạt động ngoại khóa, thực hành lập trình và làm các dự án nhỏ để củng cố kiến thức và rèn luyện kỹ năng.",0.875,0.5882352941176471,0.14285714285714285
+Nếu em muốn theo hướng Hệ thống nhúng/IoT thì yêu cầu học những môn gì và kế hoạch ra sao?,"Để theo hướng Hệ thống nhúng/IoT, sinh viên cần tích lũy tối thiểu 18 tín chỉ chuyên ngành, bao gồm các môn bắt buộc và tự chọn như sau:
+
+**1. Môn bắt buộc:**
+
+*   **CE201: Đồ án 1** (2 tín chỉ) - Đây là môn bắt buộc và giúp sinh viên làm quen với quy trình thiết kế và phát triển hệ thống nhúng.
+*   **CE206: Đồ án 2** (2 tín chỉ) - Tiếp nối Đồ án 1, sinh viên sẽ thực hiện một dự án phức tạp hơn, áp dụng kiến thức đã học.
+
+**2. Môn tự chọn (tối thiểu 16 tín chỉ):**
+
+Dựa vào Bảng 8, sinh viên có thể lựa chọn các môn sau:
+
+*   **CE232: Thiết kế hệ thống nhúng không dây** (4 tín chỉ)
+*   **CE339: Công nghệ IoT và Ứng dụng** (4 tín chỉ)
+*   **CE439: Lập trình song song và Hệ thống phân tán** (4 tín chỉ) - Mặc dù không hoàn toàn tập trung vào IoT, nhưng kiến thức về hệ thống phân tán rất quan trọng trong thiết kế hệ thống nhúng hiện đại.
+*   **CE437: Chuyên đề thiết kế hệ thống nhúng 1** (4 tín chỉ)
+*   **CE438: Chuyên đề thiết kế hệ thống nhúng 2** (4 tín chỉ)
+
+**Kế hoạch học tập gợi ý:**
+
+*   **Năm 1:**
+    *   CE201 (Đồ án 1)
+    *   CE232 (Thiết kế hệ thống nhúng không dây)
+    *   CE339 (Công nghệ IoT và Ứng dụng)
+*   **Năm 2:**
+    *   CE206 (Đồ án 2)
+    *   CE437 (Chuyên đề thiết kế hệ thống nhúng 1)
+    *   CE438 (Chuyên đề thiết kế hệ thống nhúng 2)
+    *   CE439 (Lập trình song song và Hệ thống phân tán) - Nếu có thể, nên học thêm các kiến thức về lập trình C/C++ cho hệ thống nhúng.
+
+**Lưu ý:**
+
+*   Sinh viên có thể linh hoạt điều chỉnh số lượng tín chỉ cho từng môn tùy thuộc vào sở thích và khả năng.
+*   Ngoài các môn trên, sinh viên nên tự học thêm các kiến thức về điện tử, mạch điện, vi điều khiển, lập trình nhúng, mạng IoT, v.v.
+*   Cập nhật danh sách các môn tự chọn có thể thay đổi theo học kỳ, nên thường xuyên theo dõi thông tin từ khoa.
+
+Hy vọng kế hoạch này sẽ giúp em theo đuổi đam mê với Hệ thống nhúng/IoT!",0.9166666666666666,0.7333333333333333,0.375
+Ngành Kỹ thuật Máy tính có những định hướng chuyên ngành tự chọn nào?,"Dựa trên thông tin được cung cấp, ngành Kỹ thuật Máy tính có những định hướng chuyên ngành tự chọn sau:
+
+*   **Hệ thống nhúng và IoT** (CE232, CE439, CE339, CE340, CE342, CE348, CE437, CE438)
+*   **Robotics và Trí tuệ nhân tạo** (CE233, CE347, CE440, CE320, CE406, CE441, CE442)
+
+Ngoài ra, sinh viên có thể tự chọn các môn học từ khối kiến thức chuyên ngành của các CTĐT ngành KTMT ban hành trước năm 2024 hoặc các môn học mới (được ban hành từ năm 2024 trở về sau) có nội dung và số tín chỉ phù hợp để bổ sung kiến thức và xét tương đương cho các môn học chuyên đề này.",0.6,1.0,0.29411764705882354
+" Trong Ngành Công Nghệ Thông Tin, môn Thực tập doanh nghiệp có bắt buộc không? Có thể đổi sang hình thức khác không? ","Dựa trên thông tin được cung cấp, chương trình đào tạo ngành Công nghệ Thông Tin **không có quy định cụ thể về môn Thực tập doanh nghiệp**. 
+
+Thông tin chỉ đề cập đến các hình thức tốt nghiệp như:
+
+*   Khóa luận tốt nghiệp (10 tín chỉ)
+*   Chuyên đề tốt nghiệp (4 tín chỉ) + Đồ án tốt nghiệp (6 tín chỉ)
+*   Đồ án tốt nghiệp tại doanh nghiệp (10 tín chỉ)
+
+Do đó, sinh viên có thể lựa chọn hình thức tốt nghiệp phù hợp với mình, và việc lựa chọn doanh nghiệp thực tập (nếu có) sẽ phụ thuộc vào hình thức tốt nghiệp được chọn.
+
+**Về việc đổi sang hình thức khác, thông tin không đề cập cụ thể.** Tuy nhiên, sinh viên có thể thảo luận với giảng viên hướng dẫn để điều chỉnh hình thức tốt nghiệp (nếu có thể) phù hợp với mục tiêu học tập và phát triển của bản thân.",0.8333333333333334,0.3,0.05263157894736842
+Chương trình Trí Tuệ Nhân Tạo có những phương thức tốt nghiệp nào? Thời lượng/ tín chỉ và điều kiện tham gia mỗi phương thức ra sao?,"Chương trình Trí Tuệ Nhân Tạo có một phương thức tốt nghiệp chính, được xây dựng dựa trên học chế tín chỉ và đồ án tốt nghiệp tại doanh nghiệp.
+
+**Thời lượng/Tín chỉ:**
+
+*   Sinh viên cần tích lũy tối thiểu **128 tín chỉ** để được công nhận tốt nghiệp.
+*   Phân bổ tín chỉ theo các khối:
+    *   Giáo dục đại cương: 45 tín chỉ
+    *   Cơ sở ngành: 57 tín chỉ
+    *   Tự chọn ngành: 8 tín chỉ
+    *   Tự chọn liên ngành: 8 tín chỉ
+    *   Kiến thức tốt nghiệp: 10 tín chỉ
+
+**Điều kiện tham gia:**
+
+*   Hoàn thành ít nhất 128 tín chỉ, bao gồm tất cả các tín chỉ trong các khối đã nêu trên.
+*   Hoàn thành các môn học bắt buộc của chương trình.
+*   Thành công trong thực hiện đồ án tốt nghiệp tại doanh nghiệp (một yêu cầu quan trọng của chương trình).
+
+Lưu ý rằng sinh viên cần đáp ứng các điều kiện chung của Trường Đại học Công nghệ Thông tin, bao gồm việc tích lũy tối thiểu 12 tín chỉ Anh văn.
+
+Để được công nhận tốt nghiệp và cấp bằng Cử nhân, sinh viên cần đáp ứng đầy đủ các điều kiện này.",0.875,1.0,0.2857142857142857
