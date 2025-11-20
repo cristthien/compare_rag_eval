@@ -1,0 +1,130 @@
+[
+  {
+    "question": "Vì sao nhóm Toán – Tin học – Khoa học tự nhiên của AI lại dày hơn so với CNTT?",
+    "metrics": {
+      "faithfulness": true,
+      "reasoning_quality": true,
+      "answer_relevance": true
+    },
+    "ground_truth": "TTNT yêu cầu 18 tín chỉ Toán–Tin–KHTN với thêm môn CS115 'Toán cho Khoa học máy tính', trong khi CNTT cũng có 18 tín chỉ nhưng không có môn tăng cường toán ứng dụng cho ML/AI. TTNT đòi hỏi nền tảng toán sâu hơn để phục vụ ML, tối ưu hóa, thống kê và các môn AI cốt lõi."
+  },
+  {
+    "question": "So sánh tổng số tín chỉ đại cương của CNTT và TTNT: ngành nào nặng hơn và chênh lệch bao nhiêu?",
+    "ground_truth": "Ngành TTNT yêu cầu 45 tín chỉ giáo dục đại cương (không tính GDTC & GDQP), trong khi chương trình CNTT yêu cầu khoảng 43 tín chỉ đại cương. Do đó, TTNT nặng hơn khoảng 2 tín chỉ.",
+    "metrics": {
+      "context_recall": true,
+      "context_precision": true,
+      "faithfulness": true,
+      "answer_correctness": true,
+      "multi_hop_reasoning": true
+    }
+  },
+  {
+    "question": "Để được làm khóa luận tốt nghiệp AI, một sinh viên phải tích lũy tối thiểu bao nhiêu tín chỉ trước đó?",
+    "ground_truth": "Sinh viên AI muốn làm Khóa luận tốt nghiệp (AI505 – 10 tín chỉ) phải đáp ứng điều kiện chung của trường: tích lũy đủ số tín chỉ để được xét tốt nghiệp, thường là hoàn thành toàn bộ các môn trong chương trình trước học kỳ 7. Theo CTĐT AI, tổng số tín chỉ trước học kỳ 7 là khoảng 118 tín chỉ.",
+    "metrics": {
+      "context_recall": true,
+      "context_precision": true,
+      "faithfulness": true,
+      "answer_correctness": true,
+      "multi_hop_reasoning": true
+    }
+  },
+  {
+    "question": "Năm 2 ngành Trí Tuệ Nhân Tạo học những gì?",
+    "ground_truth": "Năm 2 gồm học kỳ 3 và 4. Học kỳ 3: Cơ sở dữ liệu, Hệ điều hành, Anh văn 3, Tư duy Trí tuệ nhân tạo, Toán cho KHMT (20 tín chỉ). Học kỳ 4: Nhập môn mạng máy tính, Phân tích và thiết kế thuật toán, Trí tuệ nhân tạo, Máy học, Triết học Mác – Lênin, Giáo dục thể chất (19 tín chỉ).",
+    "metrics": {
+      "context_recall": true,
+      "faithfulness": true,
+      "answer_correctness": true
+    }
+  },
+  {
+    "question": "Nếu sinh viên AI muốn theo NLP, phải học bắt buộc môn nào và tự chọn môn nào?",
+    "ground_truth": "Môn bắt buộc liên quan NLP: CS221 – Xử lý ngôn ngữ tự nhiên (chọn 1/4 trong nhóm AI & ML). Các môn tự chọn nâng cao NLP gồm: CS226 Ngôn ngữ học máy tính, CS222 Xử lý ngôn ngữ tự nhiên nâng cao, CS323 Các hệ thống hỏi đáp, CS321 Ngôn ngữ học ngữ liệu, CS325 Dịch máy.",
+    "metrics": {
+      "context_recall": true,
+      "context_precision": true,
+      "faithfulness": true,
+      "answer_correctness": true,
+      "multi_hop_reasoning": true
+    }
+  },
+  {
+    "question": "Một sinh viên CNTT muốn tốt nghiệp bằng chuyên đề + đồ án cần tích lũy bao nhiêu tín chỉ chuyên ngành trước đó?",
+    "ground_truth": "Chương trình CNTT không quy định rõ số tín chỉ chuyên ngành cần hoàn thành trước khi làm chuyên đề + đồ án. Tuy nhiên, điều kiện tốt nghiệp yêu cầu sinh viên phải tích lũy tối thiểu 125 tín chỉ và hoàn thành toàn bộ các môn bắt buộc, nên sinh viên phải hoàn thành hầu hết khối chuyên ngành trước khi làm chuyên đề và đồ án.",
+    "metrics": {
+      "context_recall": true,
+      "context_precision": true,
+      "faithfulness": true,
+      "answer_correctness": true,
+      "multi_hop_reasoning": true
+    }
+  },
+  {
+    "question": "Yêu cấu về toán của ngành công nghệ thông tin và trí tuệ nhân tạo khác nhau như thế nào?",
+    "ground_truth": "Ngành TTNT có yêu cầu toán cao hơn với các môn: Giải tích, Đại số tuyến tính, Cấu trúc rời rạc, Xác suất thống kê, Toán cho Khoa học máy tính. CNTT có yêu cầu toán cơ bản hơn, chủ yếu gồm giải tích, đại số tuyến tính và xác suất thống kê. Vì vậy, TTNT có mức độ toán nặng và sâu hơn.",
+    "metrics": {
+      "context_recall": true,
+      "context_precision": true,
+      "faithfulness": true,
+      "answer_correctness": true,
+      "multi_hop_reasoning": true
+    }
+  },
+  {
+    "question": "Nếu một sinh viên TTNT muốn theo hướng IoT, cần chọn các môn tự chọn liên ngành nào phù hợp?",
+    "ground_truth": "Sinh viên AI theo hướng IoT nên chọn các môn liên ngành thuộc Kỹ thuật máy tính: CE340 – Trí tuệ nhân tạo cho hệ thống nhúng và CE344 – Trí tuệ nhân tạo cho IoT.",
+    "metrics": {
+      "context_recall": true,
+      "context_precision": true,
+      "faithfulness": true,
+      "answer_correctness": true,
+      "multi_hop_reasoning": true
+    }
+  },
+  {
+    "question": "Sinh viên CNTT cần học tối thiểu bao nhiêu tín chỉ phần 2 cơ sở ngành?",
+    "ground_truth": "Trong CTĐT CNTT, khối cơ sở ngành không phân chia thành phần 1 và phần 2 một cách tường minh nên không có số tín chỉ ‘phần 2’ được công bố. Do đó không có con số tín chỉ tối thiểu riêng cho phần 2.",
+    "metrics": {
+      "context_recall": true,
+      "context_precision": true,
+      "faithfulness": true,
+      "answer_correctness": true,
+      "multi_hop_reasoning": true
+    }
+  },
+  {
+    "question": "Nếu sinh viên AI chọn Đồ án tốt nghiệp + chuyên đề, tổng bằng bao nhiêu tín chỉ?",
+    "ground_truth": "Đồ án tốt nghiệp có 6 tín chỉ và chuyên đề tốt nghiệp có 4 tín chỉ. Nếu sinh viên chọn dạng này, tổng là 10 tín chỉ.",
+    "metrics": {
+      "context_recall": true,
+      "context_precision": true,
+      "faithfulness": true,
+      "answer_correctness": true,
+      "multi_hop_reasoning": true
+    }
+  },
+  {
+    "question": "Môn xử lý tiếng nói có bao nhiêu tín chỉ nên học vào học kì nào?",
+    "ground_truth": "Môn xử lý tiếng nói là CS337 – Xử lý âm thanh và tiếng nói, có 4 tín chỉ. Đây là môn tự chọn nâng cao và thường được học vào năm 3 hoặc năm 4 khi sinh viên đã hoàn thành nền tảng AI và ML.",
+    "metrics": {
+      "context_recall": true,
+      "context_precision": true,
+      "faithfulness": true,
+      "answer_correctness": true,
+      "multi_hop_reasoning": true
+    }
+  },
+  {
+    "question": "Sinh viên CNTT muốn theo hướng Khoa học thông tin phải hoàn thành tối thiểu bao nhiêu tín chỉ nhóm đó?",
+    "ground_truth": "Ngành CNTT không chia thành chuyên ngành đủ mạnh theo từng hướng, nhưng sinh viên theo hướng Khoa học thông tin thường học nhóm các môn tự chọn liên quan. CTĐT không quy định số tín chỉ tối thiểu cho riêng nhóm này nên không có con số bắt buộc.",
+    "metrics": {
+      "context_recall": true,
+      "context_precision": true,
+      "faithfulness": true,
+      "answer_correctness": true,
+      "multi_hop_reasoning": true
+    }
+  }
+]

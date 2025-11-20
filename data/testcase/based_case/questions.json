@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Một sinh viên năm 3 AI muốn làm đề tài IoT + Edge AI cần học tối thiểu những môn nào trong tự chọn liên ngành?",
+    "metrics": {
+      "faithfulness": true,
+      "reasoning_quality": true,
+      "context_recall": true,
+      "planning_quality": true
+    },
+    "ground_truth": "Các môn tối thiểu thuộc tự chọn liên ngành hỗ trợ IoT + Edge AI trong CTĐT TTNT gồm: CE340 (Trí tuệ nhân tạo cho hệ thống nhúng - 4 TC) và CE344 (Trí tuệ nhân tạo cho IoT - 4 TC). Đây là hai môn đúng chuyên đề Edge AI/IoT được liệt kê trong danh mục tự chọn liên ngành của ngành TTNT."
+  },
+  {
+    "question": "Một sinh viên CNTT muốn chuyển hướng sang Data Science thì nên chọn các môn nào trong chuyên ngành?",
+    "metrics": {
+      "faithfulness": true,
+      "reasoning_quality": true,
+      "context_recall": true,
+      "planning_quality": true
+    },
+    "ground_truth": "Trong CTĐT CNTT, để chuyển hướng Data Science, sinh viên nên ưu tiên nhóm môn thuộc hướng Khoa học thông tin: IE201 (Xử lý dữ liệu thống kê), IE221 (Kỹ thuật lập trình Python), DS108 (Tiền xử lý và xây dựng bộ dữ liệu), IE313 (Phân tích và trực quan dữ liệu), IE212 (Công nghệ dữ liệu lớn), DS317 (Khai phá dữ liệu trong doanh nghiệp), DS307 (Phân tích dữ liệu truyền thông xã hội). Các môn này nằm trong phần chuyên ngành của CNTT."
+  },
+  {
+    "question": "Một sinh viên AI muốn đi thực tập doanh nghiệp tại kỳ 7 thì cần chuẩn bị học kỳ trước gì?",
+    "metrics": {
+      "faithfulness": true,
+      "reasoning_quality": true,
+      "context_recall": true,
+      "planning_quality": true
+    },
+    "ground_truth": "Để đi thực tập/doanh nghiệp hoặc đồ án tại doanh nghiệp trong kỳ 7, sinh viên TTNT cần hoàn thành gần như toàn bộ khối cơ sở ngành (≥57 TC), khối tự chọn ngành (≥8 TC), tự chọn liên ngành (≥8 TC). Thực tế, CTĐT thiết kế để HK7 chỉ còn tốt nghiệp, nên sinh viên phải hoàn thành hết các môn từ HK1–6 (như CS106, CS114, AI002, CS221/CS231/CS214...), chỉ còn lại 10 tín chỉ tốt nghiệp trong HK7."
+  },
+  {
+    "question": "Một sinh viên CNTT muốn tốt nghiệp sớm hơn 8 học kỳ thì cần hoàn thành tối thiểu những nhóm môn nào trước?",
+    "metrics": {
+      "faithfulness": true,
+      "reasoning_quality": true,
+      "context_recall": true,
+      "planning_quality": true
+    },
+    "ground_truth": "Để tốt nghiệp sớm CNTT, sinh viên phải hoàn thành đủ 125 tín chỉ gồm: (1) Khối đại cương 45 TC (Toán–Tin–KHTN, LLCT, ngoại ngữ), (2) Khối cơ sở ngành 44 TC, (3) Khối chuyên ngành tối thiểu 26 TC (trong đó phải lấy 6–10 TC từ nhóm bắt buộc chuyên ngành), (4) Khối tốt nghiệp (10 TC) theo một trong ba hình thức. Điều kiện ràng buộc: phải học đủ các môn tiên quyết như IT002, IT003, IT004, IT005, IT012, IT007… trước khi vào các môn chuyên ngành."
+  },
+  {
+    "question": "Sinh viên AI muốn làm mô hình NLP cần học những môn nào trong core và tự chọn ngành?",
+    "metrics": {
+      "faithfulness": true,
+      "reasoning_quality": true,
+      "context_recall": true,
+      "planning_quality": true
+    },
+    "ground_truth": "Môn core liên quan NLP: CS221 (Xử lý ngôn ngữ tự nhiên). Môn tự chọn ngành phù hợp NLP gồm: CS222 (Xử lý ngôn ngữ tự nhiên nâng cao), CS229 (Ngữ nghĩa học tính toán), CS226 (Ngôn ngữ học máy tính), CS323 (Các hệ thống hỏi–đáp), CS321 (Ngôn ngữ học ngữ liệu), CS325 (Dịch máy), CS337 (Xử lý âm thanh & tiếng nói), CS535 (Tổng hợp tiếng nói)."
+  },
+  {
+    "question": "Sinh viên CNTT muốn chuẩn bị cho Big Data phải học theo lộ trình nào?",
+    "metrics": {
+      "faithfulness": true,
+      "reasoning_quality": true,
+      "context_recall": true,
+      "planning_quality": true
+    },
+    "ground_truth": "Lộ trình Big Data theo CTĐT CNTT: (1) Nền tảng: IT002, IT003, IT004, IT005, IT012, IT007. (2) Môn đại cương hỗ trợ: MA005 (Xác suất thống kê), MA004 (Cấu trúc rời rạc). (3) Chuyên ngành hướng Khoa học thông tin: IE221 (Python), DS108 (Tiền xử lý dữ liệu), IE313 (Trực quan dữ liệu), IE212 (Công nghệ dữ liệu lớn), DS317 (Khai phá dữ liệu). (4) Mở rộng: DS307 (Phân tích dữ liệu mạng xã hội) hoặc DS323 (Viết báo cáo kỹ thuật)."
+  },
+  {
+    "question": "Một sinh viên AI theo hướng Vision phải chọn tối thiểu bao nhiêu môn tự chọn ngành?",
+    "metrics": {
+      "faithfulness": true,
+      "reasoning_quality": true,
+      "context_recall": true,
+      "planning_quality": true
+    },
+    "ground_truth": "CTĐT quy định tối thiểu 8 tín chỉ tự chọn ngành. Với hướng Vision, sinh viên nên chọn ít nhất 2 môn (mỗi môn 4 TC) như: CS331 (Thị giác máy tính nâng cao), CS532 (Thị giác máy tính trong tương tác người–máy), CS338 (Nhận dạng), CS406 (Xử lý ảnh)."
+  },
+  {
+    "question": "Sinh viên CNTT rớt IE108 nhưng muốn học IE307 có được không? Cần điều kiện gì?",
+    "metrics": {
+      "faithfulness": true,
+      "reasoning_quality": true,
+      "context_recall": true,
+      "planning_quality": true
+    },
+    "ground_truth": "IE307 (Công nghệ lập trình đa nền tảng cho ứng dụng di động) thuộc hướng Web & Mobile. CTĐT CNTT không ghi IE108 (Phân tích thiết kế phần mềm) là môn tiên quyết của IE307. Vì vậy rớt IE108 vẫn có thể đăng ký IE307 TRỪ KHI khoa quy định điều kiện riêng từng học kỳ. Về mặt chương trình, IE307 không yêu cầu IE108 là học phần trước."
+  },
+  {
+    "question": "Một sinh viên AI muốn thay khóa luận bằng chuyên đề cần đăng ký bao nhiêu tín chỉ?",
+    "metrics": {
+      "faithfulness": true,
+      "reasoning_quality": true,
+      "context_recall": true,
+      "planning_quality": true
+    },
+    "ground_truth": "Theo CTĐT TTNT: Nếu không làm khóa luận (10 TC), sinh viên có thể chọn hình thức: Đồ án tốt nghiệp (6 TC) + Một môn chuyên đề tốt nghiệp (4 TC). Tổng vẫn là tối thiểu 10 TC."
+  },
+  {
+    "question": "Kế hoạch 2 năm đầu cho sinh viên AI muốn có nền tảng vững: liệt kê thứ tự môn theo từng học kỳ.",
+    "metrics": {
+      "faithfulness": true,
+      "reasoning_quality": true,
+      "context_recall": true,
+      "planning_quality": true
+    },
+    "ground_truth": "Theo CTĐT TTNT: HK1: IT001, MA006, MA003, AI001, ENG01, SS004, SS006. HK2: IT002, IT003, IT012, MA004, ENG02. HK3: IT004, IT005, MA005, ENG03, CS106. HK4: IT007, CS112, CS115, CS114, SS007, PE231. HK5: CS116, CS214/CS231/CS221 (chọn), SS008, SS009, PE232. HK6: Các môn còn lại của cơ sở ngành (CS311 hoặc SE104/CS111), SS010, tự chọn ngành/tự chọn liên ngành."
+  },
+  {
+    "question": "Một sinh viên CNTT muốn học thực tập quốc tế có thể chọn môn nào?",
+    "metrics": {
+      "faithfulness": true,
+      "reasoning_quality": true,
+      "context_recall": true,
+      "planning_quality": true
+    },
+    "ground_truth": "Trong CTĐT CNTT, môn thực tập quốc tế là INI01 (2 tín chỉ) thuộc nhóm tự chọn tự do."
+  },
+  {
+    "question": "Nếu sinh viên muốn đổi hướng từ CNTT sang TTNT bằng học song song, các môn trùng nhau là gì?",
+    "metrics": {
+      "faithfulness": true,
+      "reasoning_quality": true,
+      "context_recall": true,
+      "planning_quality": true
+    },
+    "ground_truth": "Các môn trùng giữa CNTT và TTNT gồm: IT001, IT002, IT003, IT004, IT005, IT012, IT007; các môn toán MA003, MA004, MA005, MA006; các môn đại cương LLCT; Anh văn 1–3; SS004; ME001; PE231–232. Những môn này được công nhận chéo khi học song song."
+  }
+]

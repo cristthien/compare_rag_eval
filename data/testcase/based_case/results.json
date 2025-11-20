@@ -1,0 +1,530 @@
+﻿[
+  {
+    "question_id": 0,
+    "ground_truth": "Các môn tối thiểu thuộc tự chọn liên ngành hỗ trợ IoT + Edge AI trong CTĐT TTNT gồm: CE340 (Trí tuệ nhân tạo cho hệ thống nhúng - 4 TC) và CE344 (Trí tuệ nhân tạo cho IoT - 4 TC). Đây là hai môn đúng chuyên đề Edge AI/IoT được liệt kê trong danh mục tự chọn liên ngành của ngành TTNT.",
+    "question": "Một sinh viên năm 3 AI muốn làm đề tài IoT + Edge AI cần học tối thiểu những môn nào trong tự chọn liên ngành?",
+    "answer": "Dựa trên ngữ cảnh được cung cấp, để một sinh viên năm 3 ngành Tự chọn liên ngành muốn làm đề tài IoT + Edge AI cần học tối thiểu 8 tín chỉ các môn tự chọn liên ngành. Sinh viên có thể lựa chọn các môn học liên ngành trong danh sách khuyến nghị (có bảng liệt kê các môn học khuyến nghị) hoặc các môn học cơ sở ngành và chuyên ngành trong các chương trình đào tạo đại học ngành khác của trường hoặc các chương trình đào tạo thạc sĩ của trường. Để biết danh sách chính xác các môn học khuyến nghị, bạn cần tham khảo Bảng 8 (nêu trong Document Title Kỹ Thuật Máy Tính - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.5 Mô tả các môn học mới và việc xét tương đương môn học).",
+    "contexts": [
+      {
+        "score": 13.257109,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 62,
+        "content": "\\- Các môn học **Chuyên đề tốt nghiệp định hướng hệ thống nhúng và IoT** (Mã MH: CE510) và **Chuyên đề tốt nghiệp định hướng Robotic và AI** (Mã MH: CE511) là các môn học bổ sung kiến thức và kỹ năng tốt nghiệp cần thiết cho sinh viên thực hiện Đồ án tốt nghiệp theo các định hướng. Sinh viên có thể tham gia các môn học khác thuộc nhóm tự chọn chuyên ngành (xem Bảng 8), các môn học thuộc khối kiến thức chuyên ngành của các CTĐT ngành KTMT ban hành trước năm 2024 hoặc các môn học mới (được ban",
+        "title": "Kỹ Thuật Máy Tính - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.5 Mô tả các môn học mới và việc xét tương đương môn học"
+      },
+      {
+        "score": 11.692,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 36,
+        "content": "| --- | --- | --- | --- | --- | --- | --- | --- |\n| 1 | CE\\*\\*\\* | Tự chọn chuyên ngành<br><br>_(Sinh viên chọn học các môn học tự chọn chuyên ngành trong **Bảng 8** để tích lũy tối thiểu 08 tín chỉ.)_ | Tự chọn | ≥8 | ≥6 | 2 | |\n| 2 | XX\\*\\*\\* | Tự chọn tự do<br><br>_(Sinh viên chọn học các môn học từ các ngành khác trình độ đại học, hoặc sau đại học trong Trường ĐH CNTT hoặc trường đại học khác (theo quy định) để tích lũy tối thiểu 06 tín chỉ.)_ | Tự chọn | ≥6 | ≥6 | 0 | |",
+        "title": "Kỹ Thuật Máy Tính - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.3 Khối kiến thức giáo dục chuyên nghiệp"
+      },
+      {
+        "score": 11.570135,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 57,
+        "content": "Để được công nhận tốt nghiệp và cấp bằng, sinh viên phải:\n1\\. Hoàn thành các môn học bắt buộc của chương trình đào tạo.\n2\\. Tích lũy tối thiểu **128** tín chỉ được phân bố theo các khối kiến thức sau:\n\\- Kiến thức giáo dục đại cương: tối thiểu 45 tín chỉ;\n\\- Kiến thức cơ sở ngành: tối thiểu 57 tín chỉ;\n\\- Kiến thức tự chọn ngành: tối thiểu 8 tín chỉ;\n\\- Kiến thức tự chọn liên ngành: tối thiểu 8 tín chỉ;\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.",
+        "title": "Trí Tuệ Nhân Tạo - 7\\. ĐIỀU KIỆN TỐT NGHIỆP"
+      },
+      {
+        "score": 11.570135,
+        "doc_id": "c4d95062-dd8b-4e3f-bcc6-bc4a741c481b",
+        "chunk_index": 57,
+        "content": "Để được công nhận tốt nghiệp và cấp bằng, sinh viên phải:\n1\\. Hoàn thành các môn học bắt buộc của chương trình đào tạo.\n2\\. Tích lũy tối thiểu **128** tín chỉ được phân bố theo các khối kiến thức sau:\n\\- Kiến thức giáo dục đại cương: tối thiểu 45 tín chỉ;\n\\- Kiến thức cơ sở ngành: tối thiểu 57 tín chỉ;\n\\- Kiến thức tự chọn ngành: tối thiểu 8 tín chỉ;\n\\- Kiến thức tự chọn liên ngành: tối thiểu 8 tín chỉ;\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.",
+        "title": "Trí Tuệ Nhân Tạo - 7\\. ĐIỀU KIỆN TỐT NGHIỆP"
+      },
+      {
+        "score": 11.146422,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 39,
+        "content": "| Và các môn học khác theo đề nghị của Khoa | | | | | | |\n#### 5.3.3 Các môn học tự chọn liên ngành\n\\- Tổng số tín chỉ cho các môn tự chọn liên ngành đạt tối thiểu **8** tín chỉ.\n\\- Sinh viên có thể chọn học:\no Các môn học liên ngành trong danh sách khuyến nghị được liệt kê trong bảng sau.\no Hoặc, các môn học cơ sở ngành và chuyên ngành trong các chương trình đào tạo đại học ngành khác của trường.\no Hoặc, các môn học trong các chương trình đào tạo thạc sĩ của trường.",
+        "title": "Trí Tuệ Nhân Tạo - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.3 Khối kiến thức giáo dục chuyên nghiệp"
+      }
+    ],
+    "processing_time": 21.76916193962097
+  },
+  {
+    "question_id": 1,
+    "ground_truth": "Trong CTĐT CNTT, để chuyển hướng Data Science, sinh viên nên ưu tiên nhóm môn thuộc hướng Khoa học thông tin: IE201 (Xử lý dữ liệu thống kê), IE221 (Kỹ thuật lập trình Python), DS108 (Tiền xử lý và xây dựng bộ dữ liệu), IE313 (Phân tích và trực quan dữ liệu), IE212 (Công nghệ dữ liệu lớn), DS317 (Khai phá dữ liệu trong doanh nghiệp), DS307 (Phân tích dữ liệu truyền thông xã hội). Các môn này nằm trong phần chuyên ngành của CNTT.",
+    "question": "Một sinh viên CNTT muốn chuyển hướng sang Data Science thì nên chọn các môn nào trong chuyên ngành?",
+    "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
+    "contexts": [
+      {
+        "score": 12.311996,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 43,
+        "content": "Sinh viên được chọn môn học chuyên ngành tự do sao cho **tổng số tín chỉ ³26.**&#x54;rong đó, sinh viên phải học các môn học thuộc danh mục 3.4.2.3 để **tích lũy tối thiểu 6 tín chỉ và tối đa 10 tín chỉ.**&#x43;ác môn học chuyên ngành bao gồm 02 hướng có vai trò như nhau, trong đó có một số môn thuộc 01 hướng sẽ được gom cụm. (Sinh viên có thể chọn các môn học thuộc cả 02 hướng, không nhất thiết cố định 01 hướng).\n#### **Hướng Truyền thông xã hội và công nghệ Web**",
+        "title": "Công Nghệ Thông Tin - **Khối kiến thức giáo dục chuyên nghiệp** - **Nhóm các môn học chuyên ngành**"
+      },
+      {
+        "score": 12.311996,
+        "doc_id": "0927bdf2-8a05-4a91-8396-e87f4e326323",
+        "chunk_index": 43,
+        "content": "Sinh viên được chọn môn học chuyên ngành tự do sao cho **tổng số tín chỉ ³26.**&#x54;rong đó, sinh viên phải học các môn học thuộc danh mục 3.4.2.3 để **tích lũy tối thiểu 6 tín chỉ và tối đa 10 tín chỉ.**&#x43;ác môn học chuyên ngành bao gồm 02 hướng có vai trò như nhau, trong đó có một số môn thuộc 01 hướng sẽ được gom cụm. (Sinh viên có thể chọn các môn học thuộc cả 02 hướng, không nhất thiết cố định 01 hướng).\n#### **Hướng Truyền thông xã hội và công nghệ Web**",
+        "title": "Công Nghệ Thông Tin - **Khối kiến thức giáo dục chuyên nghiệp** - **Nhóm các môn học chuyên ngành**"
+      },
+      {
+        "score": 11.885935,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 1,
+        "content": "Chương trình Cử nhân Công nghệ Thông tin đào tạo những cử nhân ngành Công nghệ thông tin có phẩm chất chính trị tốt, có đạo đức nghề nghiệp, có ý thức trách nhiệm tổ chức, và có sức khỏe tốt; nắm vững các kiến thức cơ bản và chuyên môn sâu về công nghệ thông tin (CNTT); đáp ứng các yêu cầu về nghiên cứu phát triển và ứng dụng công nghệ thông tin của xã hội; có năng lực tham mưu, tư vấn và có khả năng tổ chức thực hiện nhiệm vụ với tư cách của một chuyên viên trong lĩnh vực CNTT. Bên cạnh đó,",
+        "title": "Công Nghệ Thông Tin - **Mục tiêu đào tạo**"
+      },
+      {
+        "score": 11.885935,
+        "doc_id": "0927bdf2-8a05-4a91-8396-e87f4e326323",
+        "chunk_index": 1,
+        "content": "Chương trình Cử nhân Công nghệ Thông tin đào tạo những cử nhân ngành Công nghệ thông tin có phẩm chất chính trị tốt, có đạo đức nghề nghiệp, có ý thức trách nhiệm tổ chức, và có sức khỏe tốt; nắm vững các kiến thức cơ bản và chuyên môn sâu về công nghệ thông tin (CNTT); đáp ứng các yêu cầu về nghiên cứu phát triển và ứng dụng công nghệ thông tin của xã hội; có năng lực tham mưu, tư vấn và có khả năng tổ chức thực hiện nhiệm vụ với tư cách của một chuyên viên trong lĩnh vực CNTT. Bên cạnh đó,",
+        "title": "Công Nghệ Thông Tin - **Mục tiêu đào tạo**"
+      },
+      {
+        "score": 11.462676,
+        "doc_id": "3246194e-2da1-4393-a170-e43b36f54d33",
+        "chunk_index": 2,
+        "content": "− Người học có phẩm chất chính trị, đạo đức và sức khoẻ tốt, ý thức trách nhiệm nghề nghiệp, nắm vững những kiến thức nền tảng, chuyên sâu của ngành HTTT, có năng lực tổ chức, phát triển các ứng dụng CNTT hỗ trợ các hoạt động tác nghiệp và quản lý trong các tổ chức kinh tế, xã hội, rèn luyện kỹ năng phân tích, tổng hợp, lập giải pháp, kỹ năng nghề nghiệp, ngoại ngữ. Sinh viên tốt nghiệp có kiến thức chuyên môn vững vàng, năng lực sáng tạo và trình độ ngoại ngữ cao, làm việc hiệu quả trong cộng",
+        "title": "Hệ Thông Thông Tin - Chương Trình Tiên Tiến - 1\\. Mục tiêu đào tạo"
+      }
+    ],
+    "processing_time": 11.963655948638916
+  },
+  {
+    "question_id": 2,
+    "ground_truth": "Để đi thực tập/doanh nghiệp hoặc đồ án tại doanh nghiệp trong kỳ 7, sinh viên TTNT cần hoàn thành gần như toàn bộ khối cơ sở ngành (≥57 TC), khối tự chọn ngành (≥8 TC), tự chọn liên ngành (≥8 TC). Thực tế, CTĐT thiết kế để HK7 chỉ còn tốt nghiệp, nên sinh viên phải hoàn thành hết các môn từ HK1–6 (như CS106, CS114, AI002, CS221/CS231/CS214...), chỉ còn lại 10 tín chỉ tốt nghiệp trong HK7.",
+    "question": "Một sinh viên AI muốn đi thực tập doanh nghiệp tại kỳ 7 thì cần chuẩn bị học kỳ trước gì?",
+    "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
+    "contexts": [
+      {
+        "score": 16.278727,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 58,
+        "content": "\\- Môn học**Đồ án** **tốt nghiệp tại doanh nghiệp** (Mã MH: CE507) được xét tương đương là phương thức hai để thay thế môn học Khóa luận tốt nghiệp (Mã MH: CE505) (theo Quyết định số 697/QĐ-ĐHCNTT ngày 12/7/2024 về môn học Đồ án tốt nghiệp tại doanh nghiệp). Khi đăng ký nơi thực hiện cho môn học này, sinh viên cần chọn các công ty có ký kết hợp tác chính thức với Khoa KTMT hoặc Trường ĐH CNTT và cần tham vấn ý kiến trực tiếp từ cố vấn học tập hoặc giáo vụ khoa. Sinh viên có thể tham khảo danh",
+        "title": "Kỹ Thuật Máy Tính - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.5 Mô tả các môn học mới và việc xét tương đương môn học"
+      },
+      {
+        "score": 14.516591,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 59,
+        "content": "giáo vụ khoa. Sinh viên có thể tham khảo danh sách các đối tác của Khoa KTMT và Trường ĐH CNTT trong **Phụ lục 2** . Thời gian thực hiện môn học này tại doanh nghiệp là từ 4-6 tháng (khuyến khích 6 tháng) để đảm bảo số giờ tối thiểu theo quy định. Sinh viên nên có kế hoạch đăng ký môn Thực tập doanh nghiệp và Đồ án tốt nghiệp tại doanh nghiệp trong cùng một học kỳ hoặc hai học kỳ liên tiếp để thuận tiện cho việc thực hiện.",
+        "title": "Kỹ Thuật Máy Tính - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.5 Mô tả các môn học mới và việc xét tương đương môn học"
+      },
+      {
+        "score": 13.160356,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 62,
+        "content": "\\- Các môn học **Chuyên đề tốt nghiệp định hướng hệ thống nhúng và IoT** (Mã MH: CE510) và **Chuyên đề tốt nghiệp định hướng Robotic và AI** (Mã MH: CE511) là các môn học bổ sung kiến thức và kỹ năng tốt nghiệp cần thiết cho sinh viên thực hiện Đồ án tốt nghiệp theo các định hướng. Sinh viên có thể tham gia các môn học khác thuộc nhóm tự chọn chuyên ngành (xem Bảng 8), các môn học thuộc khối kiến thức chuyên ngành của các CTĐT ngành KTMT ban hành trước năm 2024 hoặc các môn học mới (được ban",
+        "title": "Kỹ Thuật Máy Tính - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.5 Mô tả các môn học mới và việc xét tương đương môn học"
+      },
+      {
+        "score": 12.616872,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 5,
+        "content": "\\- **Mục tiêu về nhận thức (hay kiến thức) và lập luận ngành (PLO1)** : trang bị kiến thức nền tảng về khoa học tự nhiên, khoa học xã hội và các kiến thức chuyên sâu của ngành KTMT; khả năng vận dụng kiến thức để giải quyết vấn đề thực tế của ngành KTMT.\n\\- **Mục tiêu về kỹ năng làm việc (PLO2)**: trang bị các kỹ năng làm việc cá nhân, làm việc nhóm hiệu quả trong những ngữ cảnh chuyên ngành nhất định của lĩnh vực KTMT.",
+        "title": "Kỹ Thuật Máy Tính - 1\\. GIỚI THIỆU CHUNG - 1.1 Mục tiêu đào tạo"
+      },
+      {
+        "score": 12.255628,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 53,
+        "content": "\\- Các môn học **Chuyên đề thiết kế hệ thống nhúng 1** (Mã MH: CE437), **Chuyên đề thiết kế hệ thống nhúng 2** (Mã MH: CE438), **Chuyên đề thiết kế Robotics và AI 1** (Mã MH: CE441), **Chuyên đề thiết kế Robotics và AI 2** (Mã MH: CE442) là các môn học được mở theo từng học kỳ, có nội dung được cập nhật phù hợp với xu thế phát triển công, nhu cầu lao động của xã hội hoặc trang bị thêm kiến thức cần thiết cho sinh viên theo từng định hướng. Sinh viên có thể tham gia các môn học thuộc nhóm tự",
+        "title": "Kỹ Thuật Máy Tính - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.5 Mô tả các môn học mới và việc xét tương đương môn học"
+      }
+    ],
+    "processing_time": 13.575519800186157
+  },
+  {
+    "question_id": 3,
+    "ground_truth": "Để tốt nghiệp sớm CNTT, sinh viên phải hoàn thành đủ 125 tín chỉ gồm: (1) Khối đại cương 45 TC (Toán–Tin–KHTN, LLCT, ngoại ngữ), (2) Khối cơ sở ngành 44 TC, (3) Khối chuyên ngành tối thiểu 26 TC (trong đó phải lấy 6–10 TC từ nhóm bắt buộc chuyên ngành), (4) Khối tốt nghiệp (10 TC) theo một trong ba hình thức. Điều kiện ràng buộc: phải học đủ các môn tiên quyết như IT002, IT003, IT004, IT005, IT012, IT007… trước khi vào các môn chuyên ngành.",
+    "question": "Một sinh viên CNTT muốn tốt nghiệp sớm hơn 8 học kỳ thì cần hoàn thành tối thiểu những nhóm môn nào trước?",
+    "answer": "Để đáp ứng yêu cầu tốt nghiệp sớm hơn 8 học kỳ (tức là tích lũy tín chỉ nhanh hơn), sinh viên Cử nhân Công nghệ Thông tin cần chú ý đến các nhóm môn sau:\n\n| Nhóm Môn           | Tín Chỉ |\n|--------------------|---------|\n| Kiến thức giáo dục đại cương | 45       |\n| Kiến thức cơ sở ngành   | 57       |\n| Kiến thức tự chọn ngành | 8        |\n| Kiến thức tốt nghiệp   | 10       |\n| **Tổng cộng**         | **128**  |\n\n**Lưu ý:** Sinh viên cần tích lũy tối thiểu 128 tín chỉ, bao gồm các khối kiến thức đã nêu trên.",
+    "contexts": [
+      {
+        "score": 12.365612,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 57,
+        "content": "Để được công nhận tốt nghiệp và cấp bằng, sinh viên phải:\n1\\. Hoàn thành các môn học bắt buộc của chương trình đào tạo.\n2\\. Tích lũy tối thiểu **128** tín chỉ được phân bố theo các khối kiến thức sau:\n\\- Kiến thức giáo dục đại cương: tối thiểu 45 tín chỉ;\n\\- Kiến thức cơ sở ngành: tối thiểu 57 tín chỉ;\n\\- Kiến thức tự chọn ngành: tối thiểu 8 tín chỉ;\n\\- Kiến thức tự chọn liên ngành: tối thiểu 8 tín chỉ;\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.",
+        "title": "Trí Tuệ Nhân Tạo - 7\\. ĐIỀU KIỆN TỐT NGHIỆP"
+      },
+      {
+        "score": 12.365612,
+        "doc_id": "c4d95062-dd8b-4e3f-bcc6-bc4a741c481b",
+        "chunk_index": 57,
+        "content": "Để được công nhận tốt nghiệp và cấp bằng, sinh viên phải:\n1\\. Hoàn thành các môn học bắt buộc của chương trình đào tạo.\n2\\. Tích lũy tối thiểu **128** tín chỉ được phân bố theo các khối kiến thức sau:\n\\- Kiến thức giáo dục đại cương: tối thiểu 45 tín chỉ;\n\\- Kiến thức cơ sở ngành: tối thiểu 57 tín chỉ;\n\\- Kiến thức tự chọn ngành: tối thiểu 8 tín chỉ;\n\\- Kiến thức tự chọn liên ngành: tối thiểu 8 tín chỉ;\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.",
+        "title": "Trí Tuệ Nhân Tạo - 7\\. ĐIỀU KIỆN TỐT NGHIỆP"
+      },
+      {
+        "score": 11.296987,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 46,
+        "content": "\\- Trong trường hợp sinh viên đủ điều kiện làm Khóa luận tốt nghiệp nhưng không muốn làm, hoặc sinh viên không đủ điều kiện làm Khóa luận tốt nghiệp thì sinh viên có thể đăng ký môn học hoặc nhóm môn học thay thế cho Khóa luận tốt nghiệp trong **_Bảng 10_** để tích lũy 10 tín chỉ.\n**_Bảng 10: Danh sách nhóm môn học thay thế Khóa luận tốt nghiệp_**\n| **STT** | **Mã MH** | **Tên môn học** | **TC** | **LT** | **TH** |",
+        "title": "Kỹ Thuật Máy Tính - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.4 Khối kiến thức tốt nghiệp"
+      },
+      {
+        "score": 11.163519,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 99,
+        "content": "Công nhận tốt nghiệp:\n– Sinh viên đã tích lũy **tối thiểu 128 tín chỉ**, đã hoàn thành các môn học bắt buộc của chương trình đào tạo tương ứng với **định hướng ngành phù hợp.**\n– Ngoài ra, sinh viên phải đáp ứng đủ các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công nghệ Thông Tin.",
+        "title": "Kỹ Thuật Máy Tính - 7\\. ĐIỀU KIỆN TỐT NGHIỆP"
+      },
+      {
+        "score": 11.049624,
+        "doc_id": "3246194e-2da1-4393-a170-e43b36f54d33",
+        "chunk_index": 17,
+        "content": "\\- Công nhận tốt nghiệp: Sinh viên đã tích lũy tối thiểu là 130 tín chỉ, đã hoàn thành các môn học bắt buộc đối với ngành Hệ thống thông tin Chương trình đào tạo tiên tiến, trình độ Anh văn đạt yêu cầu theo quy định của Trường dành riêng cho chương trình tiên tiến.\n\\- Sinh viên phải đáp ứng đủ các tiêu chuẩn khác theo Quy chế đào tạo hiện hành.\n\\- Sinh viên tốt nghiệp được cấp bằng: Cử nhân Hệ thống thông tin – chương trình đào tạo tiên tiến.",
+        "title": "Hệ Thông Thông Tin - Chương Trình Tiên Tiến - 4\\. Quy định đào tạo, điều kiện tốt nghiệp - Điều kiện tốt nghiệp"
+      }
+    ],
+    "processing_time": 15.46655821800232
+  },
+  {
+    "question_id": 4,
+    "ground_truth": "Môn core liên quan NLP: CS221 (Xử lý ngôn ngữ tự nhiên). Môn tự chọn ngành phù hợp NLP gồm: CS222 (Xử lý ngôn ngữ tự nhiên nâng cao), CS229 (Ngữ nghĩa học tính toán), CS226 (Ngôn ngữ học máy tính), CS323 (Các hệ thống hỏi–đáp), CS321 (Ngôn ngữ học ngữ liệu), CS325 (Dịch máy), CS337 (Xử lý âm thanh & tiếng nói), CS535 (Tổng hợp tiếng nói).",
+    "question": "Sinh viên AI muốn làm mô hình NLP cần học những môn nào trong core và tự chọn ngành?",
+    "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
+    "contexts": [
+      {
+        "score": 9.269385,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 46,
+        "content": "\\- Trong trường hợp sinh viên đủ điều kiện làm Khóa luận tốt nghiệp nhưng không muốn làm, hoặc sinh viên không đủ điều kiện làm Khóa luận tốt nghiệp thì sinh viên có thể đăng ký môn học hoặc nhóm môn học thay thế cho Khóa luận tốt nghiệp trong **_Bảng 10_** để tích lũy 10 tín chỉ.\n**_Bảng 10: Danh sách nhóm môn học thay thế Khóa luận tốt nghiệp_**\n| **STT** | **Mã MH** | **Tên môn học** | **TC** | **LT** | **TH** |",
+        "title": "Kỹ Thuật Máy Tính - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.4 Khối kiến thức tốt nghiệp"
+      },
+      {
+        "score": 8.9746,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 45,
+        "content": "Tổng cộng: **12** tín chỉ.\n\\- Sinh viên đăng ký môn học Khóa luận tốt nghiệp (Mã môn học CE505) phải đáp ứng đủ các điều kiện theo quy định của Trường ĐH CNTT về việc làm khóa luận tốt nghiệp. Trong trường hợp sinh viên chưa đủ điều kiện theo quy định nhưng muốn làm Khóa luận tốt nghiệp thì phải nộp đơn theo quy định.",
+        "title": "Kỹ Thuật Máy Tính - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.4 Khối kiến thức tốt nghiệp"
+      },
+      {
+        "score": 8.318974,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 39,
+        "content": "| --- | --- | --- | --- | --- | --- | --- | --- |\n| **Nhóm môn học định hướng Hệ thống nhúng và IoT** | | | | | | | |\n| 1 | CE232 | Thiết kế hệ thống nhúng không dây | Tự chọn | 4 | 3 | 1 | |\n| 2 | CE439 | Lập trình song song và Hệ thống phân tán | Tự chọn | 4 | 3 | 1 | |\n| 3 | CE339 | Công nghệ IoT và Ứng dụng | Tự chọn | 4 | 3 | 1 | |\n| 4 | CE340 | Trí tuệ nhân tạo cho hệ thống nhúng | Tự chọn | 4 | 3 | 1 | |\n| 5 | CE410 | Kỹ thuật hệ thống máy tính | Tự chọn | 4 | 3 | 1 | |",
+        "title": "Kỹ Thuật Máy Tính - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.3 Khối kiến thức giáo dục chuyên nghiệp"
+      },
+      {
+        "score": 8.310318,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 40,
+        "content": "o Hoặc, các môn học tự chọn ngành Trí tuệ nhân tạo, nếu các môn học này chưa được tính trong khối kiến thức tự chọn ngành.\no Hoặc, các môn học chuyên đề tốt nghiệp ngành Trí tuệ nhân tạo, nếu các môn học này chưa được tính trong khối kiến thức tốt nghiệp.",
+        "title": "Trí Tuệ Nhân Tạo - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.3 Khối kiến thức giáo dục chuyên nghiệp"
+      },
+      {
+        "score": 8.310318,
+        "doc_id": "c4d95062-dd8b-4e3f-bcc6-bc4a741c481b",
+        "chunk_index": 40,
+        "content": "o Hoặc, các môn học tự chọn ngành Trí tuệ nhân tạo, nếu các môn học này chưa được tính trong khối kiến thức tự chọn ngành.\no Hoặc, các môn học chuyên đề tốt nghiệp ngành Trí tuệ nhân tạo, nếu các môn học này chưa được tính trong khối kiến thức tốt nghiệp.",
+        "title": "Trí Tuệ Nhân Tạo - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.3 Khối kiến thức giáo dục chuyên nghiệp"
+      }
+    ],
+    "processing_time": 10.680157899856567
+  },
+  {
+    "question_id": 5,
+    "ground_truth": "Lộ trình Big Data theo CTĐT CNTT: (1) Nền tảng: IT002, IT003, IT004, IT005, IT012, IT007. (2) Môn đại cương hỗ trợ: MA005 (Xác suất thống kê), MA004 (Cấu trúc rời rạc). (3) Chuyên ngành hướng Khoa học thông tin: IE221 (Python), DS108 (Tiền xử lý dữ liệu), IE313 (Trực quan dữ liệu), IE212 (Công nghệ dữ liệu lớn), DS317 (Khai phá dữ liệu). (4) Mở rộng: DS307 (Phân tích dữ liệu mạng xã hội) hoặc DS323 (Viết báo cáo kỹ thuật).",
+    "question": "Sinh viên CNTT muốn chuẩn bị cho Big Data phải học theo lộ trình nào?",
+    "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
+    "contexts": [
+      {
+        "score": 11.253608,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 12,
+        "content": "Chuẩn đầu ra (Learning Outcomes – LO) của CTĐT bao gồm những chuẩn đầu ra chung dưới đây, được tham chiếu theo Khung trình độ quốc gia Việt Nam, chuẩn đầu ra của ABET 2021-2022, Bộ năng lực SV tốt nghiệp ĐHQG ban hành theo quyết định 1658/QĐ-ĐHQG năm 2020 (GAC), Tầm nhìn - sứ mạng- Triết lý giáo dục của Trường ĐHCNTT.\nSinh viên tốt nghiệp chương trình đào tạo Cử nhân chính quy ngành Công nghệ thông tin phải đáp ứng các yêu cầu về chuẩn đầu ra (CĐR) sau:",
+        "title": "Công Nghệ Thông Tin - **Chuẩn đầu ra**"
+      },
+      {
+        "score": 11.253608,
+        "doc_id": "0927bdf2-8a05-4a91-8396-e87f4e326323",
+        "chunk_index": 12,
+        "content": "Chuẩn đầu ra (Learning Outcomes – LO) của CTĐT bao gồm những chuẩn đầu ra chung dưới đây, được tham chiếu theo Khung trình độ quốc gia Việt Nam, chuẩn đầu ra của ABET 2021-2022, Bộ năng lực SV tốt nghiệp ĐHQG ban hành theo quyết định 1658/QĐ-ĐHQG năm 2020 (GAC), Tầm nhìn - sứ mạng- Triết lý giáo dục của Trường ĐHCNTT.\nSinh viên tốt nghiệp chương trình đào tạo Cử nhân chính quy ngành Công nghệ thông tin phải đáp ứng các yêu cầu về chuẩn đầu ra (CĐR) sau:",
+        "title": "Công Nghệ Thông Tin - **Chuẩn đầu ra**"
+      },
+      {
+        "score": 10.097351,
+        "doc_id": "3246194e-2da1-4393-a170-e43b36f54d33",
+        "chunk_index": 17,
+        "content": "\\- Công nhận tốt nghiệp: Sinh viên đã tích lũy tối thiểu là 130 tín chỉ, đã hoàn thành các môn học bắt buộc đối với ngành Hệ thống thông tin Chương trình đào tạo tiên tiến, trình độ Anh văn đạt yêu cầu theo quy định của Trường dành riêng cho chương trình tiên tiến.\n\\- Sinh viên phải đáp ứng đủ các tiêu chuẩn khác theo Quy chế đào tạo hiện hành.\n\\- Sinh viên tốt nghiệp được cấp bằng: Cử nhân Hệ thống thông tin – chương trình đào tạo tiên tiến.",
+        "title": "Hệ Thông Thông Tin - Chương Trình Tiên Tiến - 4\\. Quy định đào tạo, điều kiện tốt nghiệp - Điều kiện tốt nghiệp"
+      },
+      {
+        "score": 9.296594,
+        "doc_id": "3246194e-2da1-4393-a170-e43b36f54d33",
+        "chunk_index": 6,
+        "content": "Chuẩn đầu ra (Learning Outcomes – LO) của CTĐT bao gồm những chuẩn đầu ra chung dưới đây, được tham chiếu với chuẩn đầu ra của ABET 2021-2022 và Bộ năng lực SV tốt nghiệp ĐHQG ban hành theo quyết định 1658/QĐ-ĐHQG năm 2020 (GAC).\nSinh viên tốt nghiệp chương trình đào tạo Cử nhân tiên tiến ngành Hệ thống thông tin đáp ứng các yêu cầu về chuẩn đầu ra (CĐR) sau:",
+        "title": "Hệ Thông Thông Tin - Chương Trình Tiên Tiến - 3\\. Chuẩn đầu ra của chương trình đào tạo"
+      },
+      {
+        "score": 8.481581,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 15,
+        "content": "Chuẩn đầu ra của CTĐT (Program Learning Outcome – viết tắt là PLO hoặc LO) bao gồm những chuẩn đầu ra chung dưới đây, được tham chiếu theo Khung trình độ quốc gia Việt Nam, chuẩn đầu ra của ABET 2021-2022, Bộ năng lực Sinh viên tốt nghiệp ĐHQG ban hành theo quyết định 1658/QĐ-ĐHQG năm 2020 (GAC), Tầm nhìn - sứ mạng- Triết lý giáo dục của Trường ĐHCNTT và của Khoa Khoa học máy tính.\nSinh viên tốt nghiệp chương trình đào tạo cử nhân chính quy ngành Trí tuệ nhân tạo đạt những chuẩn đầu ra sau:",
+        "title": "Trí Tuệ Nhân Tạo - 4\\. CHUẨN ĐẦU RA"
+      }
+    ],
+    "processing_time": 11.150434732437134
+  },
+  {
+    "question_id": 6,
+    "ground_truth": "CTĐT quy định tối thiểu 8 tín chỉ tự chọn ngành. Với hướng Vision, sinh viên nên chọn ít nhất 2 môn (mỗi môn 4 TC) như: CS331 (Thị giác máy tính nâng cao), CS532 (Thị giác máy tính trong tương tác người–máy), CS338 (Nhận dạng), CS406 (Xử lý ảnh).",
+    "question": "Một sinh viên AI theo hướng Vision phải chọn tối thiểu bao nhiêu môn tự chọn ngành?",
+    "answer": "Dựa trên ngữ cảnh được cung cấp, sinh viên Cử nhân Công nghệ Thông tin theo hướng Trí tuệ Nhân tạo phải tích lũy tối thiểu 8 tín chỉ kiến thức tự chọn ngành để đáp ứng điều kiện tốt nghiệp.\n\n**Bảng tóm tắt:**\n\n| Yêu cầu                               | Giá trị     |\n| ------------------------------------ | ----------- |\n| Tín chỉ tự chọn ngành (tối thiểu)      | 8 tín chỉ   |",
+    "contexts": [
+      {
+        "score": 15.758447,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 43,
+        "content": "Sinh viên được chọn môn học chuyên ngành tự do sao cho **tổng số tín chỉ ³26.**&#x54;rong đó, sinh viên phải học các môn học thuộc danh mục 3.4.2.3 để **tích lũy tối thiểu 6 tín chỉ và tối đa 10 tín chỉ.**&#x43;ác môn học chuyên ngành bao gồm 02 hướng có vai trò như nhau, trong đó có một số môn thuộc 01 hướng sẽ được gom cụm. (Sinh viên có thể chọn các môn học thuộc cả 02 hướng, không nhất thiết cố định 01 hướng).\n#### **Hướng Truyền thông xã hội và công nghệ Web**",
+        "title": "Công Nghệ Thông Tin - **Khối kiến thức giáo dục chuyên nghiệp** - **Nhóm các môn học chuyên ngành**"
+      },
+      {
+        "score": 15.758447,
+        "doc_id": "0927bdf2-8a05-4a91-8396-e87f4e326323",
+        "chunk_index": 43,
+        "content": "Sinh viên được chọn môn học chuyên ngành tự do sao cho **tổng số tín chỉ ³26.**&#x54;rong đó, sinh viên phải học các môn học thuộc danh mục 3.4.2.3 để **tích lũy tối thiểu 6 tín chỉ và tối đa 10 tín chỉ.**&#x43;ác môn học chuyên ngành bao gồm 02 hướng có vai trò như nhau, trong đó có một số môn thuộc 01 hướng sẽ được gom cụm. (Sinh viên có thể chọn các môn học thuộc cả 02 hướng, không nhất thiết cố định 01 hướng).\n#### **Hướng Truyền thông xã hội và công nghệ Web**",
+        "title": "Công Nghệ Thông Tin - **Khối kiến thức giáo dục chuyên nghiệp** - **Nhóm các môn học chuyên ngành**"
+      },
+      {
+        "score": 14.808718,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 57,
+        "content": "Để được công nhận tốt nghiệp và cấp bằng, sinh viên phải:\n1\\. Hoàn thành các môn học bắt buộc của chương trình đào tạo.\n2\\. Tích lũy tối thiểu **128** tín chỉ được phân bố theo các khối kiến thức sau:\n\\- Kiến thức giáo dục đại cương: tối thiểu 45 tín chỉ;\n\\- Kiến thức cơ sở ngành: tối thiểu 57 tín chỉ;\n\\- Kiến thức tự chọn ngành: tối thiểu 8 tín chỉ;\n\\- Kiến thức tự chọn liên ngành: tối thiểu 8 tín chỉ;\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.",
+        "title": "Trí Tuệ Nhân Tạo - 7\\. ĐIỀU KIỆN TỐT NGHIỆP"
+      },
+      {
+        "score": 14.808718,
+        "doc_id": "c4d95062-dd8b-4e3f-bcc6-bc4a741c481b",
+        "chunk_index": 57,
+        "content": "Để được công nhận tốt nghiệp và cấp bằng, sinh viên phải:\n1\\. Hoàn thành các môn học bắt buộc của chương trình đào tạo.\n2\\. Tích lũy tối thiểu **128** tín chỉ được phân bố theo các khối kiến thức sau:\n\\- Kiến thức giáo dục đại cương: tối thiểu 45 tín chỉ;\n\\- Kiến thức cơ sở ngành: tối thiểu 57 tín chỉ;\n\\- Kiến thức tự chọn ngành: tối thiểu 8 tín chỉ;\n\\- Kiến thức tự chọn liên ngành: tối thiểu 8 tín chỉ;\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.",
+        "title": "Trí Tuệ Nhân Tạo - 7\\. ĐIỀU KIỆN TỐT NGHIỆP"
+      },
+      {
+        "score": 14.425952,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 99,
+        "content": "Công nhận tốt nghiệp:\n– Sinh viên đã tích lũy **tối thiểu 128 tín chỉ**, đã hoàn thành các môn học bắt buộc của chương trình đào tạo tương ứng với **định hướng ngành phù hợp.**\n– Ngoài ra, sinh viên phải đáp ứng đủ các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công nghệ Thông Tin.",
+        "title": "Kỹ Thuật Máy Tính - 7\\. ĐIỀU KIỆN TỐT NGHIỆP"
+      }
+    ],
+    "processing_time": 15.867159128189087
+  },
+  {
+    "question_id": 7,
+    "ground_truth": "IE307 (Công nghệ lập trình đa nền tảng cho ứng dụng di động) thuộc hướng Web & Mobile. CTĐT CNTT không ghi IE108 (Phân tích thiết kế phần mềm) là môn tiên quyết của IE307. Vì vậy rớt IE108 vẫn có thể đăng ký IE307 TRỪ KHI khoa quy định điều kiện riêng từng học kỳ. Về mặt chương trình, IE307 không yêu cầu IE108 là học phần trước.",
+    "question": "Sinh viên CNTT rớt IE108 nhưng muốn học IE307 có được không? Cần điều kiện gì?",
+    "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
+    "contexts": [
+      {
+        "score": 6.9325776,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 1,
+        "content": "Chương trình Cử nhân Công nghệ Thông tin đào tạo những cử nhân ngành Công nghệ thông tin có phẩm chất chính trị tốt, có đạo đức nghề nghiệp, có ý thức trách nhiệm tổ chức, và có sức khỏe tốt; nắm vững các kiến thức cơ bản và chuyên môn sâu về công nghệ thông tin (CNTT); đáp ứng các yêu cầu về nghiên cứu phát triển và ứng dụng công nghệ thông tin của xã hội; có năng lực tham mưu, tư vấn và có khả năng tổ chức thực hiện nhiệm vụ với tư cách của một chuyên viên trong lĩnh vực CNTT. Bên cạnh đó,",
+        "title": "Công Nghệ Thông Tin - **Mục tiêu đào tạo**"
+      },
+      {
+        "score": 6.9325776,
+        "doc_id": "0927bdf2-8a05-4a91-8396-e87f4e326323",
+        "chunk_index": 1,
+        "content": "Chương trình Cử nhân Công nghệ Thông tin đào tạo những cử nhân ngành Công nghệ thông tin có phẩm chất chính trị tốt, có đạo đức nghề nghiệp, có ý thức trách nhiệm tổ chức, và có sức khỏe tốt; nắm vững các kiến thức cơ bản và chuyên môn sâu về công nghệ thông tin (CNTT); đáp ứng các yêu cầu về nghiên cứu phát triển và ứng dụng công nghệ thông tin của xã hội; có năng lực tham mưu, tư vấn và có khả năng tổ chức thực hiện nhiệm vụ với tư cách của một chuyên viên trong lĩnh vực CNTT. Bên cạnh đó,",
+        "title": "Công Nghệ Thông Tin - **Mục tiêu đào tạo**"
+      },
+      {
+        "score": 6.905464,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 14,
+        "content": "\\- Quyết định số 185/QĐ-ĐHCNTT ngày 30/3/2018, của Trường ĐH Công nghệ Thông tin về việc ban hành quy trình đánh giá, cập nhật chương trình đào tạo trình độ Đại học/Sau Đại học của Trường Đại học Công nghệ Thông tin;\n\\- Quyết định số 790/QĐ-ĐHCNTT ngày 28/9/2022 về việc ban hành quy chế đào tạo theo học chế tín chỉ cho hệ đại học chính quy của Trường ĐH Công nghệ Thông tin;",
+        "title": "Kỹ Thuật Máy Tính - 1\\. GIỚI THIỆU CHUNG - 1.4 Căn cứ để xây dựng chương trình đào tạo"
+      },
+      {
+        "score": 6.9043884,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 15,
+        "content": "\\- Quyết định số 697/QĐ-ĐHCNTT ngày 12/7/2024 về việc ban hành Quy định về Đồ án tốt nghiệp tại doanh nghiệp cho bậc đại học hệ chính quy của Trường Đại học Công nghệ Thông tin;\n\\- Báo cáo tổng kết đánh giá kiểm định CTĐT ngành KTMT theo tiêu chuẩn AUN-QA ngày 10/9/2021;\n\\- Kết quả khảo sát Sự hài lòng của Nhà tuyển dụng năm 2022, 2023 đối với CTĐT ngành KTMT.",
+        "title": "Kỹ Thuật Máy Tính - 1\\. GIỚI THIỆU CHUNG - 1.4 Căn cứ để xây dựng chương trình đào tạo"
+      },
+      {
+        "score": 6.903635,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 13,
+        "content": "\\- Quyết định số 38/QĐ-TTg của Thủ tướng chính phủ ký ngày 30 tháng 12 năm  \n2020 về “Ban hành Danh mục công nghệ cao được ưu tiên đầu tư phát triển và  \nDanh mục sản phẩm công nghệ cao được khuyến khích phát triển”;\n\\- Quyết định số 399/QĐ-ĐHQG về việc cho phép Trường ĐH Công nghệ Thông tin đào tạo thí điểm ngành Thiết kế vi mạch trình độ đại học;",
+        "title": "Kỹ Thuật Máy Tính - 1\\. GIỚI THIỆU CHUNG - 1.4 Căn cứ để xây dựng chương trình đào tạo"
+      }
+    ],
+    "processing_time": 12.57342791557312
+  },
+  {
+    "question_id": 8,
+    "ground_truth": "Theo CTĐT TTNT: Nếu không làm khóa luận (10 TC), sinh viên có thể chọn hình thức: Đồ án tốt nghiệp (6 TC) + Một môn chuyên đề tốt nghiệp (4 TC). Tổng vẫn là tối thiểu 10 TC.",
+    "question": "Một sinh viên AI muốn thay khóa luận bằng chuyên đề cần đăng ký bao nhiêu tín chỉ?",
+    "answer": "Dựa trên ngữ cảnh được cung cấp, một sinh viên Cử nhân Công nghệ Thông tin muốn thay khóa luận bằng chuyên đề có thể đăng ký từ 4 đến 6 tín chỉ. Cụ thể:\n\n*   **Chuyên đề tốt nghiệp:** 4 tín chỉ (được mô tả là tương đương Đồ án tốt nghiệp 6 tín chỉ).\n*   **Đồ án tốt nghiệp:** 6 tín chỉ (tương đương Chuyên đề tốt nghiệp 4 tín chỉ và các môn chuyên đề tốt nghiệp).\n\n**Bảng tóm tắt:**\n\n| Môn học                 | Số tín chỉ |\n| ----------------------- | ---------- |\n| Chuyên đề tốt nghiệp/Đồ án tốt nghiệp | 4-6        |",
+    "contexts": [
+      {
+        "score": 14.088218,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 46,
+        "content": "\\- Trong trường hợp sinh viên đủ điều kiện làm Khóa luận tốt nghiệp nhưng không muốn làm, hoặc sinh viên không đủ điều kiện làm Khóa luận tốt nghiệp thì sinh viên có thể đăng ký môn học hoặc nhóm môn học thay thế cho Khóa luận tốt nghiệp trong **_Bảng 10_** để tích lũy 10 tín chỉ.\n**_Bảng 10: Danh sách nhóm môn học thay thế Khóa luận tốt nghiệp_**\n| **STT** | **Mã MH** | **Tên môn học** | **TC** | **LT** | **TH** |",
+        "title": "Kỹ Thuật Máy Tính - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.4 Khối kiến thức tốt nghiệp"
+      },
+      {
+        "score": 11.523889,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 45,
+        "content": "Tổng cộng: **12** tín chỉ.\n\\- Sinh viên đăng ký môn học Khóa luận tốt nghiệp (Mã môn học CE505) phải đáp ứng đủ các điều kiện theo quy định của Trường ĐH CNTT về việc làm khóa luận tốt nghiệp. Trong trường hợp sinh viên chưa đủ điều kiện theo quy định nhưng muốn làm Khóa luận tốt nghiệp thì phải nộp đơn theo quy định.",
+        "title": "Kỹ Thuật Máy Tính - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.4 Khối kiến thức tốt nghiệp"
+      },
+      {
+        "score": 10.963825,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 60,
+        "content": "\\- Môn học **Đồ án tốt nghiệp** (Mã MH: CE508) được xem như phương thức ba của môn học Khóa luận tốt nghiệp (Mã MH: CE505). Sinh viên phải học môn Đồ án tốt nghiệp kết hợp với tối thiểu một môn chuyên đề tốt nghiệp (Mã MH: CE510 hoặc CE511) để tích lũy đủ tối thiểu 10 tín chỉ thay thế cho Khóa luận tốt nghiệp. Ngoài ra, môn học Đồ án tốt nghiệp được xét tương đương (hay thay thế) cho hai môn học gồm tự chọn chuyên ngành và đồ án chuyên ngành (tổng cộng 06 tín chỉ) trong nhóm môn học chuyên đề",
+        "title": "Kỹ Thuật Máy Tính - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.5 Mô tả các môn học mới và việc xét tương đương môn học"
+      },
+      {
+        "score": 10.356186,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 49,
+        "content": "\\- Đối với các môn học **Tự chọn chuyên ngành**, sinh viên có thể chọn đăng ký học các môn bất kỳ trong Bảng 8. Tuy nhiên, sinh viên được khuyến khích đăng ký học theo nhóm môn học của cùng một định hướng để đảm bảo tính hệ thống, chuyên sâu của kiến thức và kỹ năng. Các môn tự chọn chuyên ngành có thể được triển khai phối hợp giữa Khoa KTMT và viện nghiên cứu, trường đại học, doanh nghiệp trong và ngoài nước. Danh sách các môn học tự chọn chuyên ngành có thể được cập nhật theo từng học kỳ nhằm",
+        "title": "Kỹ Thuật Máy Tính - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.5 Mô tả các môn học mới và việc xét tương đương môn học"
+      },
+      {
+        "score": 10.130172,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 62,
+        "content": "**Lưu ý:** Sinh viên đủ điều kiện làm Khóa luận tốt nghiệp theo quy chế của trường mới có thể đăng ký làm Khóa luận tốt nghiệp.\n2. **Hình thức 2: Chuyên đề tốt nghiệp và Đồ án tốt nghiệp**\nSinh viên thực hiện **Chuyên đề tốt nghiệp(4tín chỉ)**&#x76;à**Đồ án tốt nghiệp (6tín chỉ)**.\n|         |                |                      |        |        |        |\n| ------- | -------------- | -------------------- | ------ | ------ | ------ |",
+        "title": "Công Nghệ Thông Tin - **Khối kiến thức tốt nghiệp**"
+      }
+    ],
+    "processing_time": 17.05175805091858
+  },
+  {
+    "question_id": 9,
+    "ground_truth": "Theo CTĐT TTNT: HK1: IT001, MA006, MA003, AI001, ENG01, SS004, SS006. HK2: IT002, IT003, IT012, MA004, ENG02. HK3: IT004, IT005, MA005, ENG03, CS106. HK4: IT007, CS112, CS115, CS114, SS007, PE231. HK5: CS116, CS214/CS231/CS221 (chọn), SS008, SS009, PE232. HK6: Các môn còn lại của cơ sở ngành (CS311 hoặc SE104/CS111), SS010, tự chọn ngành/tự chọn liên ngành.",
+    "question": "Kế hoạch 2 năm đầu cho sinh viên AI muốn có nền tảng vững: liệt kê thứ tự môn theo từng học kỳ.",
+    "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
+    "contexts": [
+      {
+        "score": 11.458699,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 13,
+        "content": "\\- Quyết định số 38/QĐ-TTg của Thủ tướng chính phủ ký ngày 30 tháng 12 năm  \n2020 về “Ban hành Danh mục công nghệ cao được ưu tiên đầu tư phát triển và  \nDanh mục sản phẩm công nghệ cao được khuyến khích phát triển”;\n\\- Quyết định số 399/QĐ-ĐHQG về việc cho phép Trường ĐH Công nghệ Thông tin đào tạo thí điểm ngành Thiết kế vi mạch trình độ đại học;",
+        "title": "Kỹ Thuật Máy Tính - 1\\. GIỚI THIỆU CHUNG - 1.4 Căn cứ để xây dựng chương trình đào tạo"
+      },
+      {
+        "score": 10.756433,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 53,
+        "content": "\\- Các môn học **Chuyên đề thiết kế hệ thống nhúng 1** (Mã MH: CE437), **Chuyên đề thiết kế hệ thống nhúng 2** (Mã MH: CE438), **Chuyên đề thiết kế Robotics và AI 1** (Mã MH: CE441), **Chuyên đề thiết kế Robotics và AI 2** (Mã MH: CE442) là các môn học được mở theo từng học kỳ, có nội dung được cập nhật phù hợp với xu thế phát triển công, nhu cầu lao động của xã hội hoặc trang bị thêm kiến thức cần thiết cho sinh viên theo từng định hướng. Sinh viên có thể tham gia các môn học thuộc nhóm tự",
+        "title": "Kỹ Thuật Máy Tính - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.5 Mô tả các môn học mới và việc xét tương đương môn học"
+      },
+      {
+        "score": 10.328364,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 12,
+        "content": "Chuẩn đầu ra (Learning Outcomes – LO) của CTĐT bao gồm những chuẩn đầu ra chung dưới đây, được tham chiếu theo Khung trình độ quốc gia Việt Nam, chuẩn đầu ra của ABET 2021-2022, Bộ năng lực SV tốt nghiệp ĐHQG ban hành theo quyết định 1658/QĐ-ĐHQG năm 2020 (GAC), Tầm nhìn - sứ mạng- Triết lý giáo dục của Trường ĐHCNTT.\nSinh viên tốt nghiệp chương trình đào tạo Cử nhân chính quy ngành Công nghệ thông tin phải đáp ứng các yêu cầu về chuẩn đầu ra (CĐR) sau:",
+        "title": "Công Nghệ Thông Tin - **Chuẩn đầu ra**"
+      },
+      {
+        "score": 10.328364,
+        "doc_id": "0927bdf2-8a05-4a91-8396-e87f4e326323",
+        "chunk_index": 12,
+        "content": "Chuẩn đầu ra (Learning Outcomes – LO) của CTĐT bao gồm những chuẩn đầu ra chung dưới đây, được tham chiếu theo Khung trình độ quốc gia Việt Nam, chuẩn đầu ra của ABET 2021-2022, Bộ năng lực SV tốt nghiệp ĐHQG ban hành theo quyết định 1658/QĐ-ĐHQG năm 2020 (GAC), Tầm nhìn - sứ mạng- Triết lý giáo dục của Trường ĐHCNTT.\nSinh viên tốt nghiệp chương trình đào tạo Cử nhân chính quy ngành Công nghệ thông tin phải đáp ứng các yêu cầu về chuẩn đầu ra (CĐR) sau:",
+        "title": "Công Nghệ Thông Tin - **Chuẩn đầu ra**"
+      },
+      {
+        "score": 10.178776,
+        "doc_id": "3246194e-2da1-4393-a170-e43b36f54d33",
+        "chunk_index": 4,
+        "content": "o Chuyên viên lập dự án, phân tích, thiết kế, cài đặt, kiểm thử, bảo trì dự án công nghệ thông tin, hoạch định chính sách phát triển CNTT hoặc lập trình viên trong các công ty sản xuất, gia công phần mềm trong và ngoài nước, các công ty tư vấn giải pháp công nghệ thông tin hoặc các tổ chức hành chính sự nghiệp, ngân hàng, viễn thông, hàng không, xây dựng,...",
+        "title": "Hệ Thông Thông Tin - Chương Trình Tiên Tiến - 2\\. Vị trí và khả năng làm việc sau tốt nghiệp"
+      }
+    ],
+    "processing_time": 12.889467000961304
+  },
+  {
+    "question_id": 10,
+    "ground_truth": "Trong CTĐT CNTT, môn thực tập quốc tế là INI01 (2 tín chỉ) thuộc nhóm tự chọn tự do.",
+    "question": "Một sinh viên CNTT muốn học thực tập quốc tế có thể chọn môn nào?",
+    "answer": "Dựa trên ngữ cảnh được cung cấp, Cử nhân Công nghệ Thông tin muốn thực tập quốc tế có thể chọn các môn sau:\n\n| **Mã môn học** | **Tên môn học** |\n|---|---|\n| INI01 | Thực tập quốc tế |\n\nNgoài ra, sinh viên có thể sử dụng 02 tín chỉ tích lũy từ môn INI01 để xét cho môn học tự chọn tự do hoặc môn Thực tập doanh nghiệp (CE502) trong chương trình đào tạo.",
+    "contexts": [
+      {
+        "score": 9.451278,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 43,
+        "content": "| 2       | INI01     | Thực tập quốc tế    | Tự chọn     | 2           | 2   | 0   |              |\nTổng cộng: 01 môn, **02** tín chỉ.",
+        "title": "Kỹ Thuật Máy Tính - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.3 Khối kiến thức giáo dục chuyên nghiệp"
+      },
+      {
+        "score": 9.295869,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 57,
+        "content": "\\- Đối với môn học **Thực tập quốc tế**(Mã MH: INI01), sinh viên có thể tham gia các chương trình trao đổi sinh viên quốc tế, chương trình thực tập, dự án nghiên cứu ngắn hạn… do các trường đại học, đơn vị nghiên cứu, doanh nghiệp và chính phủ nước ngoài tổ chức tại các quốc gia khác. Sinh viên có thể sử dụng 02 tín chỉ tích lũy từ môn học INI01 để xét cho môn học tự chọn tự do hoặc môn học Thực tập doanh nghiệp (Mã MH: CE502) trong chương trình đào tạo.",
+        "title": "Kỹ Thuật Máy Tính - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.5 Mô tả các môn học mới và việc xét tương đương môn học"
+      },
+      {
+        "score": 8.841567,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 42,
+        "content": "o Hoặc, các môn thực tập quốc tế khi sinh viên tham gia chương trình giao lưu, trao đổi sinh viên quốc tế và được Đơn vị phụ trách chuyên môn công nhận.\n| | | | | | | |\n| ------------------------------------------- | -------------- | --------------------------------------------------------- | ------ | ------ | ------ | --- |\n| **STT** | **Mã môn học** | **Tên môn học tự chọn tự do** | **TC** | **LT** | **TH** | |\n| Ngành Khoa học dữ liệu | | | | | | |",
+        "title": "Trí Tuệ Nhân Tạo - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.3 Khối kiến thức giáo dục chuyên nghiệp"
+      },
+      {
+        "score": 8.841567,
+        "doc_id": "c4d95062-dd8b-4e3f-bcc6-bc4a741c481b",
+        "chunk_index": 42,
+        "content": "o Hoặc, các môn thực tập quốc tế khi sinh viên tham gia chương trình giao lưu, trao đổi sinh viên quốc tế và được Đơn vị phụ trách chuyên môn công nhận.\n| | | | | | | |\n| ------------------------------------------- | -------------- | --------------------------------------------------------- | ------ | ------ | ------ | --- |\n| **STT** | **Mã môn học** | **Tên môn học tự chọn tự do** | **TC** | **LT** | **TH** | |\n| Ngành Khoa học dữ liệu | | | | | | |",
+        "title": "Trí Tuệ Nhân Tạo - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.3 Khối kiến thức giáo dục chuyên nghiệp"
+      },
+      {
+        "score": 8.212339,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 1,
+        "content": "Chương trình Cử nhân Công nghệ Thông tin đào tạo những cử nhân ngành Công nghệ thông tin có phẩm chất chính trị tốt, có đạo đức nghề nghiệp, có ý thức trách nhiệm tổ chức, và có sức khỏe tốt; nắm vững các kiến thức cơ bản và chuyên môn sâu về công nghệ thông tin (CNTT); đáp ứng các yêu cầu về nghiên cứu phát triển và ứng dụng công nghệ thông tin của xã hội; có năng lực tham mưu, tư vấn và có khả năng tổ chức thực hiện nhiệm vụ với tư cách của một chuyên viên trong lĩnh vực CNTT. Bên cạnh đó,",
+        "title": "Công Nghệ Thông Tin - **Mục tiêu đào tạo**"
+      }
+    ],
+    "processing_time": 14.115180015563965
+  },
+  {
+    "question_id": 11,
+    "ground_truth": "Các môn trùng giữa CNTT và TTNT gồm: IT001, IT002, IT003, IT004, IT005, IT012, IT007; các môn toán MA003, MA004, MA005, MA006; các môn đại cương LLCT; Anh văn 1–3; SS004; ME001; PE231–232. Những môn này được công nhận chéo khi học song song.",
+    "question": "Nếu sinh viên muốn đổi hướng từ CNTT sang TTNT bằng học song song, các môn trùng nhau là gì?",
+    "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
+    "contexts": [
+      {
+        "score": 16.82411,
+        "doc_id": "3246194e-2da1-4393-a170-e43b36f54d33",
+        "chunk_index": 17,
+        "content": "\\- Công nhận tốt nghiệp: Sinh viên đã tích lũy tối thiểu là 130 tín chỉ, đã hoàn thành các môn học bắt buộc đối với ngành Hệ thống thông tin Chương trình đào tạo tiên tiến, trình độ Anh văn đạt yêu cầu theo quy định của Trường dành riêng cho chương trình tiên tiến.\n\\- Sinh viên phải đáp ứng đủ các tiêu chuẩn khác theo Quy chế đào tạo hiện hành.\n\\- Sinh viên tốt nghiệp được cấp bằng: Cử nhân Hệ thống thông tin – chương trình đào tạo tiên tiến.",
+        "title": "Hệ Thông Thông Tin - Chương Trình Tiên Tiến - 4\\. Quy định đào tạo, điều kiện tốt nghiệp - Điều kiện tốt nghiệp"
+      },
+      {
+        "score": 16.612617,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 39,
+        "content": "| --- | --- | --- | --- | --- | --- | --- | --- |\n| **Nhóm môn học định hướng Hệ thống nhúng và IoT** | | | | | | | |\n| 1 | CE232 | Thiết kế hệ thống nhúng không dây | Tự chọn | 4 | 3 | 1 | |\n| 2 | CE439 | Lập trình song song và Hệ thống phân tán | Tự chọn | 4 | 3 | 1 | |\n| 3 | CE339 | Công nghệ IoT và Ứng dụng | Tự chọn | 4 | 3 | 1 | |\n| 4 | CE340 | Trí tuệ nhân tạo cho hệ thống nhúng | Tự chọn | 4 | 3 | 1 | |\n| 5 | CE410 | Kỹ thuật hệ thống máy tính | Tự chọn | 4 | 3 | 1 | |",
+        "title": "Kỹ Thuật Máy Tính - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.3 Khối kiến thức giáo dục chuyên nghiệp"
+      },
+      {
+        "score": 15.350628,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 2,
+        "content": "Chương trình đào tạo cử nhân chính quy ngành Kỹ thuật Máy tính (sau đây gọi tắt là CTĐT ngành KTMT) được xây dựng với mục tiêu giúp người học phát triển tư duy hệ thống, sáng tạo và hội nhập, đào tạo nguồn nhân lực chất lượng cao, đạt trình độ khu vực và quốc tế trong lĩnh vực hệ thống nhúng và robot, vạn vật kết nối (Internet of Things - IoT), và ứng dụng trí tuệ nhân tạo nhằm đáp ứng nhu cầu phát triển của ngành công nghiệp công nghệ thông tin - truyền thông và các ngành nghề liên quan trong",
+        "title": "Kỹ Thuật Máy Tính - 1\\. GIỚI THIỆU CHUNG - 1.1 Mục tiêu đào tạo"
+      },
+      {
+        "score": 14.273829,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 3,
+        "content": "Sinh viên tốt nghiệp Chương trình đào tạo Cử nhân Công nghệ Thông tin có khả năng làm việc ở những phạm vi và lĩnh vực khác nhau như:\n1\\) Chuyên viên thiết kế, xây dựng và quản lý các dự án nghiên cứu và ứng dụng CNTT, chủ yếu trong lĩnh vực: giao thông, xây dựng, địa lý, môi trường, viễn thám.\n2\\) Chuyên viên quản lý, giám sát, đầu tư các dự án công nghệ thông tin.\n3\\) Chuyên viên khai thác dữ liệu và thông tin ứng dụng cho các doanh nghiệp trong vấn đề phân tích định lượng.",
+        "title": "Công Nghệ Thông Tin - **Vị trí và khả năng làm việc sau tốt nghiệp**"
+      },
+      {
+        "score": 14.273829,
+        "doc_id": "0927bdf2-8a05-4a91-8396-e87f4e326323",
+        "chunk_index": 3,
+        "content": "Sinh viên tốt nghiệp Chương trình đào tạo Cử nhân Công nghệ Thông tin có khả năng làm việc ở những phạm vi và lĩnh vực khác nhau như:\n1\\) Chuyên viên thiết kế, xây dựng và quản lý các dự án nghiên cứu và ứng dụng CNTT, chủ yếu trong lĩnh vực: giao thông, xây dựng, địa lý, môi trường, viễn thám.\n2\\) Chuyên viên quản lý, giám sát, đầu tư các dự án công nghệ thông tin.\n3\\) Chuyên viên khai thác dữ liệu và thông tin ứng dụng cho các doanh nghiệp trong vấn đề phân tích định lượng.",
+        "title": "Công Nghệ Thông Tin - **Vị trí và khả năng làm việc sau tốt nghiệp**"
+      }
+    ],
+    "processing_time": 13.455843210220337
+  }
+]

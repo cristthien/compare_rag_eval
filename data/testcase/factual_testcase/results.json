@@ -1,0 +1,794 @@
+﻿[
+  {
+    "question_id": 0,
+    "ground_truth": "Ngành Trí tuệ nhân tạo yêu cầu tối thiểu 128 tín chỉ để tốt nghiệp.",
+    "question": "Ngành Trí tuệ nhân tạo yêu cầu tối thiểu bao nhiêu tín chỉ để tốt nghiệp?",
+    "answer": "Để được công nhận tốt nghiệp và cấp bằng Cử nhân Khoa học Máy tính, sinh viên phải tích lũy tối thiểu 128 tín chỉ, được phân bổ như sau:\n\n| Khối kiến thức           | Tín chỉ tối thiểu |\n|--------------------------|------------------|\n| Kiến thức giáo dục đại cương | 45               |\n| Kiến thức cơ sở ngành      | 57               |\n| Kiến thức tự chọn ngành   | 8                |\n| Kiến thức tự chọn liên ngành | 8                |\n| Kiến thức tốt nghiệp       | 10               |",
+    "contexts": [
+      {
+        "score": 9.64298,
+        "doc_id": "3246194e-2da1-4393-a170-e43b36f54d33",
+        "chunk_index": 17,
+        "content": "\\- Công nhận tốt nghiệp: Sinh viên đã tích lũy tối thiểu là 130 tín chỉ, đã hoàn thành các môn học bắt buộc đối với ngành Hệ thống thông tin Chương trình đào tạo tiên tiến, trình độ Anh văn đạt yêu cầu theo quy định của Trường dành riêng cho chương trình tiên tiến.\n\\- Sinh viên phải đáp ứng đủ các tiêu chuẩn khác theo Quy chế đào tạo hiện hành.\n\\- Sinh viên tốt nghiệp được cấp bằng: Cử nhân Hệ thống thông tin – chương trình đào tạo tiên tiến.",
+        "title": "Hệ Thông Thông Tin - Chương Trình Tiên Tiến - 4\\. Quy định đào tạo, điều kiện tốt nghiệp - Điều kiện tốt nghiệp"
+      },
+      {
+        "score": 9.565013,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 47,
+        "content": "● Sinh viên tích lũy tối thiểu 10 tín chỉ cho khối kiến thức tốt nghiệp.\n● Sinh viên được chọn:\n○ Hoặc, thực hiện Khóa luận tốt nghiệp (KLTN) 10 tín chỉ nếu sinh viên đủ điều kiện làm khóa luận tốt nghiệp theo qui chế của trường.\n○ Hoặc, thực hiện Đồ án tốt nghiệp tại doanh nghiệp 10 tín chỉ.\n○ Hoặc, thực hiện Đồ án tốt nghiệp 6 tín chỉ và học một trong các môn chuyên đề tốt nghiệp (4 tín chỉ) để đạt tối thiểu 10 tín chỉ.\n| | | | | | |",
+        "title": "Trí Tuệ Nhân Tạo - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.4 Khối kiến thức tốt nghiệp"
+      },
+      {
+        "score": 9.565013,
+        "doc_id": "c4d95062-dd8b-4e3f-bcc6-bc4a741c481b",
+        "chunk_index": 47,
+        "content": "● Sinh viên tích lũy tối thiểu 10 tín chỉ cho khối kiến thức tốt nghiệp.\n● Sinh viên được chọn:\n○ Hoặc, thực hiện Khóa luận tốt nghiệp (KLTN) 10 tín chỉ nếu sinh viên đủ điều kiện làm khóa luận tốt nghiệp theo qui chế của trường.\n○ Hoặc, thực hiện Đồ án tốt nghiệp tại doanh nghiệp 10 tín chỉ.\n○ Hoặc, thực hiện Đồ án tốt nghiệp 6 tín chỉ và học một trong các môn chuyên đề tốt nghiệp (4 tín chỉ) để đạt tối thiểu 10 tín chỉ.\n| | | | | | |",
+        "title": "Trí Tuệ Nhân Tạo - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.4 Khối kiến thức tốt nghiệp"
+      },
+      {
+        "score": 9.520697,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 57,
+        "content": "Để được công nhận tốt nghiệp và cấp bằng, sinh viên phải:\n1\\. Hoàn thành các môn học bắt buộc của chương trình đào tạo.\n2\\. Tích lũy tối thiểu **128** tín chỉ được phân bố theo các khối kiến thức sau:\n\\- Kiến thức giáo dục đại cương: tối thiểu 45 tín chỉ;\n\\- Kiến thức cơ sở ngành: tối thiểu 57 tín chỉ;\n\\- Kiến thức tự chọn ngành: tối thiểu 8 tín chỉ;\n\\- Kiến thức tự chọn liên ngành: tối thiểu 8 tín chỉ;\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.",
+        "title": "Trí Tuệ Nhân Tạo - 7\\. ĐIỀU KIỆN TỐT NGHIỆP"
+      },
+      {
+        "score": 9.520697,
+        "doc_id": "c4d95062-dd8b-4e3f-bcc6-bc4a741c481b",
+        "chunk_index": 57,
+        "content": "Để được công nhận tốt nghiệp và cấp bằng, sinh viên phải:\n1\\. Hoàn thành các môn học bắt buộc của chương trình đào tạo.\n2\\. Tích lũy tối thiểu **128** tín chỉ được phân bố theo các khối kiến thức sau:\n\\- Kiến thức giáo dục đại cương: tối thiểu 45 tín chỉ;\n\\- Kiến thức cơ sở ngành: tối thiểu 57 tín chỉ;\n\\- Kiến thức tự chọn ngành: tối thiểu 8 tín chỉ;\n\\- Kiến thức tự chọn liên ngành: tối thiểu 8 tín chỉ;\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.",
+        "title": "Trí Tuệ Nhân Tạo - 7\\. ĐIỀU KIỆN TỐT NGHIỆP"
+      }
+    ],
+    "processing_time": 15.089561223983765
+  },
+  {
+    "question_id": 1,
+    "ground_truth": "Chương trình Công nghệ Thông tin đào tạo trong 4 năm, tương ứng 8 học kỳ chính.",
+    "question": "Thời gian đào tạo ngành CNTT kéo dài bao nhiêu năm?",
+    "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
+    "contexts": [
+      {
+        "score": 11.723118,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 11,
+        "content": "\\- Tên ngành đào tạo:\no Tiếng Việt: Trí tuệ nhân tạo\no Tiếng Anh: Artificial Intelligence\n\\- Mã ngành đào tạo: 7480107\n\\- Trình độ đào tạo: Đại học.\n\\- Loại hình đào tạo: Chính quy tập trung.\n\\- Thời gian đào tạo: 3.5 năm (gồm 7 học kỳ chính thức).\n\\- Số tín chỉ đào tạo: Tối thiểu **128** tín chỉ (bao gồm cả ngoại ngữ)\n\\- Tên văn bằng sau khi tốt nghiệp:\no Tiếng Việt: Cử nhân Trí tuệ nhân tạo\no Tiếng Anh: Bachelor of Science in Artificial Intelligence",
+        "title": "Trí Tuệ Nhân Tạo - 1\\. GIỚI THIỆU CHUNG - 1.4 Hình thức và thời gian đào tạo"
+      },
+      {
+        "score": 11.723118,
+        "doc_id": "c4d95062-dd8b-4e3f-bcc6-bc4a741c481b",
+        "chunk_index": 11,
+        "content": "\\- Tên ngành đào tạo:\no Tiếng Việt: Trí tuệ nhân tạo\no Tiếng Anh: Artificial Intelligence\n\\- Mã ngành đào tạo: 7480107\n\\- Trình độ đào tạo: Đại học.\n\\- Loại hình đào tạo: Chính quy tập trung.\n\\- Thời gian đào tạo: 3.5 năm (gồm 7 học kỳ chính thức).\n\\- Số tín chỉ đào tạo: Tối thiểu **128** tín chỉ (bao gồm cả ngoại ngữ)\n\\- Tên văn bằng sau khi tốt nghiệp:\no Tiếng Việt: Cử nhân Trí tuệ nhân tạo\no Tiếng Anh: Bachelor of Science in Artificial Intelligence",
+        "title": "Trí Tuệ Nhân Tạo - 1\\. GIỚI THIỆU CHUNG - 1.4 Hình thức và thời gian đào tạo"
+      },
+      {
+        "score": 11.284116,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 10,
+        "content": "\\- Hình thức đào tạo: Chính quy tập trung.\n\\- Số tín chỉ đào tạo: Tối thiểu 125 tín chỉ (bao gồm cả ngoại ngữ).\n\\- Thời gian đào tạo: 04 năm (8 học kỳ chính).",
+        "title": "Công Nghệ Thông Tin - **Hình thức và thời gian đào tạo**"
+      },
+      {
+        "score": 11.284116,
+        "doc_id": "0927bdf2-8a05-4a91-8396-e87f4e326323",
+        "chunk_index": 10,
+        "content": "\\- Hình thức đào tạo: Chính quy tập trung.\n\\- Số tín chỉ đào tạo: Tối thiểu 125 tín chỉ (bao gồm cả ngoại ngữ).\n\\- Thời gian đào tạo: 04 năm (8 học kỳ chính).",
+        "title": "Công Nghệ Thông Tin - **Hình thức và thời gian đào tạo**"
+      },
+      {
+        "score": 10.540868,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 16,
+        "content": "\\- Hình thức đào tạo: Chính quy tập trung.\n\\- Số tín chỉ đào tạo: 128 tín chỉ.\n\\- Thời gian đào tạo: 4 năm (8 học kỳ)",
+        "title": "Kỹ Thuật Máy Tính - 1\\. GIỚI THIỆU CHUNG - 1.5 Hình thức và thời gian đào tạo"
+      }
+    ],
+    "processing_time": 10.9511239528656
+  },
+  {
+    "question_id": 2,
+    "ground_truth": "Khối kiến thức giáo dục đại cương của ngành Trí tuệ nhân tạo gồm 45 tín chỉ (không tính Giáo dục thể chất và Giáo dục quốc phòng).",
+    "question": "Khối kiến thức giáo dục đại cương của ngành TTNT gồm bao nhiêu tín chỉ?",
+    "answer": "Khối kiến thức giáo dục đại cương của ngành Công nghệ Thông tin gồm 45 tín chỉ.\n\n|                                             |            |                                | **45**      |        |        |",
+    "contexts": [
+      {
+        "score": 14.829076,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 21,
+        "content": "1. Khối kiến thức giáo dục đại cương\n   Khối kiến thức giáo dục đại cương gồm 45 tín chỉ, chiếm 36% tổng số tín chỉ của toàn chương trình đào tạo (không bao gồm Giáo dục Thể chất và Giáo dục Quốc phòng). Cơ cấu gồm các nhóm:\n- Lý luận chính trị và pháp luật: 13 tín chỉ\n- Toán – Tin học – Khoa học tự nhiên: 18 tín chỉ\n- Ngoại ngữ: 12 tín chỉ\n- Giáo dục Thể chất và Giáo dục Quốc phòng: Tính riêng\n  Các môn học khác: 2 tín chỉ\n2. Khối kiến thức giáo dục chuyên nghiệp",
+        "title": "Công Nghệ Thông Tin - **Phân bố các khối kiến thức**"
+      },
+      {
+        "score": 14.829076,
+        "doc_id": "0927bdf2-8a05-4a91-8396-e87f4e326323",
+        "chunk_index": 21,
+        "content": "1. Khối kiến thức giáo dục đại cương\n   Khối kiến thức giáo dục đại cương gồm 45 tín chỉ, chiếm 36% tổng số tín chỉ của toàn chương trình đào tạo (không bao gồm Giáo dục Thể chất và Giáo dục Quốc phòng). Cơ cấu gồm các nhóm:\n- Lý luận chính trị và pháp luật: 13 tín chỉ\n- Toán – Tin học – Khoa học tự nhiên: 18 tín chỉ\n- Ngoại ngữ: 12 tín chỉ\n- Giáo dục Thể chất và Giáo dục Quốc phòng: Tính riêng\n  Các môn học khác: 2 tín chỉ\n2. Khối kiến thức giáo dục chuyên nghiệp",
+        "title": "Công Nghệ Thông Tin - **Phân bố các khối kiến thức**"
+      },
+      {
+        "score": 12.909056,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 24,
+        "content": "**Tổng cộng 45 tín chỉ** (đã tính số tín chỉ của Anh văn và không tính các học phần Giáo dục quốc phòng và Giáo dục thể chất vào điểm trung bình chung tích lũy).\n|                                             |            |                                |             |        |        |\n| ------------------------------------------- | ---------- | ------------------------------ | ----------- | ------ | ------ |",
+        "title": "Công Nghệ Thông Tin - **Khối kiến thức giáo dục đại cương**"
+      },
+      {
+        "score": 12.909056,
+        "doc_id": "0927bdf2-8a05-4a91-8396-e87f4e326323",
+        "chunk_index": 24,
+        "content": "**Tổng cộng 45 tín chỉ** (đã tính số tín chỉ của Anh văn và không tính các học phần Giáo dục quốc phòng và Giáo dục thể chất vào điểm trung bình chung tích lũy).\n|                                             |            |                                |             |        |        |\n| ------------------------------------------- | ---------- | ------------------------------ | ----------- | ------ | ------ |",
+        "title": "Công Nghệ Thông Tin - **Khối kiến thức giáo dục đại cương**"
+      },
+      {
+        "score": 12.903963,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 33,
+        "content": "| **Tổng số tín chỉ**                         |            |                                | **45**      |        |        |\n**Ghi chú:** TC: Tín chỉ, LT: Lý thuyết, TH: Thực hành.",
+        "title": "Công Nghệ Thông Tin - **Khối kiến thức giáo dục đại cương**"
+      }
+    ],
+    "processing_time": 12.19192886352539
+  },
+  {
+    "question_id": 3,
+    "ground_truth": "Môn IT001 – Nhập môn Lập trình thuộc nhóm Lập trình và Kỹ thuật phần mềm trong khối cơ sở ngành, có 4 tín chỉ.",
+    "question": "Môn Nhập Môn Lập Trình thuộc nhóm kiến thức nào và bao nhiêu tín chỉ?",
+    "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
+    "contexts": [
+      {
+        "score": 7.943585,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 54,
+        "content": "viên có thể tham gia các môn học thuộc nhóm tự chọn chuyên ngành ở các định hướng khác nhau (xem Bảng 8), các môn học thuộc khối kiến thức chuyên ngành của các CTĐT ngành KTMT ban hành trước năm 2024 hoặc các môn học mới (được ban hành từ năm 2024 trở về sau) có nội dung và số tín chỉ phù hợp để bổ sung kiến thức và xét tương đương cho các môn học chuyên đề này.",
+        "title": "Kỹ Thuật Máy Tính - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.5 Mô tả các môn học mới và việc xét tương đương môn học"
+      },
+      {
+        "score": 7.7109404,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 21,
+        "content": "1. Khối kiến thức giáo dục đại cương\n   Khối kiến thức giáo dục đại cương gồm 45 tín chỉ, chiếm 36% tổng số tín chỉ của toàn chương trình đào tạo (không bao gồm Giáo dục Thể chất và Giáo dục Quốc phòng). Cơ cấu gồm các nhóm:\n- Lý luận chính trị và pháp luật: 13 tín chỉ\n- Toán – Tin học – Khoa học tự nhiên: 18 tín chỉ\n- Ngoại ngữ: 12 tín chỉ\n- Giáo dục Thể chất và Giáo dục Quốc phòng: Tính riêng\n  Các môn học khác: 2 tín chỉ\n2. Khối kiến thức giáo dục chuyên nghiệp",
+        "title": "Công Nghệ Thông Tin - **Phân bố các khối kiến thức**"
+      },
+      {
+        "score": 7.7109404,
+        "doc_id": "0927bdf2-8a05-4a91-8396-e87f4e326323",
+        "chunk_index": 21,
+        "content": "1. Khối kiến thức giáo dục đại cương\n   Khối kiến thức giáo dục đại cương gồm 45 tín chỉ, chiếm 36% tổng số tín chỉ của toàn chương trình đào tạo (không bao gồm Giáo dục Thể chất và Giáo dục Quốc phòng). Cơ cấu gồm các nhóm:\n- Lý luận chính trị và pháp luật: 13 tín chỉ\n- Toán – Tin học – Khoa học tự nhiên: 18 tín chỉ\n- Ngoại ngữ: 12 tín chỉ\n- Giáo dục Thể chất và Giáo dục Quốc phòng: Tính riêng\n  Các môn học khác: 2 tín chỉ\n2. Khối kiến thức giáo dục chuyên nghiệp",
+        "title": "Công Nghệ Thông Tin - **Phân bố các khối kiến thức**"
+      },
+      {
+        "score": 7.0243855,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 62,
+        "content": "\\- Các môn học **Chuyên đề tốt nghiệp định hướng hệ thống nhúng và IoT** (Mã MH: CE510) và **Chuyên đề tốt nghiệp định hướng Robotic và AI** (Mã MH: CE511) là các môn học bổ sung kiến thức và kỹ năng tốt nghiệp cần thiết cho sinh viên thực hiện Đồ án tốt nghiệp theo các định hướng. Sinh viên có thể tham gia các môn học khác thuộc nhóm tự chọn chuyên ngành (xem Bảng 8), các môn học thuộc khối kiến thức chuyên ngành của các CTĐT ngành KTMT ban hành trước năm 2024 hoặc các môn học mới (được ban",
+        "title": "Kỹ Thuật Máy Tính - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.5 Mô tả các môn học mới và việc xét tương đương môn học"
+      },
+      {
+        "score": 6.7343044,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 43,
+        "content": "Sinh viên được chọn môn học chuyên ngành tự do sao cho **tổng số tín chỉ ³26.**&#x54;rong đó, sinh viên phải học các môn học thuộc danh mục 3.4.2.3 để **tích lũy tối thiểu 6 tín chỉ và tối đa 10 tín chỉ.**&#x43;ác môn học chuyên ngành bao gồm 02 hướng có vai trò như nhau, trong đó có một số môn thuộc 01 hướng sẽ được gom cụm. (Sinh viên có thể chọn các môn học thuộc cả 02 hướng, không nhất thiết cố định 01 hướng).\n#### **Hướng Truyền thông xã hội và công nghệ Web**",
+        "title": "Công Nghệ Thông Tin - **Khối kiến thức giáo dục chuyên nghiệp** - **Nhóm các môn học chuyên ngành**"
+      }
+    ],
+    "processing_time": 12.599887132644653
+  },
+  {
+    "question_id": 4,
+    "ground_truth": "Tự chọn ngành trong chương trình Trí tuệ nhân tạo yêu cầu tối thiểu 8 tín chỉ.",
+    "question": "Tự chọn ngành trong chương trình TTNT yêu cầu tối thiểu bao nhiêu tín chỉ?",
+    "answer": "Dựa trên ngữ cảnh cung cấp, kiến thức tự chọn ngành trong chương trình Cử nhân Công nghệ Thông tin yêu cầu tối thiểu 8 tín chỉ.\n\n| Khối Kiến Thức            | Tín Chỉ Tối Thiểu |\n| -------------------------- | ----------------- |\n| Kiến thức giáo dục đại cương | 45                |\n| Kiến thức cơ sở ngành      | 57                |\n| Kiến thức tự chọn ngành    | 8                 |\n| Kiến thức tự chọn liên ngành | 8                 |\n| Kiến thức tốt nghiệp       | 10                |",
+    "contexts": [
+      {
+        "score": 12.2244005,
+        "doc_id": "3246194e-2da1-4393-a170-e43b36f54d33",
+        "chunk_index": 17,
+        "content": "\\- Công nhận tốt nghiệp: Sinh viên đã tích lũy tối thiểu là 130 tín chỉ, đã hoàn thành các môn học bắt buộc đối với ngành Hệ thống thông tin Chương trình đào tạo tiên tiến, trình độ Anh văn đạt yêu cầu theo quy định của Trường dành riêng cho chương trình tiên tiến.\n\\- Sinh viên phải đáp ứng đủ các tiêu chuẩn khác theo Quy chế đào tạo hiện hành.\n\\- Sinh viên tốt nghiệp được cấp bằng: Cử nhân Hệ thống thông tin – chương trình đào tạo tiên tiến.",
+        "title": "Hệ Thông Thông Tin - Chương Trình Tiên Tiến - 4\\. Quy định đào tạo, điều kiện tốt nghiệp - Điều kiện tốt nghiệp"
+      },
+      {
+        "score": 11.832665,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 57,
+        "content": "Để được công nhận tốt nghiệp và cấp bằng, sinh viên phải:\n1\\. Hoàn thành các môn học bắt buộc của chương trình đào tạo.\n2\\. Tích lũy tối thiểu **128** tín chỉ được phân bố theo các khối kiến thức sau:\n\\- Kiến thức giáo dục đại cương: tối thiểu 45 tín chỉ;\n\\- Kiến thức cơ sở ngành: tối thiểu 57 tín chỉ;\n\\- Kiến thức tự chọn ngành: tối thiểu 8 tín chỉ;\n\\- Kiến thức tự chọn liên ngành: tối thiểu 8 tín chỉ;\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.",
+        "title": "Trí Tuệ Nhân Tạo - 7\\. ĐIỀU KIỆN TỐT NGHIỆP"
+      },
+      {
+        "score": 11.832665,
+        "doc_id": "c4d95062-dd8b-4e3f-bcc6-bc4a741c481b",
+        "chunk_index": 57,
+        "content": "Để được công nhận tốt nghiệp và cấp bằng, sinh viên phải:\n1\\. Hoàn thành các môn học bắt buộc của chương trình đào tạo.\n2\\. Tích lũy tối thiểu **128** tín chỉ được phân bố theo các khối kiến thức sau:\n\\- Kiến thức giáo dục đại cương: tối thiểu 45 tín chỉ;\n\\- Kiến thức cơ sở ngành: tối thiểu 57 tín chỉ;\n\\- Kiến thức tự chọn ngành: tối thiểu 8 tín chỉ;\n\\- Kiến thức tự chọn liên ngành: tối thiểu 8 tín chỉ;\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.",
+        "title": "Trí Tuệ Nhân Tạo - 7\\. ĐIỀU KIỆN TỐT NGHIỆP"
+      },
+      {
+        "score": 11.401064,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 1,
+        "content": "Chương trình Cử nhân Công nghệ Thông tin đào tạo những cử nhân ngành Công nghệ thông tin có phẩm chất chính trị tốt, có đạo đức nghề nghiệp, có ý thức trách nhiệm tổ chức, và có sức khỏe tốt; nắm vững các kiến thức cơ bản và chuyên môn sâu về công nghệ thông tin (CNTT); đáp ứng các yêu cầu về nghiên cứu phát triển và ứng dụng công nghệ thông tin của xã hội; có năng lực tham mưu, tư vấn và có khả năng tổ chức thực hiện nhiệm vụ với tư cách của một chuyên viên trong lĩnh vực CNTT. Bên cạnh đó,",
+        "title": "Công Nghệ Thông Tin - **Mục tiêu đào tạo**"
+      },
+      {
+        "score": 11.401064,
+        "doc_id": "0927bdf2-8a05-4a91-8396-e87f4e326323",
+        "chunk_index": 1,
+        "content": "Chương trình Cử nhân Công nghệ Thông tin đào tạo những cử nhân ngành Công nghệ thông tin có phẩm chất chính trị tốt, có đạo đức nghề nghiệp, có ý thức trách nhiệm tổ chức, và có sức khỏe tốt; nắm vững các kiến thức cơ bản và chuyên môn sâu về công nghệ thông tin (CNTT); đáp ứng các yêu cầu về nghiên cứu phát triển và ứng dụng công nghệ thông tin của xã hội; có năng lực tham mưu, tư vấn và có khả năng tổ chức thực hiện nhiệm vụ với tư cách của một chuyên viên trong lĩnh vực CNTT. Bên cạnh đó,",
+        "title": "Công Nghệ Thông Tin - **Mục tiêu đào tạo**"
+      }
+    ],
+    "processing_time": 14.534284114837646
+  },
+  {
+    "question_id": 5,
+    "ground_truth": "Khóa luận tốt nghiệp ngành Trí tuệ nhân tạo có 10 tín chỉ (mã AI505).",
+    "question": "Khóa luận tốt nghiệp ngành TTNT có bao nhiêu tín chỉ?",
+    "answer": "**Bảng thông tin về Khóa luận tốt nghiệp ngành Cử nhân Công nghệ Thông tin:**\n\n| Đặc điểm           | Giá trị |\n| ------------------ | ------ |\n| Số lượng tín chỉ    | 10     |\n\n**Nguồn:** Document Title Công Nghệ Thông Tin - **Điều kiện tốt nghiệp**",
+    "contexts": [
+      {
+        "score": 9.4693,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 1,
+        "content": "Chương trình Cử nhân Công nghệ Thông tin đào tạo những cử nhân ngành Công nghệ thông tin có phẩm chất chính trị tốt, có đạo đức nghề nghiệp, có ý thức trách nhiệm tổ chức, và có sức khỏe tốt; nắm vững các kiến thức cơ bản và chuyên môn sâu về công nghệ thông tin (CNTT); đáp ứng các yêu cầu về nghiên cứu phát triển và ứng dụng công nghệ thông tin của xã hội; có năng lực tham mưu, tư vấn và có khả năng tổ chức thực hiện nhiệm vụ với tư cách của một chuyên viên trong lĩnh vực CNTT. Bên cạnh đó,",
+        "title": "Công Nghệ Thông Tin - **Mục tiêu đào tạo**"
+      },
+      {
+        "score": 9.4693,
+        "doc_id": "0927bdf2-8a05-4a91-8396-e87f4e326323",
+        "chunk_index": 1,
+        "content": "Chương trình Cử nhân Công nghệ Thông tin đào tạo những cử nhân ngành Công nghệ thông tin có phẩm chất chính trị tốt, có đạo đức nghề nghiệp, có ý thức trách nhiệm tổ chức, và có sức khỏe tốt; nắm vững các kiến thức cơ bản và chuyên môn sâu về công nghệ thông tin (CNTT); đáp ứng các yêu cầu về nghiên cứu phát triển và ứng dụng công nghệ thông tin của xã hội; có năng lực tham mưu, tư vấn và có khả năng tổ chức thực hiện nhiệm vụ với tư cách của một chuyên viên trong lĩnh vực CNTT. Bên cạnh đó,",
+        "title": "Công Nghệ Thông Tin - **Mục tiêu đào tạo**"
+      },
+      {
+        "score": 8.739447,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 22,
+        "content": "2. Khối kiến thức giáo dục chuyên nghiệp\nKhối kiến thức giáo dục chuyên nghiệp gồm 70 tín chỉ, chiếm 56% tổng số tín chỉ của toàn chương trình đào tạo. Cơ cấu bao gồm:\nCơ sở ngành: 44 tín chỉ\nChuyên ngành: 26 tín chỉ (theo hướng dẫn tại mục 3.4.2)\n3. Khối kiến thức tốt nghiệp\nKhối kiến thức tốt nghiệp có 10 tín chỉ, chiếm 8% tổng số tín chỉ của toàn chương trình.\nSinh viên lựa chọn một trong ba hình thức sau (theo hướng dẫn tại mục 3.5):\nKhóa luận tốt nghiệp: 10 tín chỉ",
+        "title": "Công Nghệ Thông Tin - **Phân bố các khối kiến thức**"
+      },
+      {
+        "score": 8.739447,
+        "doc_id": "0927bdf2-8a05-4a91-8396-e87f4e326323",
+        "chunk_index": 22,
+        "content": "2. Khối kiến thức giáo dục chuyên nghiệp\nKhối kiến thức giáo dục chuyên nghiệp gồm 70 tín chỉ, chiếm 56% tổng số tín chỉ của toàn chương trình đào tạo. Cơ cấu bao gồm:\nCơ sở ngành: 44 tín chỉ\nChuyên ngành: 26 tín chỉ (theo hướng dẫn tại mục 3.4.2)\n3. Khối kiến thức tốt nghiệp\nKhối kiến thức tốt nghiệp có 10 tín chỉ, chiếm 8% tổng số tín chỉ của toàn chương trình.\nSinh viên lựa chọn một trong ba hình thức sau (theo hướng dẫn tại mục 3.5):\nKhóa luận tốt nghiệp: 10 tín chỉ",
+        "title": "Công Nghệ Thông Tin - **Phân bố các khối kiến thức**"
+      },
+      {
+        "score": 7.984525,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 11,
+        "content": "Công nhận tốt nghiệp:\n\\- Sinh viên đã tích lũy **tối thiểu 125 tín chỉ** (bao gồm 12 tín chỉ Anh văn) và đã hoàn thành các môn học bắt buộc của chương trình đào tạo tương ứng với chuyên ngành.\nNgoài ra, sinh viên phải đáp ứng đủ các điều kiện khác theo Quy chế đào tạo hiện hành của Trường Đại học Công nghệ Thông tin.",
+        "title": "Công Nghệ Thông Tin - **Điều kiện tốt nghiệp**"
+      }
+    ],
+    "processing_time": 11.48942518234253
+  },
+  {
+    "question_id": 6,
+    "ground_truth": "Học kỳ 1 ngành Trí tuệ nhân tạo có tổng cộng 20 tín chỉ.",
+    "question": "Học kỳ 1 ngành AI có tổng cộng bao nhiêu tín chỉ?",
+    "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
+    "contexts": [
+      {
+        "score": 10.527727,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 14,
+        "content": "Chương trình đào tạo Cử nhân chính quy ngành Khoa học máy tính được áp dụng theo quy chế, quy định đào tạo đại học hiện hành của Trường Đại học Công nghệ Thông tin.",
+        "title": "Trí Tuệ Nhân Tạo - 3\\. QUY CHẾ ĐÀO TẠO"
+      },
+      {
+        "score": 10.527727,
+        "doc_id": "c4d95062-dd8b-4e3f-bcc6-bc4a741c481b",
+        "chunk_index": 14,
+        "content": "Chương trình đào tạo Cử nhân chính quy ngành Khoa học máy tính được áp dụng theo quy chế, quy định đào tạo đại học hiện hành của Trường Đại học Công nghệ Thông tin.",
+        "title": "Trí Tuệ Nhân Tạo - 3\\. QUY CHẾ ĐÀO TẠO"
+      },
+      {
+        "score": 8.9985285,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 34,
+        "content": "**Tổng cộng 44 tín chỉ, gồm 2 phần sau **:\\*\\*\n- **Phần 1: Bắt buộc** đối với tất cả sinh viên của ngành, nhằm cung cấp kiến thức nền tảng về lập trình, cơ sở dữ liệu, mạng máy tính, phần cứng máy tính. **Tổng cộng 25 tín chỉ&#xA0;**, gồm các môn học trong bảng sau:\n|                     |            |                                      |        |        |        |\n| ------------------- | ---------- | ------------------------------------ | ------ | ------ | ------ |",
+        "title": "Công Nghệ Thông Tin - **Khối kiến thức giáo dục chuyên nghiệp** - **Nhóm các môn học cơ sở ngành**"
+      },
+      {
+        "score": 8.9985285,
+        "doc_id": "0927bdf2-8a05-4a91-8396-e87f4e326323",
+        "chunk_index": 34,
+        "content": "**Tổng cộng 44 tín chỉ, gồm 2 phần sau **:\\*\\*\n- **Phần 1: Bắt buộc** đối với tất cả sinh viên của ngành, nhằm cung cấp kiến thức nền tảng về lập trình, cơ sở dữ liệu, mạng máy tính, phần cứng máy tính. **Tổng cộng 25 tín chỉ&#xA0;**, gồm các môn học trong bảng sau:\n|                     |            |                                      |        |        |        |\n| ------------------- | ---------- | ------------------------------------ | ------ | ------ | ------ |",
+        "title": "Công Nghệ Thông Tin - **Khối kiến thức giáo dục chuyên nghiệp** - **Nhóm các môn học cơ sở ngành**"
+      },
+      {
+        "score": 8.518486,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 10,
+        "content": "CTĐT ngành KTMT được xây dựng trên quan điểm chủ đạo:\n\\- Chương trình đào tạo đảm bảo theo quy định và chủ trương của Trường ĐH Công nghệ Thông tin (sau đây gọi là Trường ĐH CNTT), và của ĐHQG TP. HCM.\n\\- Chương trình đào tạo đảm bảo tính liên thông ngang giữa các ngành đào tạo của Khoa KTMT và các ngành đào tạo khác của Trường ĐH Công nghệ Thông tin và đảm bảo tính liên thông dọc đối với các chương trình đào tạo sau đại học của Khoa KTMT và của Trường ĐH CNTT.",
+        "title": "Kỹ Thuật Máy Tính - 1\\. GIỚI THIỆU CHUNG - 1.3 Quan điểm xây dựng chương trình đào tạo"
+      }
+    ],
+    "processing_time": 11.234382152557373
+  },
+  {
+    "question_id": 7,
+    "ground_truth": "Ngành Trí tuệ nhân tạo yêu cầu 12 tín chỉ ngoại ngữ (Anh văn 1, 2, 3).",
+    "question": "Ngành AI yêu cầu bao nhiêu tín chỉ ngoại ngữ?",
+    "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
+    "contexts": [
+      {
+        "score": 7.540832,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 5,
+        "content": "| PO6 | Có trình độ ngoại ngữ đáp ứng cơ bản yêu cầu công việc và nghề nghiệp. |",
+        "title": "Trí Tuệ Nhân Tạo - 1\\. GIỚI THIỆU CHUNG - 1.1 Mục tiêu đào tạo"
+      },
+      {
+        "score": 7.540832,
+        "doc_id": "c4d95062-dd8b-4e3f-bcc6-bc4a741c481b",
+        "chunk_index": 5,
+        "content": "| PO6 | Có trình độ ngoại ngữ đáp ứng cơ bản yêu cầu công việc và nghề nghiệp. |",
+        "title": "Trí Tuệ Nhân Tạo - 1\\. GIỚI THIỆU CHUNG - 1.1 Mục tiêu đào tạo"
+      },
+      {
+        "score": 7.092965,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 21,
+        "content": "1. Khối kiến thức giáo dục đại cương\n   Khối kiến thức giáo dục đại cương gồm 45 tín chỉ, chiếm 36% tổng số tín chỉ của toàn chương trình đào tạo (không bao gồm Giáo dục Thể chất và Giáo dục Quốc phòng). Cơ cấu gồm các nhóm:\n- Lý luận chính trị và pháp luật: 13 tín chỉ\n- Toán – Tin học – Khoa học tự nhiên: 18 tín chỉ\n- Ngoại ngữ: 12 tín chỉ\n- Giáo dục Thể chất và Giáo dục Quốc phòng: Tính riêng\n  Các môn học khác: 2 tín chỉ\n2. Khối kiến thức giáo dục chuyên nghiệp",
+        "title": "Công Nghệ Thông Tin - **Phân bố các khối kiến thức**"
+      },
+      {
+        "score": 7.092965,
+        "doc_id": "0927bdf2-8a05-4a91-8396-e87f4e326323",
+        "chunk_index": 21,
+        "content": "1. Khối kiến thức giáo dục đại cương\n   Khối kiến thức giáo dục đại cương gồm 45 tín chỉ, chiếm 36% tổng số tín chỉ của toàn chương trình đào tạo (không bao gồm Giáo dục Thể chất và Giáo dục Quốc phòng). Cơ cấu gồm các nhóm:\n- Lý luận chính trị và pháp luật: 13 tín chỉ\n- Toán – Tin học – Khoa học tự nhiên: 18 tín chỉ\n- Ngoại ngữ: 12 tín chỉ\n- Giáo dục Thể chất và Giáo dục Quốc phòng: Tính riêng\n  Các môn học khác: 2 tín chỉ\n2. Khối kiến thức giáo dục chuyên nghiệp",
+        "title": "Công Nghệ Thông Tin - **Phân bố các khối kiến thức**"
+      },
+      {
+        "score": 7.0359116,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 11,
+        "content": "\\- Tên ngành đào tạo:\no Tiếng Việt: Trí tuệ nhân tạo\no Tiếng Anh: Artificial Intelligence\n\\- Mã ngành đào tạo: 7480107\n\\- Trình độ đào tạo: Đại học.\n\\- Loại hình đào tạo: Chính quy tập trung.\n\\- Thời gian đào tạo: 3.5 năm (gồm 7 học kỳ chính thức).\n\\- Số tín chỉ đào tạo: Tối thiểu **128** tín chỉ (bao gồm cả ngoại ngữ)\n\\- Tên văn bằng sau khi tốt nghiệp:\no Tiếng Việt: Cử nhân Trí tuệ nhân tạo\no Tiếng Anh: Bachelor of Science in Artificial Intelligence",
+        "title": "Trí Tuệ Nhân Tạo - 1\\. GIỚI THIỆU CHUNG - 1.4 Hình thức và thời gian đào tạo"
+      }
+    ],
+    "processing_time": 10.555588960647583
+  },
+  {
+    "question_id": 8,
+    "ground_truth": "Ngành Công nghệ Thông tin yêu cầu tối thiểu 125 tín chỉ để tốt nghiệp.",
+    "question": "Ngành CNTT yêu cầu tổng cộng bao nhiêu tín chỉ để tốt nghiệp?",
+    "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
+    "contexts": [
+      {
+        "score": 10.673391,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 1,
+        "content": "Chương trình Cử nhân Công nghệ Thông tin đào tạo những cử nhân ngành Công nghệ thông tin có phẩm chất chính trị tốt, có đạo đức nghề nghiệp, có ý thức trách nhiệm tổ chức, và có sức khỏe tốt; nắm vững các kiến thức cơ bản và chuyên môn sâu về công nghệ thông tin (CNTT); đáp ứng các yêu cầu về nghiên cứu phát triển và ứng dụng công nghệ thông tin của xã hội; có năng lực tham mưu, tư vấn và có khả năng tổ chức thực hiện nhiệm vụ với tư cách của một chuyên viên trong lĩnh vực CNTT. Bên cạnh đó,",
+        "title": "Công Nghệ Thông Tin - **Mục tiêu đào tạo**"
+      },
+      {
+        "score": 10.673391,
+        "doc_id": "0927bdf2-8a05-4a91-8396-e87f4e326323",
+        "chunk_index": 1,
+        "content": "Chương trình Cử nhân Công nghệ Thông tin đào tạo những cử nhân ngành Công nghệ thông tin có phẩm chất chính trị tốt, có đạo đức nghề nghiệp, có ý thức trách nhiệm tổ chức, và có sức khỏe tốt; nắm vững các kiến thức cơ bản và chuyên môn sâu về công nghệ thông tin (CNTT); đáp ứng các yêu cầu về nghiên cứu phát triển và ứng dụng công nghệ thông tin của xã hội; có năng lực tham mưu, tư vấn và có khả năng tổ chức thực hiện nhiệm vụ với tư cách của một chuyên viên trong lĩnh vực CNTT. Bên cạnh đó,",
+        "title": "Công Nghệ Thông Tin - **Mục tiêu đào tạo**"
+      },
+      {
+        "score": 9.681466,
+        "doc_id": "3246194e-2da1-4393-a170-e43b36f54d33",
+        "chunk_index": 17,
+        "content": "\\- Công nhận tốt nghiệp: Sinh viên đã tích lũy tối thiểu là 130 tín chỉ, đã hoàn thành các môn học bắt buộc đối với ngành Hệ thống thông tin Chương trình đào tạo tiên tiến, trình độ Anh văn đạt yêu cầu theo quy định của Trường dành riêng cho chương trình tiên tiến.\n\\- Sinh viên phải đáp ứng đủ các tiêu chuẩn khác theo Quy chế đào tạo hiện hành.\n\\- Sinh viên tốt nghiệp được cấp bằng: Cử nhân Hệ thống thông tin – chương trình đào tạo tiên tiến.",
+        "title": "Hệ Thông Thông Tin - Chương Trình Tiên Tiến - 4\\. Quy định đào tạo, điều kiện tốt nghiệp - Điều kiện tốt nghiệp"
+      },
+      {
+        "score": 9.401625,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 12,
+        "content": "Chuẩn đầu ra (Learning Outcomes – LO) của CTĐT bao gồm những chuẩn đầu ra chung dưới đây, được tham chiếu theo Khung trình độ quốc gia Việt Nam, chuẩn đầu ra của ABET 2021-2022, Bộ năng lực SV tốt nghiệp ĐHQG ban hành theo quyết định 1658/QĐ-ĐHQG năm 2020 (GAC), Tầm nhìn - sứ mạng- Triết lý giáo dục của Trường ĐHCNTT.\nSinh viên tốt nghiệp chương trình đào tạo Cử nhân chính quy ngành Công nghệ thông tin phải đáp ứng các yêu cầu về chuẩn đầu ra (CĐR) sau:",
+        "title": "Công Nghệ Thông Tin - **Chuẩn đầu ra**"
+      },
+      {
+        "score": 9.401625,
+        "doc_id": "0927bdf2-8a05-4a91-8396-e87f4e326323",
+        "chunk_index": 12,
+        "content": "Chuẩn đầu ra (Learning Outcomes – LO) của CTĐT bao gồm những chuẩn đầu ra chung dưới đây, được tham chiếu theo Khung trình độ quốc gia Việt Nam, chuẩn đầu ra của ABET 2021-2022, Bộ năng lực SV tốt nghiệp ĐHQG ban hành theo quyết định 1658/QĐ-ĐHQG năm 2020 (GAC), Tầm nhìn - sứ mạng- Triết lý giáo dục của Trường ĐHCNTT.\nSinh viên tốt nghiệp chương trình đào tạo Cử nhân chính quy ngành Công nghệ thông tin phải đáp ứng các yêu cầu về chuẩn đầu ra (CĐR) sau:",
+        "title": "Công Nghệ Thông Tin - **Chuẩn đầu ra**"
+      }
+    ],
+    "processing_time": 10.551295042037964
+  },
+  {
+    "question_id": 9,
+    "ground_truth": "Ngành Trí tuệ nhân tạo có 3 hình thức tốt nghiệp: (1) Khóa luận tốt nghiệp 10 tín chỉ, (2) Đồ án tốt nghiệp tại doanh nghiệp 10 tín chỉ, (3) Đồ án tốt nghiệp 6 tín chỉ + môn chuyên đề 4 tín chỉ.",
+    "question": "Có bao nhiêu hình thức tốt nghiệp trong ngành TTNT?",
+    "answer": "Dựa trên ngữ cảnh được cung cấp, sinh viên có 3 hình thức lựa chọn tốt nghiệp:\n\n| Hình thức tốt nghiệp | Số tín chỉ |\n|---|---|\n| Khóa luận tốt nghiệp | 10 |",
+    "contexts": [
+      {
+        "score": 10.919978,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 1,
+        "content": "Chương trình Cử nhân Công nghệ Thông tin đào tạo những cử nhân ngành Công nghệ thông tin có phẩm chất chính trị tốt, có đạo đức nghề nghiệp, có ý thức trách nhiệm tổ chức, và có sức khỏe tốt; nắm vững các kiến thức cơ bản và chuyên môn sâu về công nghệ thông tin (CNTT); đáp ứng các yêu cầu về nghiên cứu phát triển và ứng dụng công nghệ thông tin của xã hội; có năng lực tham mưu, tư vấn và có khả năng tổ chức thực hiện nhiệm vụ với tư cách của một chuyên viên trong lĩnh vực CNTT. Bên cạnh đó,",
+        "title": "Công Nghệ Thông Tin - **Mục tiêu đào tạo**"
+      },
+      {
+        "score": 10.919978,
+        "doc_id": "0927bdf2-8a05-4a91-8396-e87f4e326323",
+        "chunk_index": 1,
+        "content": "Chương trình Cử nhân Công nghệ Thông tin đào tạo những cử nhân ngành Công nghệ thông tin có phẩm chất chính trị tốt, có đạo đức nghề nghiệp, có ý thức trách nhiệm tổ chức, và có sức khỏe tốt; nắm vững các kiến thức cơ bản và chuyên môn sâu về công nghệ thông tin (CNTT); đáp ứng các yêu cầu về nghiên cứu phát triển và ứng dụng công nghệ thông tin của xã hội; có năng lực tham mưu, tư vấn và có khả năng tổ chức thực hiện nhiệm vụ với tư cách của một chuyên viên trong lĩnh vực CNTT. Bên cạnh đó,",
+        "title": "Công Nghệ Thông Tin - **Mục tiêu đào tạo**"
+      },
+      {
+        "score": 9.27466,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 22,
+        "content": "2. Khối kiến thức giáo dục chuyên nghiệp\nKhối kiến thức giáo dục chuyên nghiệp gồm 70 tín chỉ, chiếm 56% tổng số tín chỉ của toàn chương trình đào tạo. Cơ cấu bao gồm:\nCơ sở ngành: 44 tín chỉ\nChuyên ngành: 26 tín chỉ (theo hướng dẫn tại mục 3.4.2)\n3. Khối kiến thức tốt nghiệp\nKhối kiến thức tốt nghiệp có 10 tín chỉ, chiếm 8% tổng số tín chỉ của toàn chương trình.\nSinh viên lựa chọn một trong ba hình thức sau (theo hướng dẫn tại mục 3.5):\nKhóa luận tốt nghiệp: 10 tín chỉ",
+        "title": "Công Nghệ Thông Tin - **Phân bố các khối kiến thức**"
+      },
+      {
+        "score": 9.27466,
+        "doc_id": "0927bdf2-8a05-4a91-8396-e87f4e326323",
+        "chunk_index": 22,
+        "content": "2. Khối kiến thức giáo dục chuyên nghiệp\nKhối kiến thức giáo dục chuyên nghiệp gồm 70 tín chỉ, chiếm 56% tổng số tín chỉ của toàn chương trình đào tạo. Cơ cấu bao gồm:\nCơ sở ngành: 44 tín chỉ\nChuyên ngành: 26 tín chỉ (theo hướng dẫn tại mục 3.4.2)\n3. Khối kiến thức tốt nghiệp\nKhối kiến thức tốt nghiệp có 10 tín chỉ, chiếm 8% tổng số tín chỉ của toàn chương trình.\nSinh viên lựa chọn một trong ba hình thức sau (theo hướng dẫn tại mục 3.5):\nKhóa luận tốt nghiệp: 10 tín chỉ",
+        "title": "Công Nghệ Thông Tin - **Phân bố các khối kiến thức**"
+      },
+      {
+        "score": 8.7122965,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 3,
+        "content": "Sinh viên tốt nghiệp Chương trình đào tạo Cử nhân Công nghệ Thông tin có khả năng làm việc ở những phạm vi và lĩnh vực khác nhau như:\n1\\) Chuyên viên thiết kế, xây dựng và quản lý các dự án nghiên cứu và ứng dụng CNTT, chủ yếu trong lĩnh vực: giao thông, xây dựng, địa lý, môi trường, viễn thám.\n2\\) Chuyên viên quản lý, giám sát, đầu tư các dự án công nghệ thông tin.\n3\\) Chuyên viên khai thác dữ liệu và thông tin ứng dụng cho các doanh nghiệp trong vấn đề phân tích định lượng.",
+        "title": "Công Nghệ Thông Tin - **Vị trí và khả năng làm việc sau tốt nghiệp**"
+      }
+    ],
+    "processing_time": 11.031224727630615
+  },
+  {
+    "question_id": 10,
+    "ground_truth": "Tự chọn chuyên ngành AI yêu cầu tối thiểu 8 tín chỉ.",
+    "question": "Tự chọn chuyên ngành ngành AI yêu cầu tối thiểu bao nhiêu tín chỉ?",
+    "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
+    "contexts": [
+      {
+        "score": 14.15533,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 35,
+        "content": "| **Giới thiệu ngành (1 TC)** | | | | | | |\n| 20. | AI001 | Giới thiệu ngành Trí tuệ nhân tạo | BB | 1 | 1 | 0 |\n#### 5.3.2 Các môn học tự chọn ngành\nTổng số tín chỉ cho các môn học tự chọn ngành đạt tối thiểu **8** tín chỉ.\n| | | | | | | |\n| ----------------------------------------- | -------------- | --------------------------------------------- | ------ | ------ | ------ | --- |\n| **STT** | **Mã môn học** | **Tên môn học chuyên ngành** | **TC** | **LT** | **TH** | |",
+        "title": "Trí Tuệ Nhân Tạo - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.3 Khối kiến thức giáo dục chuyên nghiệp"
+      },
+      {
+        "score": 14.15533,
+        "doc_id": "c4d95062-dd8b-4e3f-bcc6-bc4a741c481b",
+        "chunk_index": 35,
+        "content": "| **Giới thiệu ngành (1 TC)** | | | | | | |\n| 20. | AI001 | Giới thiệu ngành Trí tuệ nhân tạo | BB | 1 | 1 | 0 |\n#### 5.3.2 Các môn học tự chọn ngành\nTổng số tín chỉ cho các môn học tự chọn ngành đạt tối thiểu **8** tín chỉ.\n| | | | | | | |\n| ----------------------------------------- | -------------- | --------------------------------------------- | ------ | ------ | ------ | --- |\n| **STT** | **Mã môn học** | **Tên môn học chuyên ngành** | **TC** | **LT** | **TH** | |",
+        "title": "Trí Tuệ Nhân Tạo - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.3 Khối kiến thức giáo dục chuyên nghiệp"
+      },
+      {
+        "score": 11.749305,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 18,
+        "content": "| **PLO2. Nắm vững kiến thức nền tảng và chuyên sâu của ngành Trí tuệ nhân tạo** | | | | |\n| 2 | 1 | Kiến thức cơ sở ngành Trí tuệ nhân tạo | | |\n| 2 | 1 | 1 | | Lập trình và Kỹ thuật phần mềm |\n| 2 | 1 | 2 | | Thuật toán và Cấu trúc dữ liệu |\n| 2 | 1 | 3 | | Kiến trúc máy tính, Hệ điều hành và Mạng máy tính |\n| 2 | 1 | 4 | | Kiến thức quản lý thông tin và Cơ sở dữ liệu |\n| 2 | 1 | 5 | | Trí tuệ nhân tạo và Máy học |\n| 2 | 2 | Kiến thức chuyên sâu ngành Trí tuệ nhân tạo | | |",
+        "title": "Trí Tuệ Nhân Tạo - 4\\. CHUẨN ĐẦU RA"
+      },
+      {
+        "score": 11.749305,
+        "doc_id": "c4d95062-dd8b-4e3f-bcc6-bc4a741c481b",
+        "chunk_index": 18,
+        "content": "| **PLO2. Nắm vững kiến thức nền tảng và chuyên sâu của ngành Trí tuệ nhân tạo** | | | | |\n| 2 | 1 | Kiến thức cơ sở ngành Trí tuệ nhân tạo | | |\n| 2 | 1 | 1 | | Lập trình và Kỹ thuật phần mềm |\n| 2 | 1 | 2 | | Thuật toán và Cấu trúc dữ liệu |\n| 2 | 1 | 3 | | Kiến trúc máy tính, Hệ điều hành và Mạng máy tính |\n| 2 | 1 | 4 | | Kiến thức quản lý thông tin và Cơ sở dữ liệu |\n| 2 | 1 | 5 | | Trí tuệ nhân tạo và Máy học |\n| 2 | 2 | Kiến thức chuyên sâu ngành Trí tuệ nhân tạo | | |",
+        "title": "Trí Tuệ Nhân Tạo - 4\\. CHUẨN ĐẦU RA"
+      },
+      {
+        "score": 11.533689,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 40,
+        "content": "o Hoặc, các môn học tự chọn ngành Trí tuệ nhân tạo, nếu các môn học này chưa được tính trong khối kiến thức tự chọn ngành.\no Hoặc, các môn học chuyên đề tốt nghiệp ngành Trí tuệ nhân tạo, nếu các môn học này chưa được tính trong khối kiến thức tốt nghiệp.",
+        "title": "Trí Tuệ Nhân Tạo - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.3 Khối kiến thức giáo dục chuyên nghiệp"
+      }
+    ],
+    "processing_time": 12.087803363800049
+  },
+  {
+    "question_id": 11,
+    "ground_truth": "Học kỳ 7 ngành AI gồm 3 lựa chọn tốt nghiệp: (1) Khóa luận tốt nghiệp (AI505 – 10 tín chỉ), (2) Đồ án tốt nghiệp tại doanh nghiệp (AI504 – 10 tín chỉ), (3) Đồ án tốt nghiệp (AI503 – 6 tín chỉ) + một môn chuyên đề 4 tín chỉ (CS409, CS405, CS406, CS419, CS412 hoặc tương đương).",
+    "question": "Học kỳ 7 ngành AI bao gồm những lựa chọn tốt nghiệp nào?",
+    "answer": "Dựa trên ngữ cảnh được cung cấp, thông tin về các lựa chọn tốt nghiệp trong học kỳ 7 cho chương trình AI chưa được đề cập rõ ràng. Ngữ cảnh chỉ cung cấp thông tin về khối kiến thức tốt nghiệp (10 tín chỉ) và các hình thức lựa chọn như khóa luận tốt nghiệp.\n\nTuy nhiên, có thể suy luận rằng sinh viên có thể lựa chọn khóa luận tốt nghiệp trong học kỳ 7 để hoàn thành yêu cầu tốt nghiệp.\n\n**Bảng tóm tắt thông tin:**\n\n| Lựa chọn tốt nghiệp       | Tín chỉ |\n| ----------------------- | ------- |\n| Khóa luận tốt nghiệp     | 10      |",
+    "contexts": [
+      {
+        "score": 9.365138,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 22,
+        "content": "2. Khối kiến thức giáo dục chuyên nghiệp\nKhối kiến thức giáo dục chuyên nghiệp gồm 70 tín chỉ, chiếm 56% tổng số tín chỉ của toàn chương trình đào tạo. Cơ cấu bao gồm:\nCơ sở ngành: 44 tín chỉ\nChuyên ngành: 26 tín chỉ (theo hướng dẫn tại mục 3.4.2)\n3. Khối kiến thức tốt nghiệp\nKhối kiến thức tốt nghiệp có 10 tín chỉ, chiếm 8% tổng số tín chỉ của toàn chương trình.\nSinh viên lựa chọn một trong ba hình thức sau (theo hướng dẫn tại mục 3.5):\nKhóa luận tốt nghiệp: 10 tín chỉ",
+        "title": "Công Nghệ Thông Tin - **Phân bố các khối kiến thức**"
+      },
+      {
+        "score": 9.365138,
+        "doc_id": "0927bdf2-8a05-4a91-8396-e87f4e326323",
+        "chunk_index": 22,
+        "content": "2. Khối kiến thức giáo dục chuyên nghiệp\nKhối kiến thức giáo dục chuyên nghiệp gồm 70 tín chỉ, chiếm 56% tổng số tín chỉ của toàn chương trình đào tạo. Cơ cấu bao gồm:\nCơ sở ngành: 44 tín chỉ\nChuyên ngành: 26 tín chỉ (theo hướng dẫn tại mục 3.4.2)\n3. Khối kiến thức tốt nghiệp\nKhối kiến thức tốt nghiệp có 10 tín chỉ, chiếm 8% tổng số tín chỉ của toàn chương trình.\nSinh viên lựa chọn một trong ba hình thức sau (theo hướng dẫn tại mục 3.5):\nKhóa luận tốt nghiệp: 10 tín chỉ",
+        "title": "Công Nghệ Thông Tin - **Phân bố các khối kiến thức**"
+      },
+      {
+        "score": 7.03767,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 15,
+        "content": "Chuẩn đầu ra của CTĐT (Program Learning Outcome – viết tắt là PLO hoặc LO) bao gồm những chuẩn đầu ra chung dưới đây, được tham chiếu theo Khung trình độ quốc gia Việt Nam, chuẩn đầu ra của ABET 2021-2022, Bộ năng lực Sinh viên tốt nghiệp ĐHQG ban hành theo quyết định 1658/QĐ-ĐHQG năm 2020 (GAC), Tầm nhìn - sứ mạng- Triết lý giáo dục của Trường ĐHCNTT và của Khoa Khoa học máy tính.\nSinh viên tốt nghiệp chương trình đào tạo cử nhân chính quy ngành Trí tuệ nhân tạo đạt những chuẩn đầu ra sau:",
+        "title": "Trí Tuệ Nhân Tạo - 4\\. CHUẨN ĐẦU RA"
+      },
+      {
+        "score": 7.03767,
+        "doc_id": "c4d95062-dd8b-4e3f-bcc6-bc4a741c481b",
+        "chunk_index": 15,
+        "content": "Chuẩn đầu ra của CTĐT (Program Learning Outcome – viết tắt là PLO hoặc LO) bao gồm những chuẩn đầu ra chung dưới đây, được tham chiếu theo Khung trình độ quốc gia Việt Nam, chuẩn đầu ra của ABET 2021-2022, Bộ năng lực Sinh viên tốt nghiệp ĐHQG ban hành theo quyết định 1658/QĐ-ĐHQG năm 2020 (GAC), Tầm nhìn - sứ mạng- Triết lý giáo dục của Trường ĐHCNTT và của Khoa Khoa học máy tính.\nSinh viên tốt nghiệp chương trình đào tạo cử nhân chính quy ngành Trí tuệ nhân tạo đạt những chuẩn đầu ra sau:",
+        "title": "Trí Tuệ Nhân Tạo - 4\\. CHUẨN ĐẦU RA"
+      },
+      {
+        "score": 6.9848905,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 62,
+        "content": "\\- Các môn học **Chuyên đề tốt nghiệp định hướng hệ thống nhúng và IoT** (Mã MH: CE510) và **Chuyên đề tốt nghiệp định hướng Robotic và AI** (Mã MH: CE511) là các môn học bổ sung kiến thức và kỹ năng tốt nghiệp cần thiết cho sinh viên thực hiện Đồ án tốt nghiệp theo các định hướng. Sinh viên có thể tham gia các môn học khác thuộc nhóm tự chọn chuyên ngành (xem Bảng 8), các môn học thuộc khối kiến thức chuyên ngành của các CTĐT ngành KTMT ban hành trước năm 2024 hoặc các môn học mới (được ban",
+        "title": "Kỹ Thuật Máy Tính - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.5 Mô tả các môn học mới và việc xét tương đương môn học"
+      }
+    ],
+    "processing_time": 17.73604989051819
+  },
+  {
+    "question_id": 12,
+    "ground_truth": "Chương trình tổ chức theo giai đoạn: (1) Học kỳ 1–3: nền tảng (lập trình, cấu trúc dữ liệu, cơ sở dữ liệu, toán học, Anh văn 1–3) để phát triển tư duy lập trình và giải thuật; (2) Học kỳ 4–6: học các môn chuyên ngành quan trọng (ví dụ: Hệ điều hành, cơ sở hạ tầng CNTT, phân tích – thiết kế phần mềm, An ninh thông tin) cùng các môn xã hội–nhân văn và kỹ năng nghề nghiệp; (3) Học kỳ 7: giai đoạn tốt nghiệp (khóa luận / đồ án / đồ án tại doanh nghiệp hoặc đồ án + chuyên đề).",
+    "question": "Lộ trình học trí tuệ nhân tạo từ năm nhất đến năm tư gồm những giai đoạn kiến thức nào?",
+    "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
+    "contexts": [
+      {
+        "score": 12.456905,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 18,
+        "content": "| **PLO2. Nắm vững kiến thức nền tảng và chuyên sâu của ngành Trí tuệ nhân tạo** | | | | |\n| 2 | 1 | Kiến thức cơ sở ngành Trí tuệ nhân tạo | | |\n| 2 | 1 | 1 | | Lập trình và Kỹ thuật phần mềm |\n| 2 | 1 | 2 | | Thuật toán và Cấu trúc dữ liệu |\n| 2 | 1 | 3 | | Kiến trúc máy tính, Hệ điều hành và Mạng máy tính |\n| 2 | 1 | 4 | | Kiến thức quản lý thông tin và Cơ sở dữ liệu |\n| 2 | 1 | 5 | | Trí tuệ nhân tạo và Máy học |\n| 2 | 2 | Kiến thức chuyên sâu ngành Trí tuệ nhân tạo | | |",
+        "title": "Trí Tuệ Nhân Tạo - 4\\. CHUẨN ĐẦU RA"
+      },
+      {
+        "score": 12.456905,
+        "doc_id": "c4d95062-dd8b-4e3f-bcc6-bc4a741c481b",
+        "chunk_index": 18,
+        "content": "| **PLO2. Nắm vững kiến thức nền tảng và chuyên sâu của ngành Trí tuệ nhân tạo** | | | | |\n| 2 | 1 | Kiến thức cơ sở ngành Trí tuệ nhân tạo | | |\n| 2 | 1 | 1 | | Lập trình và Kỹ thuật phần mềm |\n| 2 | 1 | 2 | | Thuật toán và Cấu trúc dữ liệu |\n| 2 | 1 | 3 | | Kiến trúc máy tính, Hệ điều hành và Mạng máy tính |\n| 2 | 1 | 4 | | Kiến thức quản lý thông tin và Cơ sở dữ liệu |\n| 2 | 1 | 5 | | Trí tuệ nhân tạo và Máy học |\n| 2 | 2 | Kiến thức chuyên sâu ngành Trí tuệ nhân tạo | | |",
+        "title": "Trí Tuệ Nhân Tạo - 4\\. CHUẨN ĐẦU RA"
+      },
+      {
+        "score": 11.634341,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 6,
+        "content": "Sinh viên tốt nghiệp ngành Trí tuệ nhân tạo có thể làm việc:\n\\- Chuyên gia lập trình Trí tuệ nhân tạo, tham gia phát triển các phần mềm, ứng dụng, các hệ thống tính toán có sử dụng Trí tuệ nhân tạo.\n\\- Chuyên gia phân tích, thiết kế, xây dựng giải pháp kỹ thuật, giải pháp công nghệ thông minh có sử dụng Trí tuệ nhân tạo tại các công ty, tập đoàn công nghệ.",
+        "title": "Trí Tuệ Nhân Tạo - 1\\. GIỚI THIỆU CHUNG - 1.2 Cơ hội nghề nghiệp"
+      },
+      {
+        "score": 11.634341,
+        "doc_id": "c4d95062-dd8b-4e3f-bcc6-bc4a741c481b",
+        "chunk_index": 6,
+        "content": "Sinh viên tốt nghiệp ngành Trí tuệ nhân tạo có thể làm việc:\n\\- Chuyên gia lập trình Trí tuệ nhân tạo, tham gia phát triển các phần mềm, ứng dụng, các hệ thống tính toán có sử dụng Trí tuệ nhân tạo.\n\\- Chuyên gia phân tích, thiết kế, xây dựng giải pháp kỹ thuật, giải pháp công nghệ thông minh có sử dụng Trí tuệ nhân tạo tại các công ty, tập đoàn công nghệ.",
+        "title": "Trí Tuệ Nhân Tạo - 1\\. GIỚI THIỆU CHUNG - 1.2 Cơ hội nghề nghiệp"
+      },
+      {
+        "score": 11.590918,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 1,
+        "content": "\\- **Mục tiêu chung:**\no Chương trình đào tạo ngành Trí tuệ nhân tạo hướng đến mục tiêu đào tạo nguồn nhân lực chất lượng cao đạt trình độ khu vực và quốc tế về Trí tuệ nhân tạo.\no Chương trình trang bị cho người học nền tảng kiến thức vững vàng kết hợp cùng kiến thức chuyên sâu cập nhật, hiện đại về Trí tuệ nhân tạo. Người học hiểu và có khả năng làm chủ, vận dụng sáng tạo các thành tựu tiên tiến của ngành; có kỹ năng cần thiết và thái độ chuẩn mực trong phát triển nghề nghiệp.",
+        "title": "Trí Tuệ Nhân Tạo - 1\\. GIỚI THIỆU CHUNG - 1.1 Mục tiêu đào tạo"
+      }
+    ],
+    "processing_time": 64.41597604751587
+  },
+  {
+    "question_id": 13,
+    "ground_truth": "Tài liệu chương trình Trí tuệ nhân tạo không liệt kê một số lượng 'hướng chính' cố định như chương trình CNTT; thay vào đó chương trình cung cấp các môn tự chọn ngành và tự chọn liên ngành cho phép sinh viên tập trung vào các nhánh chuyên sâu — tiêu biểu gồm các nhóm/mảng như: Học máy / Học sâu (Deep Learning), Xử lý ngôn ngữ tự nhiên (NLP), Thị giác máy tính (Computer Vision), các hệ cơ sở tri thức và ứng dụng đa phương tiện. Nói cách khác: không có con số 'mấy hướng' được nêu rõ; sinh viên tự định hướng qua việc chọn môn tự chọn chuyên ngành và liên ngành.",
+    "question": "Chuyên Ngành Trí Tuệ Nhân Tạo có mấy hướng chính?",
+    "answer": "Dựa trên ngữ cảnh được cung cấp, chuyên ngành Trí tuệ Nhân tạo có các hướng chính như sau:\n\n| Hướng chính |\n|---|\n| Kiến thức cơ sở ngành Trí tuệ nhân tạo |\n| Kiến thức chuyên sâu ngành Trí tuệ nhân tạo |",
+    "contexts": [
+      {
+        "score": 9.00835,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 18,
+        "content": "| **PLO2. Nắm vững kiến thức nền tảng và chuyên sâu của ngành Trí tuệ nhân tạo** | | | | |\n| 2 | 1 | Kiến thức cơ sở ngành Trí tuệ nhân tạo | | |\n| 2 | 1 | 1 | | Lập trình và Kỹ thuật phần mềm |\n| 2 | 1 | 2 | | Thuật toán và Cấu trúc dữ liệu |\n| 2 | 1 | 3 | | Kiến trúc máy tính, Hệ điều hành và Mạng máy tính |\n| 2 | 1 | 4 | | Kiến thức quản lý thông tin và Cơ sở dữ liệu |\n| 2 | 1 | 5 | | Trí tuệ nhân tạo và Máy học |\n| 2 | 2 | Kiến thức chuyên sâu ngành Trí tuệ nhân tạo | | |",
+        "title": "Trí Tuệ Nhân Tạo - 4\\. CHUẨN ĐẦU RA"
+      },
+      {
+        "score": 9.00835,
+        "doc_id": "c4d95062-dd8b-4e3f-bcc6-bc4a741c481b",
+        "chunk_index": 18,
+        "content": "| **PLO2. Nắm vững kiến thức nền tảng và chuyên sâu của ngành Trí tuệ nhân tạo** | | | | |\n| 2 | 1 | Kiến thức cơ sở ngành Trí tuệ nhân tạo | | |\n| 2 | 1 | 1 | | Lập trình và Kỹ thuật phần mềm |\n| 2 | 1 | 2 | | Thuật toán và Cấu trúc dữ liệu |\n| 2 | 1 | 3 | | Kiến trúc máy tính, Hệ điều hành và Mạng máy tính |\n| 2 | 1 | 4 | | Kiến thức quản lý thông tin và Cơ sở dữ liệu |\n| 2 | 1 | 5 | | Trí tuệ nhân tạo và Máy học |\n| 2 | 2 | Kiến thức chuyên sâu ngành Trí tuệ nhân tạo | | |",
+        "title": "Trí Tuệ Nhân Tạo - 4\\. CHUẨN ĐẦU RA"
+      },
+      {
+        "score": 8.200795,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 3,
+        "content": "| **Mục tiêu** | **Nội dung mục tiêu** |\n| PO1 | Có kiến thức nền tảng vững vàng về khoa học máy tính và chuyên sâu về Trí tuệ nhân tạo. |\n| PO2 | Có khả năng thiết kế các giải pháp, phát triển các hệ thống ứng dụng công nghệ tiên tiến về khoa học máy tính, trí tuệ nhân tạo. |\n| PO3 | Có khả năng tự học, phân tích độc lập và nghiên cứu các vấn đề chuyên sâu về lĩnh vực khoa học máy tính và trí tuệ nhân tạo; có thể tiếp tục học tập ở bậc đào tạo sau đại học. |",
+        "title": "Trí Tuệ Nhân Tạo - 1\\. GIỚI THIỆU CHUNG - 1.1 Mục tiêu đào tạo"
+      },
+      {
+        "score": 8.200795,
+        "doc_id": "c4d95062-dd8b-4e3f-bcc6-bc4a741c481b",
+        "chunk_index": 3,
+        "content": "| **Mục tiêu** | **Nội dung mục tiêu** |\n| PO1 | Có kiến thức nền tảng vững vàng về khoa học máy tính và chuyên sâu về Trí tuệ nhân tạo. |\n| PO2 | Có khả năng thiết kế các giải pháp, phát triển các hệ thống ứng dụng công nghệ tiên tiến về khoa học máy tính, trí tuệ nhân tạo. |\n| PO3 | Có khả năng tự học, phân tích độc lập và nghiên cứu các vấn đề chuyên sâu về lĩnh vực khoa học máy tính và trí tuệ nhân tạo; có thể tiếp tục học tập ở bậc đào tạo sau đại học. |",
+        "title": "Trí Tuệ Nhân Tạo - 1\\. GIỚI THIỆU CHUNG - 1.1 Mục tiêu đào tạo"
+      },
+      {
+        "score": 8.172169,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 1,
+        "content": "\\- **Mục tiêu chung:**\no Chương trình đào tạo ngành Trí tuệ nhân tạo hướng đến mục tiêu đào tạo nguồn nhân lực chất lượng cao đạt trình độ khu vực và quốc tế về Trí tuệ nhân tạo.\no Chương trình trang bị cho người học nền tảng kiến thức vững vàng kết hợp cùng kiến thức chuyên sâu cập nhật, hiện đại về Trí tuệ nhân tạo. Người học hiểu và có khả năng làm chủ, vận dụng sáng tạo các thành tựu tiên tiến của ngành; có kỹ năng cần thiết và thái độ chuẩn mực trong phát triển nghề nghiệp.",
+        "title": "Trí Tuệ Nhân Tạo - 1\\. GIỚI THIỆU CHUNG - 1.1 Mục tiêu đào tạo"
+      }
+    ],
+    "processing_time": 14.486035823822021
+  },
+  {
+    "question_id": 14,
+    "ground_truth": "Các môn gợi ý cho hướng Khoa học thông tin (được đề xuất trong phần tự chọn liên ngành / gợi ý) gồm: DS102 (Học máy thống kê), DS103 (Thu thập và tiền xử lý dữ liệu), DS200 (Phân tích dữ liệu lớn), DS201 (Deep Learning trong khoa học dữ liệu), IE221 (Kỹ thuật lập trình Python), IE313 (Phân tích và trực quan dữ liệu), IE212 (Công nghệ Dữ liệu lớn), DS307/DS317 (các môn khai phá/phân tích dữ liệu). Những môn này giúp sinh viên phát triển kỹ năng xử lý và phân tích dữ liệu cần thiết cho Khoa học thông tin.",
+    "question": "Chuyên Ngành Khoa học thông tin thì nên học những môn nào.",
+    "answer": "Dựa trên ngữ cảnh được cung cấp, không có thông tin cụ thể về danh sách các môn học mà sinh viên chuyên ngành Khoa học thông tin (Hệ Thông Thông Tin) nên học. Tuy nhiên, ngữ cảnh tập trung vào **chuẩn đầu ra** của chương trình đào tạo, và có thể suy luận ra những kiến thức cần thiết:\n\n**Bảng tóm tắt Chuẩn Đầu Ra cho Chuyên ngành Hệ Thông Thông Tin:**\n\n| **CĐR (Kết Quả Cần Đạt)** | **Mô Tả CĐR**                                                                 |\n|---------------------------|-----------------------------------------------------------------------------|\n| **(LO1)**                  | Kiến thức nền tảng về khoa học tự nhiên và khoa học xã hội                      |\n| 1.1                        | Kiến thức nền tảng về khoa học tự nhiên                                       |\n| 1.2                        | Kiến thức nền tảng về khoa học xã hội                                         |\n| **(LO2)**                  | Kiến thức nền tảng và chuyên sâu ngành Hệ thống thông tin                     |\n| **1**                      |                                                                             |\n| **2**                      |                                                                             |\n\n**Lưu ý:** Chuẩn đầu ra này nhấn mạnh sự cần thiết phải nắm vững kiến thức nền tảng về khoa học tự nhiên và khoa học xã hội, cũng như kiến thức chuyên sâu về Hệ thống thông tin.  \nThông tin này không có trong ngữ cảnh được cung cấp.",
+    "contexts": [
+      {
+        "score": 7.700796,
+        "doc_id": "3246194e-2da1-4393-a170-e43b36f54d33",
+        "chunk_index": 7,
+        "content": "− (LO1) Nắm vững kiến thức nền tảng về khoa học tự nhiên, khoa học xã hội và hiểu khả năng vận dụng những kiến thức đó vào ngành Hệ thống thông tin và thực tiễn (abet 3.1).\n− (LO2) Nắm vững kiến thức nền tảng và một số kiến thức chuyên sâu của ngành Hệ thống thông tin để ứng dụng vào thực tiễn (abet 3.2, gac 2.b).",
+        "title": "Hệ Thông Thông Tin - Chương Trình Tiên Tiến - 3\\. Chuẩn đầu ra của chương trình đào tạo"
+      },
+      {
+        "score": 7.5277114,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 13,
+        "content": "− (LO1) Nắm vững kiến thức nền tảng về khoa học tự nhiên, khoa học xã hội và hiểu khả năng vận dụng những kiến thức đó vào ngành Công nghệ thông tin và thực tiễn (abet 3.1).\n− (LO2) Nắm vững kiến thức nền tảng và một số kiến thức chuyên sâu của ngành Công nghệ thông tin để ứng dụng vào thực tiễn (abet 3.2, gac 2.b).",
+        "title": "Công Nghệ Thông Tin - **Chuẩn đầu ra**"
+      },
+      {
+        "score": 7.5277114,
+        "doc_id": "0927bdf2-8a05-4a91-8396-e87f4e326323",
+        "chunk_index": 13,
+        "content": "− (LO1) Nắm vững kiến thức nền tảng về khoa học tự nhiên, khoa học xã hội và hiểu khả năng vận dụng những kiến thức đó vào ngành Công nghệ thông tin và thực tiễn (abet 3.1).\n− (LO2) Nắm vững kiến thức nền tảng và một số kiến thức chuyên sâu của ngành Công nghệ thông tin để ứng dụng vào thực tiễn (abet 3.2, gac 2.b).",
+        "title": "Công Nghệ Thông Tin - **Chuẩn đầu ra**"
+      },
+      {
+        "score": 7.171771,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 16,
+        "content": "| **CĐR** | **MÔ TẢ CĐR**                                                         |\n| **1**   | **(LO1) Kiến thức nền tảng về khoa học tự nhiên và khoa học xã hội**  |\n| 1.1     | Kiến thức nền tảng về khoa học tự nhiên                               |\n| 1.2     | Kiến thức nền tảng về khoa học xã hội                                 |\n| **2**   | **(LO2) Kiến thức nền tảng và chuyên sâu ngành Công nghệ thông tin**  |",
+        "title": "Công Nghệ Thông Tin - **Chuẩn đầu ra**"
+      },
+      {
+        "score": 7.171771,
+        "doc_id": "0927bdf2-8a05-4a91-8396-e87f4e326323",
+        "chunk_index": 16,
+        "content": "| **CĐR** | **MÔ TẢ CĐR**                                                         |\n| **1**   | **(LO1) Kiến thức nền tảng về khoa học tự nhiên và khoa học xã hội**  |\n| 1.1     | Kiến thức nền tảng về khoa học tự nhiên                               |\n| 1.2     | Kiến thức nền tảng về khoa học xã hội                                 |\n| **2**   | **(LO2) Kiến thức nền tảng và chuyên sâu ngành Công nghệ thông tin**  |",
+        "title": "Công Nghệ Thông Tin - **Chuẩn đầu ra**"
+      }
+    ],
+    "processing_time": 19.645591974258423
+  },
+  {
+    "question_id": 15,
+    "ground_truth": "Một số môn bắt buộc/chủ chốt trong khối cơ sở ngành AI (với tín chỉ): IT001 Nhập môn Lập trình (4 TC), IT002 Lập trình hướng đối tượng (4 TC), IT003 Cấu trúc dữ liệu và giải thuật (4 TC), IT012 Tổ chức và cấu trúc máy tính II (4 TC), IT007 Hệ điều hành (4 TC), IT005 Nhập môn mạng máy tính (4 TC), IT004 Cơ sở dữ liệu (4 TC), CS106 Trí tuệ nhân tạo (4 TC), CS114 Máy học (4 TC), AI002 Tư duy Trí tuệ nhân tạo (4 TC), CS231 Nhập môn Thị giác máy tính (4 TC). (Danh sách này dựa trên bảng 'cơ sở ngành' trong chương trình; tổng khối cơ sở ngành tối thiểu là 57 TC).",
+    "question": "Liệt kê các môn bắt buộc chính trong khối cơ sở ngành AI và tín chỉ tương ứng.",
+    "answer": "Dựa trên ngữ cảnh được cung cấp, khối kiến thức Cơ sở ngành Trí tuệ nhân tạo bao gồm môn:\n\n| **Mã môn học** | **Tên môn học** | **Tín chỉ** |\n|---|---|---|\n| Lập trình và Kỹ thuật phần mềm | Lập trình và Kỹ thuật phần mềm | 16 |",
+    "contexts": [
+      {
+        "score": 11.857259,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 31,
+        "content": "#### 5.3.1 Các môn học cơ sở ngành Trí tuệ nhân tạo\n● Tổng số tín chỉ cho các môn học cơ sở ngành đạt tối thiểu **57** tín chỉ\n| | | | | | | |\n| ------------------------------------------------------------- | -------------- | ----------------------------------- | ----------------- | ------ | ------ | ------ |\n| **STT** | **Mã môn học** | **Tên môn học** | **Bắt buộc/Chọn** | **TC** | **LT** | **TH** |\n| **Lập trình và Kỹ thuật phần mềm (16 TC)** | | | | | | |",
+        "title": "Trí Tuệ Nhân Tạo - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.3 Khối kiến thức giáo dục chuyên nghiệp"
+      },
+      {
+        "score": 11.857259,
+        "doc_id": "c4d95062-dd8b-4e3f-bcc6-bc4a741c481b",
+        "chunk_index": 31,
+        "content": "#### 5.3.1 Các môn học cơ sở ngành Trí tuệ nhân tạo\n● Tổng số tín chỉ cho các môn học cơ sở ngành đạt tối thiểu **57** tín chỉ\n| | | | | | | |\n| ------------------------------------------------------------- | -------------- | ----------------------------------- | ----------------- | ------ | ------ | ------ |\n| **STT** | **Mã môn học** | **Tên môn học** | **Bắt buộc/Chọn** | **TC** | **LT** | **TH** |\n| **Lập trình và Kỹ thuật phần mềm (16 TC)** | | | | | | |",
+        "title": "Trí Tuệ Nhân Tạo - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.3 Khối kiến thức giáo dục chuyên nghiệp"
+      },
+      {
+        "score": 10.64587,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 39,
+        "content": "| Và các môn học khác theo đề nghị của Khoa | | | | | | |\n#### 5.3.3 Các môn học tự chọn liên ngành\n\\- Tổng số tín chỉ cho các môn tự chọn liên ngành đạt tối thiểu **8** tín chỉ.\n\\- Sinh viên có thể chọn học:\no Các môn học liên ngành trong danh sách khuyến nghị được liệt kê trong bảng sau.\no Hoặc, các môn học cơ sở ngành và chuyên ngành trong các chương trình đào tạo đại học ngành khác của trường.\no Hoặc, các môn học trong các chương trình đào tạo thạc sĩ của trường.",
+        "title": "Trí Tuệ Nhân Tạo - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.3 Khối kiến thức giáo dục chuyên nghiệp"
+      },
+      {
+        "score": 10.64587,
+        "doc_id": "c4d95062-dd8b-4e3f-bcc6-bc4a741c481b",
+        "chunk_index": 39,
+        "content": "| Và các môn học khác theo đề nghị của Khoa | | | | | | |\n#### 5.3.3 Các môn học tự chọn liên ngành\n\\- Tổng số tín chỉ cho các môn tự chọn liên ngành đạt tối thiểu **8** tín chỉ.\n\\- Sinh viên có thể chọn học:\no Các môn học liên ngành trong danh sách khuyến nghị được liệt kê trong bảng sau.\no Hoặc, các môn học cơ sở ngành và chuyên ngành trong các chương trình đào tạo đại học ngành khác của trường.\no Hoặc, các môn học trong các chương trình đào tạo thạc sĩ của trường.",
+        "title": "Trí Tuệ Nhân Tạo - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.3 Khối kiến thức giáo dục chuyên nghiệp"
+      },
+      {
+        "score": 10.251394,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 40,
+        "content": "o Hoặc, các môn học tự chọn ngành Trí tuệ nhân tạo, nếu các môn học này chưa được tính trong khối kiến thức tự chọn ngành.\no Hoặc, các môn học chuyên đề tốt nghiệp ngành Trí tuệ nhân tạo, nếu các môn học này chưa được tính trong khối kiến thức tốt nghiệp.",
+        "title": "Trí Tuệ Nhân Tạo - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.3 Khối kiến thức giáo dục chuyên nghiệp"
+      }
+    ],
+    "processing_time": 14.286270141601562
+  },
+  {
+    "question_id": 16,
+    "ground_truth": "Các môn tự chọn liên ngành gợi ý phù hợp cho hướng khoa học dữ liệu / nâng cao kỹ năng data là: DS102 Học máy thống kê, DS103 Thu thập và tiền xử lý dữ liệu, DS200 Phân tích dữ liệu lớn, DS201 Deep Learning trong khoa học dữ liệu, IS211 Cơ sở dữ liệu phân tán, IE313 Phân tích và trực quan dữ liệu, DS300/DS322 (các môn liên quan đến thiết kế hệ thống học máy, hệ khuyến nghị). Tổng tín chỉ tự chọn liên ngành tối thiểu là 8 TC theo chương trình.",
+    "question": "Những môn tự chọn liên ngành nào thường được khuyến nghị cho sinh viên AI để phát triển kỹ năng khoa học dữ liệu?",
+    "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
+    "contexts": [
+      {
+        "score": 13.995962,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 39,
+        "content": "| Và các môn học khác theo đề nghị của Khoa | | | | | | |\n#### 5.3.3 Các môn học tự chọn liên ngành\n\\- Tổng số tín chỉ cho các môn tự chọn liên ngành đạt tối thiểu **8** tín chỉ.\n\\- Sinh viên có thể chọn học:\no Các môn học liên ngành trong danh sách khuyến nghị được liệt kê trong bảng sau.\no Hoặc, các môn học cơ sở ngành và chuyên ngành trong các chương trình đào tạo đại học ngành khác của trường.\no Hoặc, các môn học trong các chương trình đào tạo thạc sĩ của trường.",
+        "title": "Trí Tuệ Nhân Tạo - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.3 Khối kiến thức giáo dục chuyên nghiệp"
+      },
+      {
+        "score": 13.995962,
+        "doc_id": "c4d95062-dd8b-4e3f-bcc6-bc4a741c481b",
+        "chunk_index": 39,
+        "content": "| Và các môn học khác theo đề nghị của Khoa | | | | | | |\n#### 5.3.3 Các môn học tự chọn liên ngành\n\\- Tổng số tín chỉ cho các môn tự chọn liên ngành đạt tối thiểu **8** tín chỉ.\n\\- Sinh viên có thể chọn học:\no Các môn học liên ngành trong danh sách khuyến nghị được liệt kê trong bảng sau.\no Hoặc, các môn học cơ sở ngành và chuyên ngành trong các chương trình đào tạo đại học ngành khác của trường.\no Hoặc, các môn học trong các chương trình đào tạo thạc sĩ của trường.",
+        "title": "Trí Tuệ Nhân Tạo - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.3 Khối kiến thức giáo dục chuyên nghiệp"
+      },
+      {
+        "score": 13.885023,
+        "doc_id": "0fe29102-8e24-4f11-b055-90ae05c00717",
+        "chunk_index": 41,
+        "content": "Chia thành 2 hướng — sinh viên có thể học 1 hướng hoặc kết hợp cả 2:\n- Hướng Truyền thông xã hội & Công nghệ Web:\n  Web, di động, mạng xã hội, SEO, hệ khuyến nghị, Java, CRM, tư duy thiết kế,…\n- Hướng Khoa học thông tin:\n  Python, dữ liệu lớn, phân tích và trực quan dữ liệu, GIS 3D, khai phá dữ liệu, kiến trúc hệ thống,…\nSinh viên phải lấy 6–10 tín chỉ từ nhóm môn được quy định (3.4.2.3).\n- Tự chọn tự do (6–10 tín chỉ – thuộc khối chuyên ngành)",
+        "title": "Công Nghệ Thông Tin - **Khối kiến thức giáo dục chuyên nghiệp** - **Nhóm các môn học chuyên ngành**"
+      },
+      {
+        "score": 13.885023,
+        "doc_id": "0927bdf2-8a05-4a91-8396-e87f4e326323",
+        "chunk_index": 41,
+        "content": "Chia thành 2 hướng — sinh viên có thể học 1 hướng hoặc kết hợp cả 2:\n- Hướng Truyền thông xã hội & Công nghệ Web:\n  Web, di động, mạng xã hội, SEO, hệ khuyến nghị, Java, CRM, tư duy thiết kế,…\n- Hướng Khoa học thông tin:\n  Python, dữ liệu lớn, phân tích và trực quan dữ liệu, GIS 3D, khai phá dữ liệu, kiến trúc hệ thống,…\nSinh viên phải lấy 6–10 tín chỉ từ nhóm môn được quy định (3.4.2.3).\n- Tự chọn tự do (6–10 tín chỉ – thuộc khối chuyên ngành)",
+        "title": "Công Nghệ Thông Tin - **Khối kiến thức giáo dục chuyên nghiệp** - **Nhóm các môn học chuyên ngành**"
+      },
+      {
+        "score": 13.283131,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 49,
+        "content": "\\- Đối với các môn học **Tự chọn chuyên ngành**, sinh viên có thể chọn đăng ký học các môn bất kỳ trong Bảng 8. Tuy nhiên, sinh viên được khuyến khích đăng ký học theo nhóm môn học của cùng một định hướng để đảm bảo tính hệ thống, chuyên sâu của kiến thức và kỹ năng. Các môn tự chọn chuyên ngành có thể được triển khai phối hợp giữa Khoa KTMT và viện nghiên cứu, trường đại học, doanh nghiệp trong và ngoài nước. Danh sách các môn học tự chọn chuyên ngành có thể được cập nhật theo từng học kỳ nhằm",
+        "title": "Kỹ Thuật Máy Tính - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.5 Mô tả các môn học mới và việc xét tương đương môn học"
+      }
+    ],
+    "processing_time": 13.147760152816772
+  },
+  {
+    "question_id": 17,
+    "ground_truth": "Không. Trong toàn bộ chương trình đào tạo ngành Trí tuệ nhân tạo, không có môn nào liên quan đến Mật mã học hoặc An toàn thông tin được liệt kê trong các khối kiến thức bắt buộc, tự chọn ngành, tự chọn liên ngành hay khối tốt nghiệp. Do đó sinh viên ngành Trí tuệ nhân tạo không bắt buộc phải học Mật mã học.",
+    "question": "Ngành Trí Tuệ Nhân Tạo có đòi hỏi phải học Mật Mã Học không?",
+    "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
+    "contexts": [
+      {
+        "score": 9.538888,
+        "doc_id": "60f21aa0-3ff4-4b37-98dd-4186b44d90c0",
+        "chunk_index": 50,
+        "content": "ngành có thể được cập nhật theo từng học kỳ nhằm đảm bảo tính mới về khoa học, kỹ thuật và công nghệ của ngành KTMT theo nhu cầu xã hội và định hướng hội nhập quốc tế .",
+        "title": "Kỹ Thuật Máy Tính - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.5 Mô tả các môn học mới và việc xét tương đương môn học"
+      },
+      {
+        "score": 8.349821,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 18,
+        "content": "| **PLO2. Nắm vững kiến thức nền tảng và chuyên sâu của ngành Trí tuệ nhân tạo** | | | | |\n| 2 | 1 | Kiến thức cơ sở ngành Trí tuệ nhân tạo | | |\n| 2 | 1 | 1 | | Lập trình và Kỹ thuật phần mềm |\n| 2 | 1 | 2 | | Thuật toán và Cấu trúc dữ liệu |\n| 2 | 1 | 3 | | Kiến trúc máy tính, Hệ điều hành và Mạng máy tính |\n| 2 | 1 | 4 | | Kiến thức quản lý thông tin và Cơ sở dữ liệu |\n| 2 | 1 | 5 | | Trí tuệ nhân tạo và Máy học |\n| 2 | 2 | Kiến thức chuyên sâu ngành Trí tuệ nhân tạo | | |",
+        "title": "Trí Tuệ Nhân Tạo - 4\\. CHUẨN ĐẦU RA"
+      },
+      {
+        "score": 8.349821,
+        "doc_id": "c4d95062-dd8b-4e3f-bcc6-bc4a741c481b",
+        "chunk_index": 18,
+        "content": "| **PLO2. Nắm vững kiến thức nền tảng và chuyên sâu của ngành Trí tuệ nhân tạo** | | | | |\n| 2 | 1 | Kiến thức cơ sở ngành Trí tuệ nhân tạo | | |\n| 2 | 1 | 1 | | Lập trình và Kỹ thuật phần mềm |\n| 2 | 1 | 2 | | Thuật toán và Cấu trúc dữ liệu |\n| 2 | 1 | 3 | | Kiến trúc máy tính, Hệ điều hành và Mạng máy tính |\n| 2 | 1 | 4 | | Kiến thức quản lý thông tin và Cơ sở dữ liệu |\n| 2 | 1 | 5 | | Trí tuệ nhân tạo và Máy học |\n| 2 | 2 | Kiến thức chuyên sâu ngành Trí tuệ nhân tạo | | |",
+        "title": "Trí Tuệ Nhân Tạo - 4\\. CHUẨN ĐẦU RA"
+      },
+      {
+        "score": 8.000146,
+        "doc_id": "7f6ef1a5-8a53-4372-abb3-a8f612180a30",
+        "chunk_index": 43,
+        "content": "| Ngành Khoa học dữ liệu | | | | | | |\n| 1. | DS102 | Học máy thống kê | 4 | 3 | 1 | |\n| 2. | DS103 | Thu thập và tiền xử lý dữ liệu | 4 | 3 | 1 | |\n| 3. | DS200 | Phân tích dữ liệu lớn | 4 | 3 | 1 | |\n| 4. | DS201 | Deep Learning trong khoa học dữ liệu | 4 | 3 | 1 | |\n| Ngành Kỹ thuật máy tính | | | | | | |\n| 5. | CE340 | Trí tuệ nhân tạo cho hệ thống nhúng | 4 | 3 | 1 | |\n| 6. | CE344 | Trí tuệ nhân tạo cho IoT | 4 | 3 | 1 | |\n| Ngành Hệ thống thông tin | | | | | | |",
+        "title": "Trí Tuệ Nhân Tạo - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.3 Khối kiến thức giáo dục chuyên nghiệp"
+      },
+      {
+        "score": 8.000146,
+        "doc_id": "c4d95062-dd8b-4e3f-bcc6-bc4a741c481b",
+        "chunk_index": 43,
+        "content": "| Ngành Khoa học dữ liệu | | | | | | |\n| 1. | DS102 | Học máy thống kê | 4 | 3 | 1 | |\n| 2. | DS103 | Thu thập và tiền xử lý dữ liệu | 4 | 3 | 1 | |\n| 3. | DS200 | Phân tích dữ liệu lớn | 4 | 3 | 1 | |\n| 4. | DS201 | Deep Learning trong khoa học dữ liệu | 4 | 3 | 1 | |\n| Ngành Kỹ thuật máy tính | | | | | | |\n| 5. | CE340 | Trí tuệ nhân tạo cho hệ thống nhúng | 4 | 3 | 1 | |\n| 6. | CE344 | Trí tuệ nhân tạo cho IoT | 4 | 3 | 1 | |\n| Ngành Hệ thống thông tin | | | | | | |",
+        "title": "Trí Tuệ Nhân Tạo - 5\\. CHƯƠNG TRÌNH ĐÀO TẠO - 5.3 Khối kiến thức giáo dục chuyên nghiệp"
+      }
+    ],
+    "processing_time": 12.542728185653687
+  }
+]
