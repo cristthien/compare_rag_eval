@@ -6,7 +6,8 @@
       "context_recall": true,
       "faithfulness": true,
       "answer_correctness": true
-    }
+    },
+    "question_id": "F001"
   },
   {
     "question": "Thời gian đào tạo ngành CNTT kéo dài bao nhiêu năm?",
@@ -15,7 +16,8 @@
       "context_recall": true,
       "faithfulness": true,
       "answer_correctness": true
-    }
+    },
+    "question_id": "F002"
   },
   {
     "question": "Khối kiến thức giáo dục đại cương của ngành TTNT gồm bao nhiêu tín chỉ?",
@@ -24,7 +26,8 @@
       "context_recall": true,
       "faithfulness": true,
       "answer_correctness": true
-    }
+    },
+    "question_id": "F003"
   },
   {
     "question": "Môn Nhập Môn Lập Trình thuộc nhóm kiến thức nào và bao nhiêu tín chỉ?",
@@ -33,7 +36,8 @@
       "context_recall": true,
       "faithfulness": true,
       "answer_correctness": true
-    }
+    },
+    "question_id": "F004"
   },
   {
     "question": "Tự chọn ngành trong chương trình TTNT yêu cầu tối thiểu bao nhiêu tín chỉ?",
@@ -42,7 +46,8 @@
       "context_recall": true,
       "faithfulness": true,
       "answer_correctness": true
-    }
+    },
+    "question_id": "F005"
   },
   {
     "question": "Khóa luận tốt nghiệp ngành TTNT có bao nhiêu tín chỉ?",
@@ -51,7 +56,8 @@
       "context_recall": true,
       "faithfulness": true,
       "answer_correctness": true
-    }
+    },
+    "question_id": "F006"
   },
   {
     "question": "Học kỳ 1 ngành AI có tổng cộng bao nhiêu tín chỉ?",
@@ -60,7 +66,8 @@
       "context_recall": true,
       "faithfulness": true,
       "answer_correctness": true
-    }
+    },
+    "question_id": "F007"
   },
   {
     "question": "Ngành AI yêu cầu bao nhiêu tín chỉ ngoại ngữ?",
@@ -69,7 +76,8 @@
       "context_recall": true,
       "faithfulness": true,
       "answer_correctness": true
-    }
+    },
+    "question_id": "F008"
   },
   {
     "question": "Ngành CNTT yêu cầu tổng cộng bao nhiêu tín chỉ để tốt nghiệp?",
@@ -78,7 +86,8 @@
       "context_recall": true,
       "faithfulness": true,
       "answer_correctness": true
-    }
+    },
+    "question_id": "F009"
   },
   {
     "question": "Có bao nhiêu hình thức tốt nghiệp trong ngành TTNT?",
@@ -87,7 +96,8 @@
       "context_recall": true,
       "faithfulness": true,
       "answer_correctness": true
-    }
+    },
+    "question_id": "F010"
   },
   {
     "question": "Tự chọn chuyên ngành ngành AI yêu cầu tối thiểu bao nhiêu tín chỉ?",
@@ -96,7 +106,8 @@
       "context_recall": true,
       "faithfulness": true,
       "answer_correctness": true
-    }
+    },
+    "question_id": "F011"
   },
   {
     "question": "Học kỳ 7 ngành AI bao gồm những lựa chọn tốt nghiệp nào?",
@@ -105,7 +116,8 @@
       "context_recall": true,
       "faithfulness": true,
       "answer_correctness": true
-    }
+    },
+    "question_id": "F012"
   },
   {
     "question": "Lộ trình học trí tuệ nhân tạo từ năm nhất đến năm tư gồm những giai đoạn kiến thức nào?",
@@ -114,7 +126,8 @@
       "context_recall": true,
       "faithfulness": true,
       "answer_correctness": true
-    }
+    },
+    "question_id": "F013"
   },
   {
     "question": "Chuyên Ngành Trí Tuệ Nhân Tạo có mấy hướng chính?",
@@ -123,7 +136,8 @@
       "context_recall": true,
       "faithfulness": true,
       "answer_correctness": true
-    }
+    },
+    "question_id": "F014"
   },
   {
     "question": "Chuyên Ngành Khoa học thông tin thì nên học những môn nào.",
@@ -132,7 +146,8 @@
       "context_recall": true,
       "faithfulness": true,
       "answer_correctness": true
-    }
+    },
+    "question_id": "F015"
   },
   {
     "question": "Liệt kê các môn bắt buộc chính trong khối cơ sở ngành AI và tín chỉ tương ứng.",
@@ -141,7 +156,8 @@
       "context_recall": true,
       "faithfulness": true,
       "answer_correctness": true
-    }
+    },
+    "question_id": "F016"
   },
   {
     "question": "Những môn tự chọn liên ngành nào thường được khuyến nghị cho sinh viên AI để phát triển kỹ năng khoa học dữ liệu?",
@@ -150,7 +166,8 @@
       "context_recall": true,
       "faithfulness": true,
       "answer_correctness": true
-    }
+    },
+    "question_id": "F017"
   },
   {
     "question": "Ngành Trí Tuệ Nhân Tạo có đòi hỏi phải học Mật Mã Học không?",
@@ -159,6 +176,7 @@
       "context_recall": true,
       "faithfulness": true,
       "answer_correctness": true
-    }
+    },
+    "question_id": "F018"
   }
 ]

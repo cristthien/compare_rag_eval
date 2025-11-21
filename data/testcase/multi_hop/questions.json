@@ -6,7 +6,8 @@
       "reasoning_quality": true,
       "answer_relevance": true
     },
-    "ground_truth": "TTNT yêu cầu 18 tín chỉ Toán–Tin–KHTN với thêm môn CS115 'Toán cho Khoa học máy tính', trong khi CNTT cũng có 18 tín chỉ nhưng không có môn tăng cường toán ứng dụng cho ML/AI. TTNT đòi hỏi nền tảng toán sâu hơn để phục vụ ML, tối ưu hóa, thống kê và các môn AI cốt lõi."
+    "ground_truth": "TTNT yêu cầu 18 tín chỉ Toán–Tin–KHTN với thêm môn CS115 'Toán cho Khoa học máy tính', trong khi CNTT cũng có 18 tín chỉ nhưng không có môn tăng cường toán ứng dụng cho ML/AI. TTNT đòi hỏi nền tảng toán sâu hơn để phục vụ ML, tối ưu hóa, thống kê và các môn AI cốt lõi.",
+    "question_id": "MH001"
   },
   {
     "question": "So sánh tổng số tín chỉ đại cương của CNTT và TTNT: ngành nào nặng hơn và chênh lệch bao nhiêu?",
@@ -17,7 +18,8 @@
       "faithfulness": true,
       "answer_correctness": true,
       "multi_hop_reasoning": true
-    }
+    },
+    "question_id": "MH002"
   },
   {
     "question": "Để được làm khóa luận tốt nghiệp AI, một sinh viên phải tích lũy tối thiểu bao nhiêu tín chỉ trước đó?",
@@ -28,7 +30,8 @@
       "faithfulness": true,
       "answer_correctness": true,
       "multi_hop_reasoning": true
-    }
+    },
+    "question_id": "MH003"
   },
   {
     "question": "Năm 2 ngành Trí Tuệ Nhân Tạo học những gì?",
@@ -37,7 +40,8 @@
       "context_recall": true,
       "faithfulness": true,
       "answer_correctness": true
-    }
+    },
+    "question_id": "MH004"
   },
   {
     "question": "Nếu sinh viên AI muốn theo NLP, phải học bắt buộc môn nào và tự chọn môn nào?",
@@ -48,7 +52,8 @@
       "faithfulness": true,
       "answer_correctness": true,
       "multi_hop_reasoning": true
-    }
+    },
+    "question_id": "MH005"
   },
   {
     "question": "Một sinh viên CNTT muốn tốt nghiệp bằng chuyên đề + đồ án cần tích lũy bao nhiêu tín chỉ chuyên ngành trước đó?",
@@ -59,7 +64,8 @@
       "faithfulness": true,
       "answer_correctness": true,
       "multi_hop_reasoning": true
-    }
+    },
+    "question_id": "MH006"
   },
   {
     "question": "Yêu cấu về toán của ngành công nghệ thông tin và trí tuệ nhân tạo khác nhau như thế nào?",
@@ -70,7 +76,8 @@
       "faithfulness": true,
       "answer_correctness": true,
       "multi_hop_reasoning": true
-    }
+    },
+    "question_id": "MH007"
   },
   {
     "question": "Nếu một sinh viên TTNT muốn theo hướng IoT, cần chọn các môn tự chọn liên ngành nào phù hợp?",
@@ -81,7 +88,8 @@
       "faithfulness": true,
       "answer_correctness": true,
       "multi_hop_reasoning": true
-    }
+    },
+    "question_id": "MH008"
   },
   {
     "question": "Sinh viên CNTT cần học tối thiểu bao nhiêu tín chỉ phần 2 cơ sở ngành?",
@@ -92,7 +100,8 @@
       "faithfulness": true,
       "answer_correctness": true,
       "multi_hop_reasoning": true
-    }
+    },
+    "question_id": "MH009"
   },
   {
     "question": "Nếu sinh viên AI chọn Đồ án tốt nghiệp + chuyên đề, tổng bằng bao nhiêu tín chỉ?",
@@ -103,7 +112,8 @@
       "faithfulness": true,
       "answer_correctness": true,
       "multi_hop_reasoning": true
-    }
+    },
+    "question_id": "MH010"
   },
   {
     "question": "Môn xử lý tiếng nói có bao nhiêu tín chỉ nên học vào học kì nào?",
@@ -114,7 +124,8 @@
       "faithfulness": true,
       "answer_correctness": true,
       "multi_hop_reasoning": true
-    }
+    },
+    "question_id": "MH011"
   },
   {
     "question": "Sinh viên CNTT muốn theo hướng Khoa học thông tin phải hoàn thành tối thiểu bao nhiêu tín chỉ nhóm đó?",
@@ -125,6 +136,7 @@
       "faithfulness": true,
       "answer_correctness": true,
       "multi_hop_reasoning": true
-    }
+    },
+    "question_id": "MH012"
   }
 ]

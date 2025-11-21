@@ -1,6 +1,6 @@
-﻿[
+[
   {
-    "question_id": 0,
+    "question_id": "F001",
     "ground_truth": "Ngành Trí tuệ nhân tạo yêu cầu tối thiểu 128 tín chỉ để tốt nghiệp.",
     "question": "Ngành Trí tuệ nhân tạo yêu cầu tối thiểu bao nhiêu tín chỉ để tốt nghiệp?",
     "answer": "Để được công nhận tốt nghiệp và cấp bằng Cử nhân Khoa học Máy tính, sinh viên phải tích lũy tối thiểu 128 tín chỉ, được phân bổ như sau:\n\n| Khối kiến thức           | Tín chỉ tối thiểu |\n|--------------------------|------------------|\n| Kiến thức giáo dục đại cương | 45               |\n| Kiến thức cơ sở ngành      | 57               |\n| Kiến thức tự chọn ngành   | 8                |\n| Kiến thức tự chọn liên ngành | 8                |\n| Kiến thức tốt nghiệp       | 10               |",
@@ -44,7 +44,7 @@
     "processing_time": 15.089561223983765
   },
   {
-    "question_id": 1,
+    "question_id": "F002",
     "ground_truth": "Chương trình Công nghệ Thông tin đào tạo trong 4 năm, tương ứng 8 học kỳ chính.",
     "question": "Thời gian đào tạo ngành CNTT kéo dài bao nhiêu năm?",
     "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
@@ -88,7 +88,7 @@
     "processing_time": 10.9511239528656
   },
   {
-    "question_id": 2,
+    "question_id": "F003",
     "ground_truth": "Khối kiến thức giáo dục đại cương của ngành Trí tuệ nhân tạo gồm 45 tín chỉ (không tính Giáo dục thể chất và Giáo dục quốc phòng).",
     "question": "Khối kiến thức giáo dục đại cương của ngành TTNT gồm bao nhiêu tín chỉ?",
     "answer": "Khối kiến thức giáo dục đại cương của ngành Công nghệ Thông tin gồm 45 tín chỉ.\n\n|                                             |            |                                | **45**      |        |        |",
@@ -132,7 +132,7 @@
     "processing_time": 12.19192886352539
   },
   {
-    "question_id": 3,
+    "question_id": "F004",
     "ground_truth": "Môn IT001 – Nhập môn Lập trình thuộc nhóm Lập trình và Kỹ thuật phần mềm trong khối cơ sở ngành, có 4 tín chỉ.",
     "question": "Môn Nhập Môn Lập Trình thuộc nhóm kiến thức nào và bao nhiêu tín chỉ?",
     "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
@@ -176,7 +176,7 @@
     "processing_time": 12.599887132644653
   },
   {
-    "question_id": 4,
+    "question_id": "F005",
     "ground_truth": "Tự chọn ngành trong chương trình Trí tuệ nhân tạo yêu cầu tối thiểu 8 tín chỉ.",
     "question": "Tự chọn ngành trong chương trình TTNT yêu cầu tối thiểu bao nhiêu tín chỉ?",
     "answer": "Dựa trên ngữ cảnh cung cấp, kiến thức tự chọn ngành trong chương trình Cử nhân Công nghệ Thông tin yêu cầu tối thiểu 8 tín chỉ.\n\n| Khối Kiến Thức            | Tín Chỉ Tối Thiểu |\n| -------------------------- | ----------------- |\n| Kiến thức giáo dục đại cương | 45                |\n| Kiến thức cơ sở ngành      | 57                |\n| Kiến thức tự chọn ngành    | 8                 |\n| Kiến thức tự chọn liên ngành | 8                 |\n| Kiến thức tốt nghiệp       | 10                |",
@@ -220,7 +220,7 @@
     "processing_time": 14.534284114837646
   },
   {
-    "question_id": 5,
+    "question_id": "F006",
     "ground_truth": "Khóa luận tốt nghiệp ngành Trí tuệ nhân tạo có 10 tín chỉ (mã AI505).",
     "question": "Khóa luận tốt nghiệp ngành TTNT có bao nhiêu tín chỉ?",
     "answer": "**Bảng thông tin về Khóa luận tốt nghiệp ngành Cử nhân Công nghệ Thông tin:**\n\n| Đặc điểm           | Giá trị |\n| ------------------ | ------ |\n| Số lượng tín chỉ    | 10     |\n\n**Nguồn:** Document Title Công Nghệ Thông Tin - **Điều kiện tốt nghiệp**",
@@ -264,7 +264,7 @@
     "processing_time": 11.48942518234253
   },
   {
-    "question_id": 6,
+    "question_id": "F007",
     "ground_truth": "Học kỳ 1 ngành Trí tuệ nhân tạo có tổng cộng 20 tín chỉ.",
     "question": "Học kỳ 1 ngành AI có tổng cộng bao nhiêu tín chỉ?",
     "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
@@ -308,7 +308,7 @@
     "processing_time": 11.234382152557373
   },
   {
-    "question_id": 7,
+    "question_id": "F008",
     "ground_truth": "Ngành Trí tuệ nhân tạo yêu cầu 12 tín chỉ ngoại ngữ (Anh văn 1, 2, 3).",
     "question": "Ngành AI yêu cầu bao nhiêu tín chỉ ngoại ngữ?",
     "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
@@ -352,7 +352,7 @@
     "processing_time": 10.555588960647583
   },
   {
-    "question_id": 8,
+    "question_id": "F009",
     "ground_truth": "Ngành Công nghệ Thông tin yêu cầu tối thiểu 125 tín chỉ để tốt nghiệp.",
     "question": "Ngành CNTT yêu cầu tổng cộng bao nhiêu tín chỉ để tốt nghiệp?",
     "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
@@ -396,7 +396,7 @@
     "processing_time": 10.551295042037964
   },
   {
-    "question_id": 9,
+    "question_id": "F010",
     "ground_truth": "Ngành Trí tuệ nhân tạo có 3 hình thức tốt nghiệp: (1) Khóa luận tốt nghiệp 10 tín chỉ, (2) Đồ án tốt nghiệp tại doanh nghiệp 10 tín chỉ, (3) Đồ án tốt nghiệp 6 tín chỉ + môn chuyên đề 4 tín chỉ.",
     "question": "Có bao nhiêu hình thức tốt nghiệp trong ngành TTNT?",
     "answer": "Dựa trên ngữ cảnh được cung cấp, sinh viên có 3 hình thức lựa chọn tốt nghiệp:\n\n| Hình thức tốt nghiệp | Số tín chỉ |\n|---|---|\n| Khóa luận tốt nghiệp | 10 |",
@@ -440,7 +440,7 @@
     "processing_time": 11.031224727630615
   },
   {
-    "question_id": 10,
+    "question_id": "F011",
     "ground_truth": "Tự chọn chuyên ngành AI yêu cầu tối thiểu 8 tín chỉ.",
     "question": "Tự chọn chuyên ngành ngành AI yêu cầu tối thiểu bao nhiêu tín chỉ?",
     "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
@@ -484,7 +484,7 @@
     "processing_time": 12.087803363800049
   },
   {
-    "question_id": 11,
+    "question_id": "F012",
     "ground_truth": "Học kỳ 7 ngành AI gồm 3 lựa chọn tốt nghiệp: (1) Khóa luận tốt nghiệp (AI505 – 10 tín chỉ), (2) Đồ án tốt nghiệp tại doanh nghiệp (AI504 – 10 tín chỉ), (3) Đồ án tốt nghiệp (AI503 – 6 tín chỉ) + một môn chuyên đề 4 tín chỉ (CS409, CS405, CS406, CS419, CS412 hoặc tương đương).",
     "question": "Học kỳ 7 ngành AI bao gồm những lựa chọn tốt nghiệp nào?",
     "answer": "Dựa trên ngữ cảnh được cung cấp, thông tin về các lựa chọn tốt nghiệp trong học kỳ 7 cho chương trình AI chưa được đề cập rõ ràng. Ngữ cảnh chỉ cung cấp thông tin về khối kiến thức tốt nghiệp (10 tín chỉ) và các hình thức lựa chọn như khóa luận tốt nghiệp.\n\nTuy nhiên, có thể suy luận rằng sinh viên có thể lựa chọn khóa luận tốt nghiệp trong học kỳ 7 để hoàn thành yêu cầu tốt nghiệp.\n\n**Bảng tóm tắt thông tin:**\n\n| Lựa chọn tốt nghiệp       | Tín chỉ |\n| ----------------------- | ------- |\n| Khóa luận tốt nghiệp     | 10      |",
@@ -528,7 +528,7 @@
     "processing_time": 17.73604989051819
   },
   {
-    "question_id": 12,
+    "question_id": "F013",
     "ground_truth": "Chương trình tổ chức theo giai đoạn: (1) Học kỳ 1–3: nền tảng (lập trình, cấu trúc dữ liệu, cơ sở dữ liệu, toán học, Anh văn 1–3) để phát triển tư duy lập trình và giải thuật; (2) Học kỳ 4–6: học các môn chuyên ngành quan trọng (ví dụ: Hệ điều hành, cơ sở hạ tầng CNTT, phân tích – thiết kế phần mềm, An ninh thông tin) cùng các môn xã hội–nhân văn và kỹ năng nghề nghiệp; (3) Học kỳ 7: giai đoạn tốt nghiệp (khóa luận / đồ án / đồ án tại doanh nghiệp hoặc đồ án + chuyên đề).",
     "question": "Lộ trình học trí tuệ nhân tạo từ năm nhất đến năm tư gồm những giai đoạn kiến thức nào?",
     "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
@@ -572,7 +572,7 @@
     "processing_time": 64.41597604751587
   },
   {
-    "question_id": 13,
+    "question_id": "F014",
     "ground_truth": "Tài liệu chương trình Trí tuệ nhân tạo không liệt kê một số lượng 'hướng chính' cố định như chương trình CNTT; thay vào đó chương trình cung cấp các môn tự chọn ngành và tự chọn liên ngành cho phép sinh viên tập trung vào các nhánh chuyên sâu — tiêu biểu gồm các nhóm/mảng như: Học máy / Học sâu (Deep Learning), Xử lý ngôn ngữ tự nhiên (NLP), Thị giác máy tính (Computer Vision), các hệ cơ sở tri thức và ứng dụng đa phương tiện. Nói cách khác: không có con số 'mấy hướng' được nêu rõ; sinh viên tự định hướng qua việc chọn môn tự chọn chuyên ngành và liên ngành.",
     "question": "Chuyên Ngành Trí Tuệ Nhân Tạo có mấy hướng chính?",
     "answer": "Dựa trên ngữ cảnh được cung cấp, chuyên ngành Trí tuệ Nhân tạo có các hướng chính như sau:\n\n| Hướng chính |\n|---|\n| Kiến thức cơ sở ngành Trí tuệ nhân tạo |\n| Kiến thức chuyên sâu ngành Trí tuệ nhân tạo |",
@@ -616,7 +616,7 @@
     "processing_time": 14.486035823822021
   },
   {
-    "question_id": 14,
+    "question_id": "F015",
     "ground_truth": "Các môn gợi ý cho hướng Khoa học thông tin (được đề xuất trong phần tự chọn liên ngành / gợi ý) gồm: DS102 (Học máy thống kê), DS103 (Thu thập và tiền xử lý dữ liệu), DS200 (Phân tích dữ liệu lớn), DS201 (Deep Learning trong khoa học dữ liệu), IE221 (Kỹ thuật lập trình Python), IE313 (Phân tích và trực quan dữ liệu), IE212 (Công nghệ Dữ liệu lớn), DS307/DS317 (các môn khai phá/phân tích dữ liệu). Những môn này giúp sinh viên phát triển kỹ năng xử lý và phân tích dữ liệu cần thiết cho Khoa học thông tin.",
     "question": "Chuyên Ngành Khoa học thông tin thì nên học những môn nào.",
     "answer": "Dựa trên ngữ cảnh được cung cấp, không có thông tin cụ thể về danh sách các môn học mà sinh viên chuyên ngành Khoa học thông tin (Hệ Thông Thông Tin) nên học. Tuy nhiên, ngữ cảnh tập trung vào **chuẩn đầu ra** của chương trình đào tạo, và có thể suy luận ra những kiến thức cần thiết:\n\n**Bảng tóm tắt Chuẩn Đầu Ra cho Chuyên ngành Hệ Thông Thông Tin:**\n\n| **CĐR (Kết Quả Cần Đạt)** | **Mô Tả CĐR**                                                                 |\n|---------------------------|-----------------------------------------------------------------------------|\n| **(LO1)**                  | Kiến thức nền tảng về khoa học tự nhiên và khoa học xã hội                      |\n| 1.1                        | Kiến thức nền tảng về khoa học tự nhiên                                       |\n| 1.2                        | Kiến thức nền tảng về khoa học xã hội                                         |\n| **(LO2)**                  | Kiến thức nền tảng và chuyên sâu ngành Hệ thống thông tin                     |\n| **1**                      |                                                                             |\n| **2**                      |                                                                             |\n\n**Lưu ý:** Chuẩn đầu ra này nhấn mạnh sự cần thiết phải nắm vững kiến thức nền tảng về khoa học tự nhiên và khoa học xã hội, cũng như kiến thức chuyên sâu về Hệ thống thông tin.  \nThông tin này không có trong ngữ cảnh được cung cấp.",
@@ -660,7 +660,7 @@
     "processing_time": 19.645591974258423
   },
   {
-    "question_id": 15,
+    "question_id": "F016",
     "ground_truth": "Một số môn bắt buộc/chủ chốt trong khối cơ sở ngành AI (với tín chỉ): IT001 Nhập môn Lập trình (4 TC), IT002 Lập trình hướng đối tượng (4 TC), IT003 Cấu trúc dữ liệu và giải thuật (4 TC), IT012 Tổ chức và cấu trúc máy tính II (4 TC), IT007 Hệ điều hành (4 TC), IT005 Nhập môn mạng máy tính (4 TC), IT004 Cơ sở dữ liệu (4 TC), CS106 Trí tuệ nhân tạo (4 TC), CS114 Máy học (4 TC), AI002 Tư duy Trí tuệ nhân tạo (4 TC), CS231 Nhập môn Thị giác máy tính (4 TC). (Danh sách này dựa trên bảng 'cơ sở ngành' trong chương trình; tổng khối cơ sở ngành tối thiểu là 57 TC).",
     "question": "Liệt kê các môn bắt buộc chính trong khối cơ sở ngành AI và tín chỉ tương ứng.",
     "answer": "Dựa trên ngữ cảnh được cung cấp, khối kiến thức Cơ sở ngành Trí tuệ nhân tạo bao gồm môn:\n\n| **Mã môn học** | **Tên môn học** | **Tín chỉ** |\n|---|---|---|\n| Lập trình và Kỹ thuật phần mềm | Lập trình và Kỹ thuật phần mềm | 16 |",
@@ -704,7 +704,7 @@
     "processing_time": 14.286270141601562
   },
   {
-    "question_id": 16,
+    "question_id": "F017",
     "ground_truth": "Các môn tự chọn liên ngành gợi ý phù hợp cho hướng khoa học dữ liệu / nâng cao kỹ năng data là: DS102 Học máy thống kê, DS103 Thu thập và tiền xử lý dữ liệu, DS200 Phân tích dữ liệu lớn, DS201 Deep Learning trong khoa học dữ liệu, IS211 Cơ sở dữ liệu phân tán, IE313 Phân tích và trực quan dữ liệu, DS300/DS322 (các môn liên quan đến thiết kế hệ thống học máy, hệ khuyến nghị). Tổng tín chỉ tự chọn liên ngành tối thiểu là 8 TC theo chương trình.",
     "question": "Những môn tự chọn liên ngành nào thường được khuyến nghị cho sinh viên AI để phát triển kỹ năng khoa học dữ liệu?",
     "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
@@ -748,7 +748,7 @@
     "processing_time": 13.147760152816772
   },
   {
-    "question_id": 17,
+    "question_id": "F018",
     "ground_truth": "Không. Trong toàn bộ chương trình đào tạo ngành Trí tuệ nhân tạo, không có môn nào liên quan đến Mật mã học hoặc An toàn thông tin được liệt kê trong các khối kiến thức bắt buộc, tự chọn ngành, tự chọn liên ngành hay khối tốt nghiệp. Do đó sinh viên ngành Trí tuệ nhân tạo không bắt buộc phải học Mật mã học.",
     "question": "Ngành Trí Tuệ Nhân Tạo có đòi hỏi phải học Mật Mã Học không?",
     "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",

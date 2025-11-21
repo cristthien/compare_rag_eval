@@ -1,6 +1,6 @@
-﻿[
+[
   {
-    "question_id": 0,
+    "question_id": "MH001",
     "ground_truth": "TTNT yêu cầu 18 tín chỉ Toán–Tin–KHTN với thêm môn CS115 'Toán cho Khoa học máy tính', trong khi CNTT cũng có 18 tín chỉ nhưng không có môn tăng cường toán ứng dụng cho ML/AI. TTNT đòi hỏi nền tảng toán sâu hơn để phục vụ ML, tối ưu hóa, thống kê và các môn AI cốt lõi.",
     "question": "Vì sao nhóm Toán – Tin học – Khoa học tự nhiên của AI lại dày hơn so với CNTT?",
     "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
@@ -44,7 +44,7 @@
     "processing_time": 11.724273920059204
   },
   {
-    "question_id": 1,
+    "question_id": "MH002",
     "ground_truth": "Ngành TTNT yêu cầu 45 tín chỉ giáo dục đại cương (không tính GDTC & GDQP), trong khi chương trình CNTT yêu cầu khoảng 43 tín chỉ đại cương. Do đó, TTNT nặng hơn khoảng 2 tín chỉ.",
     "question": "So sánh tổng số tín chỉ đại cương của CNTT và TTNT: ngành nào nặng hơn và chênh lệch bao nhiêu?",
     "answer": "Dựa trên ngữ cảnh được cung cấp, không có thông tin so sánh tổng số tín chỉ đại cương giữa Cử nhân Công nghệ Thông tin và Cử nhân Khoa học và Công nghệ Thông tin. Ngữ cảnh chỉ cung cấp thông tin về phân bổ tín chỉ trong khối kiến thức giáo dục đại cương, cụ thể:\n\n*   **Cử nhân Công nghệ Thông tin:** Khối kiến thức giáo dục đại cương gồm 45 tín chỉ (36% tổng số tín chỉ).\n*   **Cử nhân Khoa học và Công nghệ Thông tin:** Không có thông tin về số tín chỉ đại cương.\n\nDo đó, tôi không thể trả lời câu hỏi về so sánh số tín chỉ đại cương và chênh lệch giữa hai ngành này.\n\n**Thông tin này không có trong ngữ cảnh được cung cấp.**",
@@ -88,7 +88,7 @@
     "processing_time": 17.296493768692017
   },
   {
-    "question_id": 2,
+    "question_id": "MH003",
     "ground_truth": "Sinh viên AI muốn làm Khóa luận tốt nghiệp (AI505 – 10 tín chỉ) phải đáp ứng điều kiện chung của trường: tích lũy đủ số tín chỉ để được xét tốt nghiệp, thường là hoàn thành toàn bộ các môn trong chương trình trước học kỳ 7. Theo CTĐT AI, tổng số tín chỉ trước học kỳ 7 là khoảng 118 tín chỉ.",
     "question": "Để được làm khóa luận tốt nghiệp AI, một sinh viên phải tích lũy tối thiểu bao nhiêu tín chỉ trước đó?",
     "answer": "Để được công nhận tốt nghiệp và cấp bằng, sinh viên phải tích lũy tối thiểu 128 tín chỉ. Tuy nhiên, để đủ điều kiện làm khóa luận tốt nghiệp, sinh viên cần tích lũy tối thiểu 10 tín chỉ cho khối kiến thức tốt nghiệp.",
@@ -132,7 +132,7 @@
     "processing_time": 13.76658010482788
   },
   {
-    "question_id": 3,
+    "question_id": "MH004",
     "ground_truth": "Năm 2 gồm học kỳ 3 và 4. Học kỳ 3: Cơ sở dữ liệu, Hệ điều hành, Anh văn 3, Tư duy Trí tuệ nhân tạo, Toán cho KHMT (20 tín chỉ). Học kỳ 4: Nhập môn mạng máy tính, Phân tích và thiết kế thuật toán, Trí tuệ nhân tạo, Máy học, Triết học Mác – Lênin, Giáo dục thể chất (19 tín chỉ).",
     "question": "Năm 2 ngành Trí Tuệ Nhân Tạo học những gì?",
     "answer": "Dựa trên ngữ cảnh được cung cấp, sinh viên ngành Trí tuệ nhân tạo sẽ được trang bị kiến thức như sau:\n\n**Kiến thức nền tảng (PLO2 - Nắm vững kiến thức nền tảng và chuyên sâu của ngành Trí tuệ nhân tạo):**\n\n| Nội dung |\n|---|\n| Kiến thức cơ sở ngành Trí tuệ nhân tạo |\n| 1. Lập trình và Kỹ thuật phần mềm |\n| 2. Thuật toán và Cấu trúc dữ liệu |\n| 3. Kiến trúc máy tính, Hệ điều hành và Mạng máy tính |\n| 4. Kiến thức quản lý thông tin và Cơ sở dữ liệu |\n| 5. Trí tuệ nhân tạo và Máy học |\n\n**Kiến thức chuyên sâu (PLO2 - Nắm vững kiến thức nền tảng và chuyên sâu của ngành Trí tuệ nhân tạo):**\n\n*   **Ngành Khoa học dữ liệu:**\n    *   DS102: Học máy thống kê (4 tín chỉ)\n    *   DS103: Thu thập và tiền xử lý dữ liệu (4 tín chỉ)\n    *   DS200: Phân tích dữ liệu lớn (4 tín chỉ)\n    *   DS201: Deep Learning trong khoa học dữ liệu (4 tín chỉ)\n*   **Ngành Kỹ thuật máy tính:**\n    *   CE340: Trí tuệ nhân tạo cho hệ thống nhúng (4 tín chỉ)\n    *   CE344: Trí tuệ nhân tạo cho IoT (4 tín chỉ)\n*   **Ngành Hệ thống thông tin:** (Thông tin không được chi tiết trong ngữ cảnh)\n\n**Thời gian đào tạo:** 3.5 năm (7 học kỳ chính thức) và tối thiểu 128 tín chỉ.",
@@ -176,7 +176,7 @@
     "processing_time": 23.08199715614319
   },
   {
-    "question_id": 4,
+    "question_id": "MH005",
     "ground_truth": "Môn bắt buộc liên quan NLP: CS221 – Xử lý ngôn ngữ tự nhiên (chọn 1/4 trong nhóm AI & ML). Các môn tự chọn nâng cao NLP gồm: CS226 Ngôn ngữ học máy tính, CS222 Xử lý ngôn ngữ tự nhiên nâng cao, CS323 Các hệ thống hỏi đáp, CS321 Ngôn ngữ học ngữ liệu, CS325 Dịch máy.",
     "question": "Nếu sinh viên AI muốn theo NLP, phải học bắt buộc môn nào và tự chọn môn nào?",
     "answer": "Dựa trên ngữ cảnh được cung cấp, danh sách các môn bắt buộc và tự chọn mà một sinh viên ngành Cử nhân Khoa học Máy tính cần học để theo đuổi chuyên ngành Xử lý ngôn ngữ tự nhiên (NLP) như sau:\n\n**Môn Bắt Buộc:**\n\n*   CS221: Xử lý ngôn ngữ tự nhiên (Chọn 1/4)\n*   CS106: Trí tuệ nhân tạo\n*   CS114: Máy học\n\n**Môn Tự Chọn Chuyên ngành (NLP):**\n\n*   CS226: Ngôn ngữ học máy tính\n*   CS222: Xử lý ngôn ngữ tự nhiên nâng cao\n*   CS321: Ngôn ngữ học ngữ liệu\n*   CS325: Dịch máy\n*   CS231: Nhập môn Thị giác máy tính (nếu có liên quan đến NLP)\n\nLưu ý rằng danh sách này dựa trên các tài liệu được cung cấp và có thể không đầy đủ.",
@@ -220,7 +220,7 @@
     "processing_time": 20.78860092163086
   },
   {
-    "question_id": 5,
+    "question_id": "MH006",
     "ground_truth": "Chương trình CNTT không quy định rõ số tín chỉ chuyên ngành cần hoàn thành trước khi làm chuyên đề + đồ án. Tuy nhiên, điều kiện tốt nghiệp yêu cầu sinh viên phải tích lũy tối thiểu 125 tín chỉ và hoàn thành toàn bộ các môn bắt buộc, nên sinh viên phải hoàn thành hầu hết khối chuyên ngành trước khi làm chuyên đề và đồ án.",
     "question": "Một sinh viên CNTT muốn tốt nghiệp bằng chuyên đề + đồ án cần tích lũy bao nhiêu tín chỉ chuyên ngành trước đó?",
     "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
@@ -264,7 +264,7 @@
     "processing_time": 11.890679836273193
   },
   {
-    "question_id": 6,
+    "question_id": "MH007",
     "ground_truth": "Ngành TTNT có yêu cầu toán cao hơn với các môn: Giải tích, Đại số tuyến tính, Cấu trúc rời rạc, Xác suất thống kê, Toán cho Khoa học máy tính. CNTT có yêu cầu toán cơ bản hơn, chủ yếu gồm giải tích, đại số tuyến tính và xác suất thống kê. Vì vậy, TTNT có mức độ toán nặng và sâu hơn.",
     "question": "Yêu cấu về toán của ngành công nghệ thông tin và trí tuệ nhân tạo khác nhau như thế nào?",
     "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
@@ -308,7 +308,7 @@
     "processing_time": 11.74403715133667
   },
   {
-    "question_id": 7,
+    "question_id": "MH008",
     "ground_truth": "Sinh viên AI theo hướng IoT nên chọn các môn liên ngành thuộc Kỹ thuật máy tính: CE340 – Trí tuệ nhân tạo cho hệ thống nhúng và CE344 – Trí tuệ nhân tạo cho IoT.",
     "question": "Nếu một sinh viên TTNT muốn theo hướng IoT, cần chọn các môn tự chọn liên ngành nào phù hợp?",
     "answer": "Dựa trên ngữ cảnh được cung cấp, sinh viên Cử nhân Công nghệ Thông tin muốn theo hướng Internet of Things (IoT) có thể chọn các môn tự chọn liên ngành, tuy nhiên, không có thông tin cụ thể nào về danh sách các môn tự chọn để theo hướng IoT. \n\n**Thông tin này không có trong ngữ cảnh được cung cấp.**",
@@ -352,7 +352,7 @@
     "processing_time": 14.68749189376831
   },
   {
-    "question_id": 8,
+    "question_id": "MH009",
     "ground_truth": "Trong CTĐT CNTT, khối cơ sở ngành không phân chia thành phần 1 và phần 2 một cách tường minh nên không có số tín chỉ ‘phần 2’ được công bố. Do đó không có con số tín chỉ tối thiểu riêng cho phần 2.",
     "question": "Sinh viên CNTT cần học tối thiểu bao nhiêu tín chỉ phần 2 cơ sở ngành?",
     "answer": "Căn cứ vào thông tin được cung cấp, sinh viên ngành Công nghệ Thông tin cần học tối thiểu 26 tín chỉ phần cơ sở ngành.",
@@ -396,7 +396,7 @@
     "processing_time": 12.341272115707397
   },
   {
-    "question_id": 9,
+    "question_id": "MH010",
     "ground_truth": "Đồ án tốt nghiệp có 6 tín chỉ và chuyên đề tốt nghiệp có 4 tín chỉ. Nếu sinh viên chọn dạng này, tổng là 10 tín chỉ.",
     "question": "Nếu sinh viên AI chọn Đồ án tốt nghiệp + chuyên đề, tổng bằng bao nhiêu tín chỉ?",
     "answer": "Dựa trên ngữ cảnh được cung cấp, nếu sinh viên AI chọn Đồ án tốt nghiệp (6 tín chỉ) và một trong các môn chuyên đề tốt nghiệp (CE510 hoặc CE511) (4 tín chỉ), tổng bằng số tín chỉ là: 6 + 4 = **10 tín chỉ**.",
@@ -440,7 +440,7 @@
     "processing_time": 12.941426753997803
   },
   {
-    "question_id": 10,
+    "question_id": "MH011",
     "ground_truth": "Môn xử lý tiếng nói là CS337 – Xử lý âm thanh và tiếng nói, có 4 tín chỉ. Đây là môn tự chọn nâng cao và thường được học vào năm 3 hoặc năm 4 khi sinh viên đã hoàn thành nền tảng AI và ML.",
     "question": "Môn xử lý tiếng nói có bao nhiêu tín chỉ nên học vào học kì nào?",
     "answer": "Môn xử lý âm thanh và tiếng nói (CS337) có 4 tín chỉ.",
@@ -484,7 +484,7 @@
     "processing_time": 13.313850164413452
   },
   {
-    "question_id": 11,
+    "question_id": "MH012",
     "ground_truth": "Ngành CNTT không chia thành chuyên ngành đủ mạnh theo từng hướng, nhưng sinh viên theo hướng Khoa học thông tin thường học nhóm các môn tự chọn liên quan. CTĐT không quy định số tín chỉ tối thiểu cho riêng nhóm này nên không có con số bắt buộc.",
     "question": "Sinh viên CNTT muốn theo hướng Khoa học thông tin phải hoàn thành tối thiểu bao nhiêu tín chỉ nhóm đó?",
     "answer": "Thông tin này không có trong ngữ cảnh được cung cấp.",
