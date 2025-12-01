@@ -12,7 +12,7 @@ class RAGAPIClient:
     Client to interact with existing RAG API service
     """
     
-    def __init__(self, base_url: str = "http://localhost:8000/api/v1"):
+    def __init__(self, base_url: str = "http://localhost:8000/api/v1", endpoint = "history/ask-with-history"):
         """
         Initialize API client
         
@@ -20,17 +20,12 @@ class RAGAPIClient:
             base_url: Base URL of RAG service (default: http://localhost:8000/api/v1)
         """
         self.base_url = base_url.rstrip('/')
-        # Ensure base_url ends with /api/v1
-        if not self.base_url.endswith('/api/v1'):
-            self.base_url = f"{self.base_url}/api/v1"
-        
-        self.ask_endpoint = f"{self.base_url}/history/ask-with-history"
+        self.ask_endpoint = f"{self.base_url}/{endpoint}"
         logger.info(f"Initialized RAG API Client: {self.base_url}")
     
     def ask_question(
         self, 
         question: str,
-        conversation_id: Optional[str] = None
     ) -> Dict[str, Any]:
         """
         Ask a question to the RAG service
@@ -42,21 +37,20 @@ class RAGAPIClient:
         Returns:
             API response dictionary with answer, sources, suggestions, etc.
         """
-        payload = {"question": question}
-        if conversation_id:
-            payload["conversation_id"] = conversation_id
-        
+        payload = {"query": question, "top_k": 5}
+        print(payload)
         try:
             logger.info(f"Asking question: {question[:50]}...")
             response = requests.post(
                 self.ask_endpoint,
                 json=payload,
-                timeout=50
+                timeout=120
             )
             response.raise_for_status()
             
             data = response.json()
-            logger.info(f"Got response in {data.get('metadata', {}).get('processing_time', 0):.2f}s")
+            logger.info(f"Response data: {data}")
+            logger.info(f"Got response in {data.get('metadata', {}).get('total_time_ms', 0):.2f}s")
             return data
             
         except requests.exceptions.RequestException as e:
@@ -114,12 +108,13 @@ class RAGAPIClient:
         
         # Extract answer
         answer = response.get('answer', '')
+        logger.debug(f"Raw answer: {answer}")
         
         # Extract context as array - each source's content becomes one element
         sources = response.get('sources', [])
         context_array = []
         for source in sources:
-            content = source.get('content', '')
+            content = source.get("content") or source.get("text_preview") or source.get("text") or ""
             stripped_content = strip_markdown(content)
             if stripped_content:  # Only add non-empty content
                 context_array.append(stripped_content)
