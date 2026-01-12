@@ -1,0 +1,2 @@
+﻿"AnswerCorrectness","AnswerRelevancy","Faithfulness","ContextRelevance","ContextRecall"
+"[0.5918999848284594, 0.3070287145006265]","[np.float64(0.4263702904087831), np.float64(0.683256191154705)]","[1.0, 0.43333333333333335]","[1.0, 1.0]","[1.0, 1.0]"

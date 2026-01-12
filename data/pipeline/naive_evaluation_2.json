@@ -1,0 +1,3024 @@
+{
+  "pipeline": "naive",
+  "timestamp": "2025-12-27T19:08:39.820988",
+  "intent_filter": null,
+  "total_queries": 35,
+  "results": [
+    {
+      "question": "Tốt nghiệp ngành TTNT cần bao nhiêu tín chỉ?",
+      "answer": "Tốt nghiệp ngành Công Nghệ Thông Tin cần tối thiểu 125 tín chỉ, bao gồm 12 tín chỉ Anh văn và đã hoàn thành các môn học bắt buộc của chương trình đào tạo.",
+      "contexts": [
+        "[Ngành Công Nghệ Thông Tin > Điều kiện tốt nghiệp]\n\nCông nhận tốt nghiệp:\n\n\\- Sinh viên đã tích lũy **tối thiểu 125 tín chỉ** (bao gồm 12 tín chỉ Anh văn) và đã hoàn thành các môn học bắt buộc của chư",
+        "[Ngành Trí Tuệ Nhân Tạo > 7\\. ĐIỀU KIỆN TỐT NGHIỆP]\n\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n3\\. Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công nghệ Thông tin",
+        "[Ngành Hệ Thống Thông Tin > 5. ĐIỀU KIỆN TỐT NGHIỆP]\n\nCông nhận tốt nghiệp:\n\n\\- Sinh viên đã tích lũy **tối thiểu 132 tín chỉ**, đã hoàn thành các môn học bắt buộc của chương trình đào tạo tương ứng v",
+        "[Ngành Công Nghệ Thông Tin]\n\n",
+        "[Chương trình Truyền Thông Đa Phương Tiện > ĐIỀU KIỆN TỐT NGHIỆP]\n\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n\n· Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công n",
+        "[Ngành Hệ Thống Thông Tin > ... > Khối kiến thức tốt nghiệp]\n\nTổng cộng 12 tín chỉ.",
+        "[Ngành Công Nghệ Thông Tin > ... > Khối kiến thức giáo dục đại cương]\n\nSTT: Tổng số tín chỉ, TC: 45",
+        "[Ngành Trí Tuệ Nhân Tạo > ... > Khối kiến thức tốt nghiệp]\n\n● Sinh viên tích lũy tối thiểu 10 tín chỉ cho khối kiến thức tốt nghiệp.\n● Sinh viên được chọn:\n○ Hoặc, thực hiện Khóa luận tốt nghiệp (KLTN",
+        "[Ngành Công Nghệ Thông Tin > ... > Nhóm các môn học cơ sở ngành]\n\nSTT: Tổng số tín chỉ, TC: ³ 19",
+        "[Ngành Công Nghệ Thông Tin > ... > Khối kiến thức tốt nghiệp]\n\nSTT: 1., Mã môn học: IE502, Tên môn học: Đồ án tốt nghiệp tại doanh nghiệp, TC: 10, LT: 10, TH: 0"
+      ],
+      "ground_truth": "",
+      "expected_intent": "factual",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 10,
+        "total_time_ms": 8483.908891677856
+      },
+      "sources": [
+        {
+          "section_id": "a76ce75c6272",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > Điều kiện tốt nghiệp]\n\nCông nhận tốt nghiệp:\n\n\\- Sinh viên đã tích lũy **tối thiểu 125 tín chỉ** (bao gồm 12 tín chỉ Anh văn) và đã hoàn thành các môn học bắt buộc của chư",
+          "score": 0.9254024
+        },
+        {
+          "section_id": "6dbaaf0fd117",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > 7\\. ĐIỀU KIỆN TỐT NGHIỆP]\n\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n3\\. Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công nghệ Thông tin",
+          "score": 0.9225261
+        },
+        {
+          "section_id": "bb4822d5d526",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Hệ Thống Thông Tin > 5. ĐIỀU KIỆN TỐT NGHIỆP]\n\nCông nhận tốt nghiệp:\n\n\\- Sinh viên đã tích lũy **tối thiểu 132 tín chỉ**, đã hoàn thành các môn học bắt buộc của chương trình đào tạo tương ứng v",
+          "score": 0.91705537
+        },
+        {
+          "section_id": "e421da5daef2",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin]\n\n",
+          "score": 0.9155421
+        },
+        {
+          "section_id": "dc4cb3971e33",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Truyền Thông Đa Phương Tiện > ĐIỀU KIỆN TỐT NGHIỆP]\n\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n\n· Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công n",
+          "score": 0.91246986
+        },
+        {
+          "section_id": "0712e0b38509",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Hệ Thống Thông Tin > ... > Khối kiến thức tốt nghiệp]\n\nTổng cộng 12 tín chỉ.",
+          "score": 0.91152763
+        },
+        {
+          "section_id": "aa19a5e191b1",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > ... > Khối kiến thức giáo dục đại cương]\n\nSTT: Tổng số tín chỉ, TC: 45",
+          "score": 0.910347
+        },
+        {
+          "section_id": "f5d601d2c758",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > ... > Khối kiến thức tốt nghiệp]\n\n● Sinh viên tích lũy tối thiểu 10 tín chỉ cho khối kiến thức tốt nghiệp.\n● Sinh viên được chọn:\n○ Hoặc, thực hiện Khóa luận tốt nghiệp (KLTN",
+          "score": 0.9097321
+        },
+        {
+          "section_id": "da6f67cc1b07",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > ... > Nhóm các môn học cơ sở ngành]\n\nSTT: Tổng số tín chỉ, TC: ³ 19",
+          "score": 0.90935993
+        },
+        {
+          "section_id": "12140db0d251",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > ... > Khối kiến thức tốt nghiệp]\n\nSTT: 1., Mã môn học: IE502, Tên môn học: Đồ án tốt nghiệp tại doanh nghiệp, TC: 10, LT: 10, TH: 0",
+          "score": 0.9089544
+        }
+      ]
+    },
+    {
+      "question": "Ngành Trí Tuệ Nhân Tạo yêu cầu tối thiểu bao nhiêu tín chỉ để tốt nghiệp?",
+      "answer": "Để được công nhận tốt nghiệp ngành Trí Tuệ Nhân Tạo, sinh viên phải tích lũy tối thiểu 128 tín chỉ.",
+      "contexts": [
+        "[Ngành Trí Tuệ Nhân Tạo > 7\\. ĐIỀU KIỆN TỐT NGHIỆP]\n\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n3\\. Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công nghệ Thông tin",
+        "[Ngành Công Nghệ Thông Tin > Điều kiện tốt nghiệp]\n\nCông nhận tốt nghiệp:\n\n\\- Sinh viên đã tích lũy **tối thiểu 125 tín chỉ** (bao gồm 12 tín chỉ Anh văn) và đã hoàn thành các môn học bắt buộc của chư",
+        "[Ngành Trí Tuệ Nhân Tạo]\n\n",
+        "[Ngành Trí Tuệ Nhân Tạo > Cơ hội nghề nghiệp]\n\nSinh viên tốt nghiệp ngành Trí tuệ nhân tạo có thể làm việc:\n\\- Chuyên gia lập trình Trí tuệ nhân tạo, tham gia phát triển các phần mềm, ứng dụng, các h",
+        "[Ngành Trí Tuệ Nhân Tạo > ... > Khối kiến thức giáo dục chuyên nghiệp]\n\nKhối kiến thức giáo dục chuyên nghiệp gồm tối thiểu **73 tín chỉ**.",
+        "[Ngành Kỹ Thuật Máy Tính > Điều kiện tốt nghiệp]\n\nCông nhận tốt nghiệp:\n\n– Sinh viên đã tích lũy tối thiểu 128 tín chỉ, đã hoàn thành các môn học bắt buộc của chương trình đào tạo tương ứng với định h",
+        "[Chương trình Truyền Thông Đa Phương Tiện > ĐIỀU KIỆN TỐT NGHIỆP]\n\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n\n· Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công n",
+        "[Ngành Trí Tuệ Nhân Tạo > ... > Khối kiến thức tốt nghiệp]\n\n● Sinh viên tích lũy tối thiểu 10 tín chỉ cho khối kiến thức tốt nghiệp.\n● Sinh viên được chọn:\n○ Hoặc, thực hiện Khóa luận tốt nghiệp (KLTN"
+      ],
+      "ground_truth": "",
+      "expected_intent": "factual",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 8,
+        "total_time_ms": 6074.173927307129
+      },
+      "sources": [
+        {
+          "section_id": "6dbaaf0fd117",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > 7\\. ĐIỀU KIỆN TỐT NGHIỆP]\n\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n3\\. Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công nghệ Thông tin",
+          "score": 0.9514537
+        },
+        {
+          "section_id": "a76ce75c6272",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > Điều kiện tốt nghiệp]\n\nCông nhận tốt nghiệp:\n\n\\- Sinh viên đã tích lũy **tối thiểu 125 tín chỉ** (bao gồm 12 tín chỉ Anh văn) và đã hoàn thành các môn học bắt buộc của chư",
+          "score": 0.9269092
+        },
+        {
+          "section_id": "1cba9a2251c9",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo]\n\n",
+          "score": 0.9237039
+        },
+        {
+          "section_id": "edcf7864a797",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > Cơ hội nghề nghiệp]\n\nSinh viên tốt nghiệp ngành Trí tuệ nhân tạo có thể làm việc:\n\\- Chuyên gia lập trình Trí tuệ nhân tạo, tham gia phát triển các phần mềm, ứng dụng, các h",
+          "score": 0.921762
+        },
+        {
+          "section_id": "3471e4ec5b24",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > ... > Khối kiến thức giáo dục chuyên nghiệp]\n\nKhối kiến thức giáo dục chuyên nghiệp gồm tối thiểu **73 tín chỉ**.",
+          "score": 0.9217112
+        },
+        {
+          "section_id": "9feb1f49d68b",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > Điều kiện tốt nghiệp]\n\nCông nhận tốt nghiệp:\n\n– Sinh viên đã tích lũy tối thiểu 128 tín chỉ, đã hoàn thành các môn học bắt buộc của chương trình đào tạo tương ứng với định h",
+          "score": 0.92124844
+        },
+        {
+          "section_id": "dc4cb3971e33",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Truyền Thông Đa Phương Tiện > ĐIỀU KIỆN TỐT NGHIỆP]\n\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n\n· Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công n",
+          "score": 0.91956115
+        },
+        {
+          "section_id": "f5d601d2c758",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > ... > Khối kiến thức tốt nghiệp]\n\n● Sinh viên tích lũy tối thiểu 10 tín chỉ cho khối kiến thức tốt nghiệp.\n● Sinh viên được chọn:\n○ Hoặc, thực hiện Khóa luận tốt nghiệp (KLTN",
+          "score": 0.91840124
+        }
+      ]
+    },
+    {
+      "question": "Khóa luận tốt nghiệp ngành Trí Tuệ Nhân Tạo có bao nhiêu tín chỉ?",
+      "answer": "Khóa luận tốt nghiệp ngành Trí Tuệ Nhân Tạo có 10 tín chỉ.",
+      "contexts": [
+        "[Ngành Trí Tuệ Nhân Tạo > 7\\. ĐIỀU KIỆN TỐT NGHIỆP]\n\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n3\\. Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công nghệ Thông tin",
+        "[Ngành Trí Tuệ Nhân Tạo > ... > Khối kiến thức tốt nghiệp]\n\n● Sinh viên tích lũy tối thiểu 10 tín chỉ cho khối kiến thức tốt nghiệp.\n● Sinh viên được chọn:\n○ Hoặc, thực hiện Khóa luận tốt nghiệp (KLTN",
+        "[Ngành Trí Tuệ Nhân Tạo > Cơ hội nghề nghiệp]\n\n\\- Nhà nghiên cứu về Khoa học máy tính và Trí tuệ nhân tạo tại các trường, viện, trung tâm nghiên cứu, bộ phận Nghiên cứu & Phát triển của các công ty và",
+        "[Ngành Trí Tuệ Nhân Tạo > ... > Khối kiến thức giáo dục chuyên nghiệp]\n\nKhối kiến thức giáo dục chuyên nghiệp gồm tối thiểu **73 tín chỉ**.",
+        "[Chương trình An Toàn Thông Tin > ... > Khóa luận tốt nghiệp]\n\nSinh viên đủ điều kiện làm khóa luận tốt nghiệp theo qui chế của trường có thể đăng ký thực hiện Khóa luận tốt nghiệp với số tín chỉ là 1",
+        "[Ngành Trí Tuệ Nhân Tạo]\n\n",
+        "[Chương trình Mạng Máy Tính và Truyền Thông Dữ Liệu > ... > Khóa luận tốt nghiệp]\n\nSinh viên đủ điều kiện làm khóa luận tốt nghiệp theo qui chế của trường có thể đăng ký thực hiện Khóa luận tốt nghiệp",
+        "[Ngành Trí Tuệ Nhân Tạo > ... > Học kỳ 7]\n\n| Mã MH | Tên môn học | TC | LT | TH |\n| ------ | ------------------------ | --- | --- | --- |\n| AI505 | Khóa luận tốt nghiệp | 10 | | |\n| AI504 | Đồ án thực",
+        "[Chương trình Khoa Học Dữ Liệu > ĐIỀU KIỆN TỐT NGHIỆP]\n\nĐể được công nhận tốt nghiệp “Cử nhân ngành Khoa học dữ liệu”, sinh viên phải thỏa mãn các điều kiện sau:\n\n− Tích lũy tối thiểu **123 tín ch"
+      ],
+      "ground_truth": "",
+      "expected_intent": "factual",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 9,
+        "total_time_ms": 3215.7771587371826
+      },
+      "sources": [
+        {
+          "section_id": "6dbaaf0fd117",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > 7\\. ĐIỀU KIỆN TỐT NGHIỆP]\n\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n3\\. Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công nghệ Thông tin",
+          "score": 0.9337368
+        },
+        {
+          "section_id": "f5d601d2c758",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > ... > Khối kiến thức tốt nghiệp]\n\n● Sinh viên tích lũy tối thiểu 10 tín chỉ cho khối kiến thức tốt nghiệp.\n● Sinh viên được chọn:\n○ Hoặc, thực hiện Khóa luận tốt nghiệp (KLTN",
+          "score": 0.9273658
+        },
+        {
+          "section_id": "edcf7864a797",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > Cơ hội nghề nghiệp]\n\n\\- Nhà nghiên cứu về Khoa học máy tính và Trí tuệ nhân tạo tại các trường, viện, trung tâm nghiên cứu, bộ phận Nghiên cứu & Phát triển của các công ty và",
+          "score": 0.9266393
+        },
+        {
+          "section_id": "3471e4ec5b24",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > ... > Khối kiến thức giáo dục chuyên nghiệp]\n\nKhối kiến thức giáo dục chuyên nghiệp gồm tối thiểu **73 tín chỉ**.",
+          "score": 0.92098165
+        },
+        {
+          "section_id": "932c2fac57cd",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình An Toàn Thông Tin > ... > Khóa luận tốt nghiệp]\n\nSinh viên đủ điều kiện làm khóa luận tốt nghiệp theo qui chế của trường có thể đăng ký thực hiện Khóa luận tốt nghiệp với số tín chỉ là 1",
+          "score": 0.9187794
+        },
+        {
+          "section_id": "1cba9a2251c9",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo]\n\n",
+          "score": 0.9174168
+        },
+        {
+          "section_id": "7f7b941671cf",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Mạng Máy Tính và Truyền Thông Dữ Liệu > ... > Khóa luận tốt nghiệp]\n\nSinh viên đủ điều kiện làm khóa luận tốt nghiệp theo qui chế của trường có thể đăng ký thực hiện Khóa luận tốt nghiệp",
+          "score": 0.9155922
+        },
+        {
+          "section_id": "e8956ceac87e",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > ... > Học kỳ 7]\n\n| Mã MH | Tên môn học | TC | LT | TH |\n| ------ | ------------------------ | --- | --- | --- |\n| AI505 | Khóa luận tốt nghiệp | 10 | | |\n| AI504 | Đồ án thực",
+          "score": 0.91404295
+        },
+        {
+          "section_id": "e9538b4a77bf",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Khoa Học Dữ Liệu > ĐIỀU KIỆN TỐT NGHIỆP]\n\nĐể được công nhận tốt nghiệp “Cử nhân ngành Khoa học dữ liệu”, sinh viên phải thỏa mãn các điều kiện sau:\n\n− Tích lũy tối thiểu **123 tín ch",
+          "score": 0.91370654
+        }
+      ]
+    },
+    {
+      "question": "Ngành Trí Tuệ Nhân Tạo yêu cầu bao nhiêu tín chỉ ngoại ngữ?",
+      "answer": "Theo thông tin được cung cấp, để đáp ứng yêu cầu tốt nghiệp ngành Trí Tuệ Nhân Tạo, sinh viên cần tối thiểu 10 tín chỉ kiến thức tốt nghiệp. Ngoài ra, chương trình đào tạo còn yêu cầu sinh viên có kỹ năng giao tiếp tổng quát bằng ngoại ngữ và đọc hiểu tài liệu chuyên môn bằng ngoại ngữ. Tuy nhiên, không có thông tin cụ thể về số lượng tín chỉ ngoại ngữ bắt buộc.",
+      "contexts": [
+        "[Ngành Trí Tuệ Nhân Tạo]\n\n",
+        "[Ngành Trí Tuệ Nhân Tạo > ... > Khối kiến thức giáo dục chuyên nghiệp]\n\nKhối kiến thức giáo dục chuyên nghiệp gồm tối thiểu **73 tín chỉ**.",
+        "[Ngành Trí Tuệ Nhân Tạo > 7\\. ĐIỀU KIỆN TỐT NGHIỆP]\n\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n3\\. Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công nghệ Thông tin",
+        "[Ngành Trí Tuệ Nhân Tạo > Cơ hội nghề nghiệp]\n\n\\- Nhà nghiên cứu về Khoa học máy tính và Trí tuệ nhân tạo tại các trường, viện, trung tâm nghiên cứu, bộ phận Nghiên cứu & Phát triển của các công ty và",
+        "[Ngành Trí Tuệ Nhân Tạo > CHUẨN ĐẦU RA]\n\n| 6 | 1 | Kỹ năng giao tiếp tổng quát bằng ngoại ngữ | | |\n| 6 | 2 | Đọc hiểu tài liệu chuyên môn bằng ngoại ngữ | | |\n| 6 | 2 | 1 | | Các thuật ngữ chuyên m",
+        "[Ngành Trí Tuệ Nhân Tạo > Quan điểm xây dựng chương trình đào tạo]\n\n\\- Chương trình đào tạo ngành Trí tuệ nhân tạo được xây dựng dựa trên tầm nhìn, sứ mạng và triết lý giáo dục của Trường Đại học Công",
+        "[Ngành Trí Tuệ Nhân Tạo > ... > Khối kiến thức giáo dục đại cương]\n\nSTT: 18., Mã môn học: SS004, Tên môn học: Kỹ năng nghề nghiệp, Bắt buộc/Chọn: BB, TC: 2, LT: 2, TH: 0",
+        "[Ngành Trí Tuệ Nhân Tạo > ... > Các môn học tự chọn ngành]\n\nSTT: 20., Mã môn học: CS535, Tên môn học chuyên ngành: Tổng hợp tiếng nói, TC: 4, LT: 3, TH: 1\nSTT: 21., Mã môn học: AI301, Tên môn học chu",
+        "[Ngành Trí Tuệ Nhân Tạo > ... > Học kỳ 3]\n\nMã MH: Tổng số tín chỉ Học kỳ 3, TC: 20, LT: 17, TH: 3"
+      ],
+      "ground_truth": "",
+      "expected_intent": "factual",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 9,
+        "total_time_ms": 5221.370220184326
+      },
+      "sources": [
+        {
+          "section_id": "1cba9a2251c9",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo]\n\n",
+          "score": 0.9415815
+        },
+        {
+          "section_id": "3471e4ec5b24",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > ... > Khối kiến thức giáo dục chuyên nghiệp]\n\nKhối kiến thức giáo dục chuyên nghiệp gồm tối thiểu **73 tín chỉ**.",
+          "score": 0.92384744
+        },
+        {
+          "section_id": "6dbaaf0fd117",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > 7\\. ĐIỀU KIỆN TỐT NGHIỆP]\n\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n3\\. Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công nghệ Thông tin",
+          "score": 0.9218912
+        },
+        {
+          "section_id": "edcf7864a797",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > Cơ hội nghề nghiệp]\n\n\\- Nhà nghiên cứu về Khoa học máy tính và Trí tuệ nhân tạo tại các trường, viện, trung tâm nghiên cứu, bộ phận Nghiên cứu & Phát triển của các công ty và",
+          "score": 0.9193013
+        },
+        {
+          "section_id": "ab134b763c77",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > CHUẨN ĐẦU RA]\n\n| 6 | 1 | Kỹ năng giao tiếp tổng quát bằng ngoại ngữ | | |\n| 6 | 2 | Đọc hiểu tài liệu chuyên môn bằng ngoại ngữ | | |\n| 6 | 2 | 1 | | Các thuật ngữ chuyên m",
+          "score": 0.91694593
+        },
+        {
+          "section_id": "94e6e0f0674f",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > Quan điểm xây dựng chương trình đào tạo]\n\n\\- Chương trình đào tạo ngành Trí tuệ nhân tạo được xây dựng dựa trên tầm nhìn, sứ mạng và triết lý giáo dục của Trường Đại học Công",
+          "score": 0.91260123
+        },
+        {
+          "section_id": "9bc4f70e56fc",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > ... > Khối kiến thức giáo dục đại cương]\n\nSTT: 18., Mã môn học: SS004, Tên môn học: Kỹ năng nghề nghiệp, Bắt buộc/Chọn: BB, TC: 2, LT: 2, TH: 0",
+          "score": 0.90843034
+        },
+        {
+          "section_id": "7c968c86ef92",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > ... > Các môn học tự chọn ngành]\n\nSTT: 20., Mã môn học: CS535, Tên môn học chuyên ngành: Tổng hợp tiếng nói, TC: 4, LT: 3, TH: 1\nSTT: 21., Mã môn học: AI301, Tên môn học chu",
+          "score": 0.9063747
+        },
+        {
+          "section_id": "24e541d68db4",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > ... > Học kỳ 3]\n\nMã MH: Tổng số tín chỉ Học kỳ 3, TC: 20, LT: 17, TH: 3",
+          "score": 0.90629816
+        }
+      ]
+    },
+    {
+      "question": "Ngành CNTT yêu cầu tổng cộng bao nhiêu tín chỉ để tốt nghiệp?",
+      "answer": "Tối thiểu 125 tín chỉ.",
+      "contexts": [
+        "[Ngành Công Nghệ Thông Tin > Điều kiện tốt nghiệp]\n\nCông nhận tốt nghiệp:\n\n\\- Sinh viên đã tích lũy **tối thiểu 125 tín chỉ** (bao gồm 12 tín chỉ Anh văn) và đã hoàn thành các môn học bắt buộc của chư",
+        "[Ngành Công Nghệ Thông Tin]\n\n",
+        "[Ngành Hệ Thống Thông Tin > 5. ĐIỀU KIỆN TỐT NGHIỆP]\n\nCông nhận tốt nghiệp:\n\n\\- Sinh viên đã tích lũy **tối thiểu 132 tín chỉ**, đã hoàn thành các môn học bắt buộc của chương trình đào tạo tương ứng v",
+        "[Ngành Công Nghệ Thông Tin > ... > Khối kiến thức tốt nghiệp]\n\nSTT: 1., Mã môn học: IE502, Tên môn học: Đồ án tốt nghiệp tại doanh nghiệp, TC: 10, LT: 10, TH: 0",
+        "[Chương trình An Toàn Thông Tin > ĐIỀU KIỆN TỐT NGHIỆP]\n\nCông nhận tốt nghiệp:\n\n– Sinh viên đã tích lũy **tối thiểu 129 tín chỉ**, đã hoàn thành các môn học bắt buộc của chương trình đào tạo tương ứng",
+        "[Ngành Công Nghệ Thông Tin > ... > Khối kiến thức giáo dục đại cương]\n\nSTT: Tổng số tín chỉ, TC: 45",
+        "[Ngành Trí Tuệ Nhân Tạo > 7\\. ĐIỀU KIỆN TỐT NGHIỆP]\n\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n3\\. Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công nghệ Thông tin",
+        "[Ngành Kỹ Thuật Máy Tính > Điều kiện tốt nghiệp]\n\nCông nhận tốt nghiệp:\n\n– Sinh viên đã tích lũy tối thiểu 128 tín chỉ, đã hoàn thành các môn học bắt buộc của chương trình đào tạo tương ứng với định h",
+        "[Chương trình Truyền Thông Đa Phương Tiện > ĐIỀU KIỆN TỐT NGHIỆP]\n\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n\n· Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công n",
+        "[Ngành Công Nghệ Thông Tin > Quan điểm xây dựng chương trình đào tạo]\n\n![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/66bdbdd08b03669bc4e66c80fec444532e2753890f2e8c8e.png)\n\n**Hình 1: Mô "
+      ],
+      "ground_truth": "",
+      "expected_intent": "factual",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 10,
+        "total_time_ms": 3113.0621433258057
+      },
+      "sources": [
+        {
+          "section_id": "a76ce75c6272",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > Điều kiện tốt nghiệp]\n\nCông nhận tốt nghiệp:\n\n\\- Sinh viên đã tích lũy **tối thiểu 125 tín chỉ** (bao gồm 12 tín chỉ Anh văn) và đã hoàn thành các môn học bắt buộc của chư",
+          "score": 0.9207673
+        },
+        {
+          "section_id": "e421da5daef2",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin]\n\n",
+          "score": 0.9128444
+        },
+        {
+          "section_id": "bb4822d5d526",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Hệ Thống Thông Tin > 5. ĐIỀU KIỆN TỐT NGHIỆP]\n\nCông nhận tốt nghiệp:\n\n\\- Sinh viên đã tích lũy **tối thiểu 132 tín chỉ**, đã hoàn thành các môn học bắt buộc của chương trình đào tạo tương ứng v",
+          "score": 0.91048455
+        },
+        {
+          "section_id": "12140db0d251",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > ... > Khối kiến thức tốt nghiệp]\n\nSTT: 1., Mã môn học: IE502, Tên môn học: Đồ án tốt nghiệp tại doanh nghiệp, TC: 10, LT: 10, TH: 0",
+          "score": 0.90872145
+        },
+        {
+          "section_id": "0a58fdc4584a",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình An Toàn Thông Tin > ĐIỀU KIỆN TỐT NGHIỆP]\n\nCông nhận tốt nghiệp:\n\n– Sinh viên đã tích lũy **tối thiểu 129 tín chỉ**, đã hoàn thành các môn học bắt buộc của chương trình đào tạo tương ứng",
+          "score": 0.9075179
+        },
+        {
+          "section_id": "aa19a5e191b1",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > ... > Khối kiến thức giáo dục đại cương]\n\nSTT: Tổng số tín chỉ, TC: 45",
+          "score": 0.9071095
+        },
+        {
+          "section_id": "6dbaaf0fd117",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > 7\\. ĐIỀU KIỆN TỐT NGHIỆP]\n\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n3\\. Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công nghệ Thông tin",
+          "score": 0.9062331
+        },
+        {
+          "section_id": "9feb1f49d68b",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > Điều kiện tốt nghiệp]\n\nCông nhận tốt nghiệp:\n\n– Sinh viên đã tích lũy tối thiểu 128 tín chỉ, đã hoàn thành các môn học bắt buộc của chương trình đào tạo tương ứng với định h",
+          "score": 0.9056647
+        },
+        {
+          "section_id": "dc4cb3971e33",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Truyền Thông Đa Phương Tiện > ĐIỀU KIỆN TỐT NGHIỆP]\n\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n\n· Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công n",
+          "score": 0.9025779
+        },
+        {
+          "section_id": "197c31f4cd93",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > Quan điểm xây dựng chương trình đào tạo]\n\n![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/66bdbdd08b03669bc4e66c80fec444532e2753890f2e8c8e.png)\n\n**Hình 1: Mô ",
+          "score": 0.9014344
+        }
+      ]
+    },
+    {
+      "question": "Tự chọn chuyên ngành ngành Trí Tuệ Nhân Tạo yêu cầu tối thiểu bao nhiêu tín chỉ?",
+      "answer": "Tự chọn chuyên ngành ngành Trí Tuệ Nhân Tạo yêu cầu tối thiểu 73 tín chỉ (73 tín chỉ trong khối kiến thức giáo dục chuyên nghiệp).",
+      "contexts": [
+        "[Ngành Trí Tuệ Nhân Tạo > ... > Khối kiến thức giáo dục chuyên nghiệp]\n\nKhối kiến thức giáo dục chuyên nghiệp gồm tối thiểu **73 tín chỉ**.",
+        "[Ngành Trí Tuệ Nhân Tạo]\n\n",
+        "[Ngành Trí Tuệ Nhân Tạo > ... > Các môn học tự chọn liên ngành]\n\n\\- Tổng số tín chỉ cho các môn tự chọn liên ngành đạt tối thiểu **8** tín chỉ.\n\n- Sinh viên có thể chọn học:\n\no Các môn học liên ngành",
+        "[Ngành Trí Tuệ Nhân Tạo > ... > Các môn học tự chọn ngành]\n\nTổng số tín chỉ cho các môn học tự chọn ngành đạt tối thiểu **8** tín chỉ.\n\n[Bảng 1] Bảng 24 hàng x 7 cột. Các cột: STT, Mã môn học, Tên mô",
+        "[Ngành Trí Tuệ Nhân Tạo > 7\\. ĐIỀU KIỆN TỐT NGHIỆP]\n\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n3\\. Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công nghệ Thông tin",
+        "[Ngành Trí Tuệ Nhân Tạo > ... > Các môn học cơ sở ngành Trí tuệ nhân tạo]\n\n● Tổng số tín chỉ cho các môn học cơ sở ngành đạt tối thiểu **57** tín chỉ\n| | | | | | | |\n| ------------------------------",
+        "[Ngành Công Nghệ Thông Tin > Quan điểm xây dựng chương trình đào tạo]\n\nChương trình được thiết kế sao cho đảm bảo đủ độ phủ, độ sâu nhất định nhằm tạo điều kiện, cơ hội phát triển cho sinh viên làm vi"
+      ],
+      "ground_truth": "",
+      "expected_intent": "factual",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 7,
+        "total_time_ms": 4368.124961853027
+      },
+      "sources": [
+        {
+          "section_id": "3471e4ec5b24",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > ... > Khối kiến thức giáo dục chuyên nghiệp]\n\nKhối kiến thức giáo dục chuyên nghiệp gồm tối thiểu **73 tín chỉ**.",
+          "score": 0.926353
+        },
+        {
+          "section_id": "1cba9a2251c9",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo]\n\n",
+          "score": 0.91939306
+        },
+        {
+          "section_id": "f1b34cca2b28",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > ... > Các môn học tự chọn liên ngành]\n\n\\- Tổng số tín chỉ cho các môn tự chọn liên ngành đạt tối thiểu **8** tín chỉ.\n\n- Sinh viên có thể chọn học:\n\no Các môn học liên ngành",
+          "score": 0.91824627
+        },
+        {
+          "section_id": "7c968c86ef92",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > ... > Các môn học tự chọn ngành]\n\nTổng số tín chỉ cho các môn học tự chọn ngành đạt tối thiểu **8** tín chỉ.\n\n[Bảng 1] Bảng 24 hàng x 7 cột. Các cột: STT, Mã môn học, Tên mô",
+          "score": 0.91120315
+        },
+        {
+          "section_id": "6dbaaf0fd117",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > 7\\. ĐIỀU KIỆN TỐT NGHIỆP]\n\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n3\\. Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công nghệ Thông tin",
+          "score": 0.9103615
+        },
+        {
+          "section_id": "d8da33dbd64b",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > ... > Các môn học cơ sở ngành Trí tuệ nhân tạo]\n\n● Tổng số tín chỉ cho các môn học cơ sở ngành đạt tối thiểu **57** tín chỉ\n| | | | | | | |\n| ------------------------------",
+          "score": 0.90700173
+        },
+        {
+          "section_id": "197c31f4cd93",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > Quan điểm xây dựng chương trình đào tạo]\n\nChương trình được thiết kế sao cho đảm bảo đủ độ phủ, độ sâu nhất định nhằm tạo điều kiện, cơ hội phát triển cho sinh viên làm vi",
+          "score": 0.9069283
+        }
+      ]
+    },
+    {
+      "question": "Môn Hoạch định nguồn lực doanh nghiệp học bao nhiêu tín chỉ?",
+      "answer": "Môn Hoạch định nguồn lực doanh nghiệp có tổng cộng 45 tín chỉ (lý thuyết) + 30 tín chỉ (thực hành) = 75 tín chỉ.",
+      "contexts": [
+        "[IS336 -- Hoạch Định Nguồn Lực Doanh Nghiệp]\n\n",
+        "[IS336 -- Hoạch Định Nguồn Lực Doanh Nghiệp > MÔ TẢ MÔN HỌC (Course description)]\n\nhà quản trị trong việc điều hành doanh nghiệp, hỗ trợ người dùng thực thi các nghiệp vụ kinh doanh.",
+        "[Ngành Công Nghệ Thông Tin > ... > Nhóm các môn học chuyên ngành]\n\n**Bắt buộc** đối với sinh viên ngành Công nghệ thông tin (**Tối thiểu 26 tín chỉ**).\n\nSinh viên được chọn môn học chuyên ngành tự d",
+        "[Ngành Công Nghệ Thông Tin]\n\n",
+        "[IS336 -- Hoạch Định Nguồn Lực Doanh Nghiệp > THÔNG TIN CHUNG]\n\nTên môn học (tiếng Việt):: Lý thuyết: (tiết), Hoạch định nguồn lực doanh nghiệp: 45\nTên môn học (tiếng Việt):: Thực hành: (tiết), Hoạch ",
+        "[Ngành Công Nghệ Thông Tin > ... > Học kì 7]\n\n[Bảng 1] Bảng 4 hàng x 6 cột. Các cột: Mã môn, Tên môn học, TC, ...\n: Mã môn, : Tên môn học, : TC, : LT, : TH\nMã môn: IE400, Tên môn học: Chuyên đề tốt ng",
+        "[Chương trình Thương Mại Điện Tử > Khối kiến thức tốt nghiệp]\n\n\\- Tổng cộng 12 tín chỉ.",
+        "[Ngành Hệ Thống Thông Tin > ... > Thực tập doanh nghiệp]\n\nSinh viên bắt buộc phải đi thực tập thực tế tại các doanh nghiệp và thực hiện báo cáo thực tập nộp về Khoa.\n\n\\- Thực tập doanh nghiệp (IS502):",
+        "[IS336 -- Hoạch Định Nguồn Lực Doanh Nghiệp > QUY ĐỊNH CỦA MÔN HỌC]\n\n- *Các quy định của môn học: Dự lớp: đầy đủ (sinh viên vắng từ **5** buổi trở lên sẽ bị cấm thi lý thuyết).*"
+      ],
+      "ground_truth": "",
+      "expected_intent": "factual",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 9,
+        "total_time_ms": 3598.8340377807617
+      },
+      "sources": [
+        {
+          "section_id": "17c16174ff89",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS336 -- Hoạch Định Nguồn Lực Doanh Nghiệp]\n\n",
+          "score": 0.8982527
+        },
+        {
+          "section_id": "771698e1e314",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS336 -- Hoạch Định Nguồn Lực Doanh Nghiệp > MÔ TẢ MÔN HỌC (Course description)]\n\nhà quản trị trong việc điều hành doanh nghiệp, hỗ trợ người dùng thực thi các nghiệp vụ kinh doanh.",
+          "score": 0.8933077
+        },
+        {
+          "section_id": "40be15102e72",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > ... > Nhóm các môn học chuyên ngành]\n\n**Bắt buộc** đối với sinh viên ngành Công nghệ thông tin (**Tối thiểu 26 tín chỉ**).\n\nSinh viên được chọn môn học chuyên ngành tự d",
+          "score": 0.8931277
+        },
+        {
+          "section_id": "e421da5daef2",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin]\n\n",
+          "score": 0.89042115
+        },
+        {
+          "section_id": "54f2ebe28fd3",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS336 -- Hoạch Định Nguồn Lực Doanh Nghiệp > THÔNG TIN CHUNG]\n\nTên môn học (tiếng Việt):: Lý thuyết: (tiết), Hoạch định nguồn lực doanh nghiệp: 45\nTên môn học (tiếng Việt):: Thực hành: (tiết), Hoạch ",
+          "score": 0.88791656
+        },
+        {
+          "section_id": "b66123da3d05",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > ... > Học kì 7]\n\n[Bảng 1] Bảng 4 hàng x 6 cột. Các cột: Mã môn, Tên môn học, TC, ...\n: Mã môn, : Tên môn học, : TC, : LT, : TH\nMã môn: IE400, Tên môn học: Chuyên đề tốt ng",
+          "score": 0.8871906
+        },
+        {
+          "section_id": "40a19ee927c1",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Thương Mại Điện Tử > Khối kiến thức tốt nghiệp]\n\n\\- Tổng cộng 12 tín chỉ.",
+          "score": 0.88660574
+        },
+        {
+          "section_id": "7502a33b2f7b",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Hệ Thống Thông Tin > ... > Thực tập doanh nghiệp]\n\nSinh viên bắt buộc phải đi thực tập thực tế tại các doanh nghiệp và thực hiện báo cáo thực tập nộp về Khoa.\n\n\\- Thực tập doanh nghiệp (IS502):",
+          "score": 0.88636804
+        },
+        {
+          "section_id": "1f171527e21f",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS336 -- Hoạch Định Nguồn Lực Doanh Nghiệp > QUY ĐỊNH CỦA MÔN HỌC]\n\n- *Các quy định của môn học: Dự lớp: đầy đủ (sinh viên vắng từ **5** buổi trở lên sẽ bị cấm thi lý thuyết).*",
+          "score": 0.8861177
+        }
+      ]
+    },
+    {
+      "question": "Môn tiên quyết của Dữ Liệu Lớn là gì?",
+      "answer": "Tôi không có đủ thông tin để trả lời câu hỏi này.",
+      "contexts": [
+        "[IS405 -- DỮ LIỆU LỚN > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\n- Vận dụng được ở mức cơ bản những kỹ thuật xử lý dữ liệu lớn để giải quyết một bài toán cụ thể.                                - Vận dụng được nhữn",
+        "[IS405 -- DỮ LIỆU LỚN > NỘI DUNG CHI TIẾT]\n\n**Lý thuyết**\n\n**Thực hành**\n\n[Bảng 1] Bảng 6 hàng x 5 cột. Các cột: Tuần/Thời lượng, Nội dung, Ghi chú/Mô tả hoạt động, ...\n: Tuần/Thời lượng, : Nội dung, ",
+        "[Chương trình Mạng Máy Tính và Truyền Thông Dữ Liệu > Khối kiến thức giáo dục chuyên nghiệp]\n\n",
+        "[Chương trình Mạng Máy Tính và Truyền Thông Dữ Liệu > ... > Học kỳ II (16 tín chỉ)]\n\nMã MH: ENG02, Tên môn học (Tiếng Việt): Anh văn 2, Tên môn học (Tiếng Anh): English 2, Loại MH: Bắt buộc, Tín chỉ: ",
+        "[Chương trình Khoa Học Dữ Liệu > Sơ đồ mối liên hệ thứ tự học giữa các môn học]\n\n![](/sites/daa/files/uploads/so_do_moi_lien_he_khdl_2024.png)",
+        "[Chương trình Khoa Học Dữ Liệu > ... > Nhóm các môn học tự chọn tự do]\n\nSTT: Và các môn học khác theo đề nghị của Khoa."
+      ],
+      "ground_truth": "",
+      "expected_intent": "factual",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 6,
+        "total_time_ms": 3210.4697227478027
+      },
+      "sources": [
+        {
+          "section_id": "d0a38d4240f4",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS405 -- DỮ LIỆU LỚN > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\n- Vận dụng được ở mức cơ bản những kỹ thuật xử lý dữ liệu lớn để giải quyết một bài toán cụ thể.                                - Vận dụng được nhữn",
+          "score": 0.85740423
+        },
+        {
+          "section_id": "8ce735a5edb9",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS405 -- DỮ LIỆU LỚN > NỘI DUNG CHI TIẾT]\n\n**Lý thuyết**\n\n**Thực hành**\n\n[Bảng 1] Bảng 6 hàng x 5 cột. Các cột: Tuần/Thời lượng, Nội dung, Ghi chú/Mô tả hoạt động, ...\n: Tuần/Thời lượng, : Nội dung, ",
+          "score": 0.85397863
+        },
+        {
+          "section_id": "6d94e1c4c6b3",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Mạng Máy Tính và Truyền Thông Dữ Liệu > Khối kiến thức giáo dục chuyên nghiệp]\n\n",
+          "score": 0.850893
+        },
+        {
+          "section_id": "6d1a177bbafa",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Mạng Máy Tính và Truyền Thông Dữ Liệu > ... > Học kỳ II (16 tín chỉ)]\n\nMã MH: ENG02, Tên môn học (Tiếng Việt): Anh văn 2, Tên môn học (Tiếng Anh): English 2, Loại MH: Bắt buộc, Tín chỉ: ",
+          "score": 0.85040116
+        },
+        {
+          "section_id": "effa039d190f",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Khoa Học Dữ Liệu > Sơ đồ mối liên hệ thứ tự học giữa các môn học]\n\n![](/sites/daa/files/uploads/so_do_moi_lien_he_khdl_2024.png)",
+          "score": 0.85033655
+        },
+        {
+          "section_id": "26da4024cdbe",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Khoa Học Dữ Liệu > ... > Nhóm các môn học tự chọn tự do]\n\nSTT: Và các môn học khác theo đề nghị của Khoa.",
+          "score": 0.85019135
+        }
+      ]
+    },
+    {
+      "question": "T có thể học 3 môn thay thế để tốt nghiệp đối với công nghệ thông tin được không",
+      "answer": "Không, để tốt nghiệp ngành Công nghệ Thông tin, sinh viên cần tích lũy tối thiểu 125 tín chỉ, bao gồm 12 tín chỉ Anh văn, và đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công nghệ Thông tin.",
+      "contexts": [
+        "[Ngành Trí Tuệ Nhân Tạo > 7\\. ĐIỀU KIỆN TỐT NGHIỆP]\n\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n3\\. Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công nghệ Thông tin",
+        "[Chương trình An Toàn Thông Tin > GIỚI THIỆU CHUNG]\n\nhi tốt nghiệp vừa có kỹ năng đáp ứng được yêu cầu của công nghệ hiện đại vừa có kiến thức nền tảng cho phép họ có cơ hội tiếp tục học tập và công t",
+        "[Chương Trình Khoa Học Máy Tính > Điều kiện tốt nghiệp]\n\n* ● Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n* 3\\. Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công nghệ Th",
+        "[Chương trình Truyền Thông Đa Phương Tiện > ĐIỀU KIỆN TỐT NGHIỆP]\n\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n\n· Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công n",
+        "[Ngành Kỹ Thuật Máy Tính > ... > Mô tả các môn học mới và việc xét tương đương môn học]\n\nvà Đồ án tốt nghiệp tại doanh nghiệp trong cùng một học kỳ hoặc hai học kỳ liên tiếp để thuận tiện cho việc thự",
+        "[Chương trình An Toàn Thông Tin > ... > Khóa luận tốt nghiệp]\n\nSinh viên đủ điều kiện làm khóa luận tốt nghiệp theo qui chế của trường có thể đăng ký thực hiện Khóa luận tốt nghiệp với số tín chỉ là 1",
+        "[Ngành Công Nghệ Thông Tin > ... > Khối kiến thức tốt nghiệp]\n\nSTT: 1., Mã môn học: IE502, Tên môn học: Đồ án tốt nghiệp tại doanh nghiệp, TC: 10, LT: 10, TH: 0",
+        "[Ngành Công Nghệ Thông Tin > ... > Học kì 3]\n\nMã môn: ENG03, Tên môn học: Anh văn 3 (*), TC: 4, LT: 4, TH: 0\nTên môn học: Tổng số tín chỉ HK3, TC: 19",
+        "[Ngành Công Nghệ Thông Tin > Điều kiện tốt nghiệp]\n\nCông nhận tốt nghiệp:\n\n\\- Sinh viên đã tích lũy **tối thiểu 125 tín chỉ** (bao gồm 12 tín chỉ Anh văn) và đã hoàn thành các môn học bắt buộc của chư",
+        "[Ngành Hệ Thống Thông Tin > 5. ĐIỀU KIỆN TỐT NGHIỆP]\n\nCông nhận tốt nghiệp:\n\n\\- Sinh viên đã tích lũy **tối thiểu 132 tín chỉ**, đã hoàn thành các môn học bắt buộc của chương trình đào tạo tương ứng v"
+      ],
+      "ground_truth": "",
+      "expected_intent": "structure",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 10,
+        "total_time_ms": 4125.914812088013
+      },
+      "sources": [
+        {
+          "section_id": "6dbaaf0fd117",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > 7\\. ĐIỀU KIỆN TỐT NGHIỆP]\n\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n3\\. Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công nghệ Thông tin",
+          "score": 0.9211416
+        },
+        {
+          "section_id": "7c3120b2a25b",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình An Toàn Thông Tin > GIỚI THIỆU CHUNG]\n\nhi tốt nghiệp vừa có kỹ năng đáp ứng được yêu cầu của công nghệ hiện đại vừa có kiến thức nền tảng cho phép họ có cơ hội tiếp tục học tập và công t",
+          "score": 0.9207034
+        },
+        {
+          "section_id": "4082eef0bbd4",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Khoa Học Máy Tính > Điều kiện tốt nghiệp]\n\n* ● Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n* 3\\. Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công nghệ Th",
+          "score": 0.91855335
+        },
+        {
+          "section_id": "dc4cb3971e33",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Truyền Thông Đa Phương Tiện > ĐIỀU KIỆN TỐT NGHIỆP]\n\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n\n· Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công n",
+          "score": 0.91632295
+        },
+        {
+          "section_id": "63469d22ec7e",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > ... > Mô tả các môn học mới và việc xét tương đương môn học]\n\nvà Đồ án tốt nghiệp tại doanh nghiệp trong cùng một học kỳ hoặc hai học kỳ liên tiếp để thuận tiện cho việc thự",
+          "score": 0.9139962
+        },
+        {
+          "section_id": "932c2fac57cd",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình An Toàn Thông Tin > ... > Khóa luận tốt nghiệp]\n\nSinh viên đủ điều kiện làm khóa luận tốt nghiệp theo qui chế của trường có thể đăng ký thực hiện Khóa luận tốt nghiệp với số tín chỉ là 1",
+          "score": 0.913893
+        },
+        {
+          "section_id": "12140db0d251",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > ... > Khối kiến thức tốt nghiệp]\n\nSTT: 1., Mã môn học: IE502, Tên môn học: Đồ án tốt nghiệp tại doanh nghiệp, TC: 10, LT: 10, TH: 0",
+          "score": 0.91355515
+        },
+        {
+          "section_id": "e740375553f1",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > ... > Học kì 3]\n\nMã môn: ENG03, Tên môn học: Anh văn 3 (*), TC: 4, LT: 4, TH: 0\nTên môn học: Tổng số tín chỉ HK3, TC: 19",
+          "score": 0.91322637
+        },
+        {
+          "section_id": "a76ce75c6272",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > Điều kiện tốt nghiệp]\n\nCông nhận tốt nghiệp:\n\n\\- Sinh viên đã tích lũy **tối thiểu 125 tín chỉ** (bao gồm 12 tín chỉ Anh văn) và đã hoàn thành các môn học bắt buộc của chư",
+          "score": 0.9128399
+        },
+        {
+          "section_id": "bb4822d5d526",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Hệ Thống Thông Tin > 5. ĐIỀU KIỆN TỐT NGHIỆP]\n\nCông nhận tốt nghiệp:\n\n\\- Sinh viên đã tích lũy **tối thiểu 132 tín chỉ**, đã hoàn thành các môn học bắt buộc của chương trình đào tạo tương ứng v",
+          "score": 0.9126086
+        }
+      ]
+    },
+    {
+      "question": "Môn Dữ liệu lớn có cần học môn tiên quyết nào không?",
+      "answer": "Dựa trên thông tin được cung cấp, môn Dữ liệu lớn (IS405) là môn bắt buộc đối với sinh viên ngành/chuyên ngành và môn học trước của nó là Cơ sở dữ liệu (IT004).",
+      "contexts": [
+        "[Chương trình Khoa Học Dữ Liệu > ... > Nhóm các môn học tự chọn tự do]\n\nSTT: Và các môn học khác theo đề nghị của Khoa.",
+        "[IS405 -- DỮ LIỆU LỚN > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\n- Vận dụng được ở mức cơ bản những kỹ thuật xử lý dữ liệu lớn để giải quyết một bài toán cụ thể.                                - Vận dụng được nhữn",
+        "[Chương trình Khoa Học Dữ Liệu > Mục tiêu chung]\n\n− Chuyên viên có kỹ năng khai thác, xây dựng phần mềm phân tích dữ liệu trên các hệ thống tính toán tập trung, phân tán; có khả năng chọn mô hình lưu ",
+        "[Chương trình Khoa Học Dữ Liệu > ... > Nhóm các môn học cơ sở ngành]\n\nSTT: 4, Mã môn học: IT004, Tên môn học: Cơ sở dữ liệu, TC: 4, LT: 3, TH: 1\nSTT: Kiến thức về mạng máy tính, TC: 4, LT: 3, TH: 1\nST",
+        "[Chương trình Khoa Học Dữ Liệu > ... > Học kỳ 4]\n\nMã MH: Tổng, Tên môn học: Tổng số tín chỉ, TC: 15, LT: 12, TH: 3",
+        "[IS405 -- DỮ LIỆU LỚN > THÔNG TIN CHUNG]\n\nTên môn học (tiếng Việt):: Tính chất của môn, Dữ liệu lớn: Bắt buộc đối với sinh viên ngành/chuyên ngành\nTên môn học (tiếng Việt):: Môn học trước, Dữ liệu lớn"
+      ],
+      "ground_truth": "",
+      "expected_intent": "factual",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 6,
+        "total_time_ms": 4662.132024765015
+      },
+      "sources": [
+        {
+          "section_id": "26da4024cdbe",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Khoa Học Dữ Liệu > ... > Nhóm các môn học tự chọn tự do]\n\nSTT: Và các môn học khác theo đề nghị của Khoa.",
+          "score": 0.89089155
+        },
+        {
+          "section_id": "d0a38d4240f4",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS405 -- DỮ LIỆU LỚN > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\n- Vận dụng được ở mức cơ bản những kỹ thuật xử lý dữ liệu lớn để giải quyết một bài toán cụ thể.                                - Vận dụng được nhữn",
+          "score": 0.8889549
+        },
+        {
+          "section_id": "7a073a24a597",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Khoa Học Dữ Liệu > Mục tiêu chung]\n\n− Chuyên viên có kỹ năng khai thác, xây dựng phần mềm phân tích dữ liệu trên các hệ thống tính toán tập trung, phân tán; có khả năng chọn mô hình lưu ",
+          "score": 0.8813238
+        },
+        {
+          "section_id": "dd088817123a",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Khoa Học Dữ Liệu > ... > Nhóm các môn học cơ sở ngành]\n\nSTT: 4, Mã môn học: IT004, Tên môn học: Cơ sở dữ liệu, TC: 4, LT: 3, TH: 1\nSTT: Kiến thức về mạng máy tính, TC: 4, LT: 3, TH: 1\nST",
+          "score": 0.88106227
+        },
+        {
+          "section_id": "f36e98f4f366",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Khoa Học Dữ Liệu > ... > Học kỳ 4]\n\nMã MH: Tổng, Tên môn học: Tổng số tín chỉ, TC: 15, LT: 12, TH: 3",
+          "score": 0.88049746
+        },
+        {
+          "section_id": "91404cf5eecf",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS405 -- DỮ LIỆU LỚN > THÔNG TIN CHUNG]\n\nTên môn học (tiếng Việt):: Tính chất của môn, Dữ liệu lớn: Bắt buộc đối với sinh viên ngành/chuyên ngành\nTên môn học (tiếng Việt):: Môn học trước, Dữ liệu lớn",
+          "score": 0.8804655
+        }
+      ]
+    },
+    {
+      "question": "Ngành CNTT học những gì?",
+      "answer": "Dựa trên thông tin được cung cấp, ngành CNTT đào tạo sinh viên thành một chuyên viên trong lĩnh vực CNTT. Sinh viên được trang bị kiến thức và năng lực để nghiên cứu độc lập, tự bồi dưỡng và tiếp tục học các trình độ cao hơn.\n\nNgoài ra, sinh viên được học các môn như:\n\n*   Lập trình hướng đối tượng (IT002)\n*   Khóa luận tốt nghiệp (CE505)\n*   Các môn học chuyên ngành.\n*   Các môn học khác như Anh văn 3 (ENG03).\n\nCác môn học cụ thể như NT532 (Công nghệ IoT hiện đại) tập trung vào việc truyền/nhận dữ liệu cảm biến/tín hiệu điều khiển giữa thiết bị nhúng và người dùng thông qua môi trường Internet.",
+      "contexts": [
+        "[Ngành Công Nghệ Thông Tin > Quan điểm xây dựng chương trình đào tạo]\n\nv.v. Tuy không mô tả hết tất cả các khía cạnh của ngành CNTT, nhưng nó sẽ làm rõ mô tả của những mối quan hệ của các thành phần c",
+        "[Ngành Công Nghệ Thông Tin]\n\n",
+        "[Ngành Công Nghệ Thông Tin > ... > Học kì 8]\n\n- Nếu chọn hình thức 1 hoặc 3: 10 TC- Nếu chọn hình thức 2: 6 TC | | **6-** **10** |   |   |\n\n[Bảng 1] Bảng 7 hàng x 5 cột. Các cột: Mã môn, Tên môn học, ",
+        "[NT532 -- CONG NGHE IO TS HIEN DAI-THUAT NK (2022) > NỘI DUNG MÔN HỌC, KẾ HOẠCH GIẢNG DẠY (Course content, lesson plan)]\n\n6 để truyền/nhận dữ liệu cảm biến/tín hiệu điều khiển giữa thiết bị nhúng và n",
+        "[Ngành Công Nghệ Thông Tin > Mục tiêu đào tạo]\n\nhuyên viên trong lĩnh vực CNTT. Bên cạnh đó, trên cơ sở các kiến thức được trang bị ở trình độ đại học, người học có đủ năng lực từng bước hoàn thiện kh",
+        "[IS403 -- PHÂN TÍCH DỮ LIỆU KINH DOANH > NỘI DUNG MÔN HỌC, KẾ HOẠCH GIẢNG DẠY (Course content, Lesson plan)]\n\n**Lý thuyết**\n\nBảng 3:\n\n[Bảng 1] Bảng 8 hàng x 5 cột. Các cột: Buổi (4 tiết) [1], Nội dung",
+        "[Ngành Kỹ Thuật Máy Tính > ... > Học kỳ 8 – 10 tín chỉ]\n\n**Tổng TC HK8:** 10\n\n[Bảng 1] Bảng 1 hàng x 6 cột. Các cột: Mã MH, Tên môn học, Loại MH, ...\n: Mã MH, : Tên môn học, : Loại MH, : TC, : LT, : T",
+        "[Ngành Công Nghệ Thông Tin > ... > Học kì 7]\n\n[Bảng 1] Bảng 4 hàng x 6 cột. Các cột: Mã môn, Tên môn học, TC, ...\n: Mã môn, : Tên môn học, : TC, : LT, : TH\nMã môn: IE400, Tên môn học: Chuyên đề tốt ng",
+        "[Ngành Công Nghệ Thông Tin > ... > Học kì 3]\n\nMã môn: ENG03, Tên môn học: Anh văn 3 (*), TC: 4, LT: 4, TH: 0\nTên môn học: Tổng số tín chỉ HK3, TC: 19",
+        "[Ngành Hệ Thống Thông Tin > ... > Nhóm các môn học cơ sở ngành]\n\n**Bắt buộc** cho tất cả sinh viên của ngành **(tối thiểu 23 tín chỉ)**\n\n[Bảng 1] Bảng 7 hàng x 6 cột. Các cột: STT, Mã môn học, Tên môn"
+      ],
+      "ground_truth": "",
+      "expected_intent": "overview",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 10,
+        "total_time_ms": 8041.547060012817
+      },
+      "sources": [
+        {
+          "section_id": "197c31f4cd93",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > Quan điểm xây dựng chương trình đào tạo]\n\nv.v. Tuy không mô tả hết tất cả các khía cạnh của ngành CNTT, nhưng nó sẽ làm rõ mô tả của những mối quan hệ của các thành phần c",
+          "score": 0.8914161
+        },
+        {
+          "section_id": "e421da5daef2",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin]\n\n",
+          "score": 0.8904855
+        },
+        {
+          "section_id": "2c592591b7fc",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > ... > Học kì 8]\n\n- Nếu chọn hình thức 1 hoặc 3: 10 TC- Nếu chọn hình thức 2: 6 TC | | **6-** **10** |   |   |\n\n[Bảng 1] Bảng 7 hàng x 5 cột. Các cột: Mã môn, Tên môn học, ",
+          "score": 0.88869476
+        },
+        {
+          "section_id": "d5fe8561b0e0",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[NT532 -- CONG NGHE IO TS HIEN DAI-THUAT NK (2022) > NỘI DUNG MÔN HỌC, KẾ HOẠCH GIẢNG DẠY (Course content, lesson plan)]\n\n6 để truyền/nhận dữ liệu cảm biến/tín hiệu điều khiển giữa thiết bị nhúng và n",
+          "score": 0.88868
+        },
+        {
+          "section_id": "59870ea874a0",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > Mục tiêu đào tạo]\n\nhuyên viên trong lĩnh vực CNTT. Bên cạnh đó, trên cơ sở các kiến thức được trang bị ở trình độ đại học, người học có đủ năng lực từng bước hoàn thiện kh",
+          "score": 0.886863
+        },
+        {
+          "section_id": "74bb30056814",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS403 -- PHÂN TÍCH DỮ LIỆU KINH DOANH > NỘI DUNG MÔN HỌC, KẾ HOẠCH GIẢNG DẠY (Course content, Lesson plan)]\n\n**Lý thuyết**\n\nBảng 3:\n\n[Bảng 1] Bảng 8 hàng x 5 cột. Các cột: Buổi (4 tiết) [1], Nội dung",
+          "score": 0.8864932
+        },
+        {
+          "section_id": "330402dbaec0",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > ... > Học kỳ 8 – 10 tín chỉ]\n\n**Tổng TC HK8:** 10\n\n[Bảng 1] Bảng 1 hàng x 6 cột. Các cột: Mã MH, Tên môn học, Loại MH, ...\n: Mã MH, : Tên môn học, : Loại MH, : TC, : LT, : T",
+          "score": 0.8854394
+        },
+        {
+          "section_id": "b66123da3d05",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > ... > Học kì 7]\n\n[Bảng 1] Bảng 4 hàng x 6 cột. Các cột: Mã môn, Tên môn học, TC, ...\n: Mã môn, : Tên môn học, : TC, : LT, : TH\nMã môn: IE400, Tên môn học: Chuyên đề tốt ng",
+          "score": 0.8853085
+        },
+        {
+          "section_id": "e740375553f1",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > ... > Học kì 3]\n\nMã môn: ENG03, Tên môn học: Anh văn 3 (*), TC: 4, LT: 4, TH: 0\nTên môn học: Tổng số tín chỉ HK3, TC: 19",
+          "score": 0.88417554
+        },
+        {
+          "section_id": "9c286ef18721",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Hệ Thống Thông Tin > ... > Nhóm các môn học cơ sở ngành]\n\n**Bắt buộc** cho tất cả sinh viên của ngành **(tối thiểu 23 tín chỉ)**\n\n[Bảng 1] Bảng 7 hàng x 6 cột. Các cột: STT, Mã môn học, Tên môn",
+          "score": 0.88399315
+        }
+      ]
+    },
+    {
+      "question": "Môn Hoạch Định Nguồn Lực Doanh Nghiệp học gì?",
+      "answer": "Môn Hoạch định nguồn lực doanh nghiệp học về các hoạt động của doanh nghiệp, bao gồm:\n\n*   **Lý thuyết:** Chương 1: Tổng quan về các hoạt động của Doanh nghiệp > > 1.1 Giới thiệu các thành phần trong doanh nghiệp và các\n*   **Thực hành:** Thực hiện quy trình bán hàng: tạo đơn chào hàng, đơn đặt hàng, lệnh xuất kho và kiểm kê, tạo hóa đơn, xuất kho, thanh toán. Quy trình bán buôn và bán lẻ, CĐR MH: G2, Hoạt động dạy và học: Giảng viên nêu nội dung thực hành. Sinh viên tiến hành theo từng bước như hướng dẫn của giáo viên.",
+      "contexts": [
+        "[IS336 -- Hoạch Định Nguồn Lực Doanh Nghiệp]\n\n",
+        "[IS336 -- Hoạch Định Nguồn Lực Doanh Nghiệp > MÔ TẢ MÔN HỌC (Course description)]\n\nhà quản trị trong việc điều hành doanh nghiệp, hỗ trợ người dùng thực thi các nghiệp vụ kinh doanh.",
+        "[IS336 -- Hoạch Định Nguồn Lực Doanh Nghiệp > QUY ĐỊNH CỦA MÔN HỌC]\n\n- *Các quy định của môn học: Dự lớp: đầy đủ (sinh viên vắng từ **5** buổi trở lên sẽ bị cấm thi lý thuyết).*",
+        "[IS336 -- Hoạch Định Nguồn Lực Doanh Nghiệp > THÔNG TIN CHUNG]\n\nTên môn học (tiếng Việt):: Lý thuyết: (tiết), Hoạch định nguồn lực doanh nghiệp: 45\nTên môn học (tiếng Việt):: Thực hành: (tiết), Hoạch ",
+        "[IS336 -- Hoạch Định Nguồn Lực Doanh Nghiệp > NỘI DUNG MÔN HỌC, KẾ HOẠCH GIẢNG DẠY]\n\nu nội dung thực hành. > > Sinh viên tiến hành theo từng bước như hướng dẫn của giáo viên. > > Giảng viên ra bài tập",
+        "[IS336 -- Hoạch Định Nguồn Lực Doanh Nghiệp > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\nNắm được các khái niệm, phương pháp khảo sát, phân tích, thiết kế mức cơ bản. Một số khái niệm hiểu chưa chính xá",
+        "[Ngành Kỹ Thuật Máy Tính > ... > Mô tả các môn học mới và việc xét tương đương môn học]\n\nghiệp và chính phủ nước ngoài tổ chức tại các quốc gia khác. Sinh viên có thể sử dụng 02 tín chỉ tích lũy từ mô"
+      ],
+      "ground_truth": "",
+      "expected_intent": "overview",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 7,
+        "total_time_ms": 7964.287042617798
+      },
+      "sources": [
+        {
+          "section_id": "17c16174ff89",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS336 -- Hoạch Định Nguồn Lực Doanh Nghiệp]\n\n",
+          "score": 0.9016359
+        },
+        {
+          "section_id": "771698e1e314",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS336 -- Hoạch Định Nguồn Lực Doanh Nghiệp > MÔ TẢ MÔN HỌC (Course description)]\n\nhà quản trị trong việc điều hành doanh nghiệp, hỗ trợ người dùng thực thi các nghiệp vụ kinh doanh.",
+          "score": 0.89732647
+        },
+        {
+          "section_id": "1f171527e21f",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS336 -- Hoạch Định Nguồn Lực Doanh Nghiệp > QUY ĐỊNH CỦA MÔN HỌC]\n\n- *Các quy định của môn học: Dự lớp: đầy đủ (sinh viên vắng từ **5** buổi trở lên sẽ bị cấm thi lý thuyết).*",
+          "score": 0.8938329
+        },
+        {
+          "section_id": "54f2ebe28fd3",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS336 -- Hoạch Định Nguồn Lực Doanh Nghiệp > THÔNG TIN CHUNG]\n\nTên môn học (tiếng Việt):: Lý thuyết: (tiết), Hoạch định nguồn lực doanh nghiệp: 45\nTên môn học (tiếng Việt):: Thực hành: (tiết), Hoạch ",
+          "score": 0.8875518
+        },
+        {
+          "section_id": "d70e958686c3",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS336 -- Hoạch Định Nguồn Lực Doanh Nghiệp > NỘI DUNG MÔN HỌC, KẾ HOẠCH GIẢNG DẠY]\n\nu nội dung thực hành. > > Sinh viên tiến hành theo từng bước như hướng dẫn của giáo viên. > > Giảng viên ra bài tập",
+          "score": 0.8806968
+        },
+        {
+          "section_id": "32be98bc06e3",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS336 -- Hoạch Định Nguồn Lực Doanh Nghiệp > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\nNắm được các khái niệm, phương pháp khảo sát, phân tích, thiết kế mức cơ bản. Một số khái niệm hiểu chưa chính xá",
+          "score": 0.8805218
+        },
+        {
+          "section_id": "63469d22ec7e",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > ... > Mô tả các môn học mới và việc xét tương đương môn học]\n\nghiệp và chính phủ nước ngoài tổ chức tại các quốc gia khác. Sinh viên có thể sử dụng 02 tín chỉ tích lũy từ mô",
+          "score": 0.876282
+        }
+      ]
+    },
+    {
+      "question": "Ngành Khoa Học Máy Tính gồm những mảng chính nào?",
+      "answer": "Ngành Khoa Học Máy Tính bao gồm các mảng chính sau:\n\n*   Mạng máy tính và Truyền thông (4TC)\n*   Cơ sở dữ liệu",
+      "contexts": [
+        "[Ngành Kỹ Thuật Máy Tính]\n\n",
+        "[Chương Trình Khoa Học Máy Tính]\n\n",
+        "[Chương Trình Khoa Học Máy Tính > Vị trí và khả năng làm việc sau tốt nghiệp]\n\nSinh viên tốt nghiệp ngành Khoa học máy tính có thể làm việc ở các phạm vi và lĩnh vực khác nhau như:\n\n\\- Có thể",
+        "[Chương Trình Khoa Học Máy Tính > ... > Khối kiến thức giáo dục chuyên nghiệp]\n\n",
+        "[Chương Trình Khoa Học Máy Tính > Kế hoạch giảng dạy mẫu]\n\n- Các môn học trong chương trình Khoa học máy tính được tổ chức trong 2 giai đoạn gồm 7 học kỳ chính như sau:",
+        "[Ngành Kỹ Thuật Máy Tính > ... > Khối kiến thức giáo dục chuyên nghiệp]\n\n",
+        "[Chương Trình Khoa Học Máy Tính > ... > Khối kiến thức tốt nghiệp]\n\nSTT: 13., Mã môn học: Và các môn học khác theo đề nghị của Khoa",
+        "[Chương Trình Khoa Học Máy Tính > ... > Các môn học chuyên ngành]\n\n* **Tổng số tín chỉ tối thiểu:** 16 TC.\n\n* Sinh viên lựa chọn môn học theo định hướng chuyên ngành hoặc kết hợp nhiều định hướng khá",
+        "[Chương Trình Khoa Học Máy Tính > Mục tiêu đào tạo và cơ hội nghề nghiệp]\n\n- **Mục tiêu chung:**\n\no Chương trình đào tạo hướng đến đào tạo nguồn nhân lực Khoa học máy tính chất lượng cao đạt trình ",
+        "[Chương Trình Khoa Học Máy Tính > ... > Các môn học cơ sở ngành Khoa học Máy tính]\n\nSTT: Mạng máy tính và Truyền thông (4TC)\nSTT: 14., Mã môn học: IT005, Tên môn học: Nhập môn mạng máy tính, Bắt buộ"
+      ],
+      "ground_truth": "",
+      "expected_intent": "overview",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 10,
+        "total_time_ms": 3310.0569248199463
+      },
+      "sources": [
+        {
+          "section_id": "5e586c1c0ae9",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính]\n\n",
+          "score": 0.90676713
+        },
+        {
+          "section_id": "481696337e0a",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Khoa Học Máy Tính]\n\n",
+          "score": 0.90099955
+        },
+        {
+          "section_id": "4abd997e63d3",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Khoa Học Máy Tính > Vị trí và khả năng làm việc sau tốt nghiệp]\n\nSinh viên tốt nghiệp ngành Khoa học máy tính có thể làm việc ở các phạm vi và lĩnh vực khác nhau như:\n\n\\- Có thể",
+          "score": 0.8968322
+        },
+        {
+          "section_id": "96157a951b50",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Khoa Học Máy Tính > ... > Khối kiến thức giáo dục chuyên nghiệp]\n\n",
+          "score": 0.894089
+        },
+        {
+          "section_id": "304a386c5b48",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Khoa Học Máy Tính > Kế hoạch giảng dạy mẫu]\n\n- Các môn học trong chương trình Khoa học máy tính được tổ chức trong 2 giai đoạn gồm 7 học kỳ chính như sau:",
+          "score": 0.89341855
+        },
+        {
+          "section_id": "461ff7fc3ace",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > ... > Khối kiến thức giáo dục chuyên nghiệp]\n\n",
+          "score": 0.8878126
+        },
+        {
+          "section_id": "a8c33f1af06d",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Khoa Học Máy Tính > ... > Khối kiến thức tốt nghiệp]\n\nSTT: 13., Mã môn học: Và các môn học khác theo đề nghị của Khoa",
+          "score": 0.88768244
+        },
+        {
+          "section_id": "ec921f9aacd8",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Khoa Học Máy Tính > ... > Các môn học chuyên ngành]\n\n* **Tổng số tín chỉ tối thiểu:** 16 TC.\n\n* Sinh viên lựa chọn môn học theo định hướng chuyên ngành hoặc kết hợp nhiều định hướng khá",
+          "score": 0.8862786
+        },
+        {
+          "section_id": "a82e1667e991",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Khoa Học Máy Tính > Mục tiêu đào tạo và cơ hội nghề nghiệp]\n\n- **Mục tiêu chung:**\n\no Chương trình đào tạo hướng đến đào tạo nguồn nhân lực Khoa học máy tính chất lượng cao đạt trình ",
+          "score": 0.88483
+        },
+        {
+          "section_id": "2c38a0d463f4",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Khoa Học Máy Tính > ... > Các môn học cơ sở ngành Khoa học Máy tính]\n\nSTT: Mạng máy tính và Truyền thông (4TC)\nSTT: 14., Mã môn học: IT005, Tên môn học: Nhập môn mạng máy tính, Bắt buộ",
+          "score": 0.8847313
+        }
+      ]
+    },
+    {
+      "question": "Ngành Thương Mại Điện tử học như nào vậy?",
+      "answer": "Ngành Thương mại Điện tử được đào tạo nguồn lực chất lượng cao nắm vững kiến thức cơ bản và chuyên sâu về Thương mại điện tử, bao gồm các phương pháp phân tích, thiết kế hệ thống kinh doanh trực tuyến, kế toán, tiếp thị, thanh toán điện tử, nền kinh tế điện tử, công nghệ web và mạng xã hội. Ngoài ra, sinh viên còn được rèn luyện đạo đức, kỹ năng nghề nghiệp và khả năng tư duy.\n\nSinh viên có thể nhắm tới các vị trí như khởi nghiệp kinh doanh trực tuyến, cán bộ giảng dạy, nghiên cứu khoa học và ứng dụng thương mại điện tử, hoặc làm việc trong các lĩnh vực tổ chức và phát triển các ứng dụng tin học hỗ trợ thương mại điện tử, quản lý các hoạt động thương mại điện tử tại doanh nghiệp hoặc cơ quan nhà nước.",
+      "contexts": [
+        "[Chương trình Thương Mại Điện Tử]\n\n",
+        "[Chương trình Thương Mại Điện Tử > CHUẨN ĐẦU RA]\n\nra (CĐR) sau:\n\n**Về nhận thức:**\n\n‒ LO1: Nắm vững kiến thức nền tảng về khoa học tự nhiên, khoa học xã hội và hiểu khả năng vận dụng những kiến thức đ",
+        "[Chương trình Thương Mại Điện Tử > Vị trí và khả năng làm việc sau tốt nghiệp]\n\nều mà sinh viên có thể nhắm tới và đạt được.\n\n\\- Khởi nghiệp kinh doanh trực tuyến: xây dựng kế hoạch kinh doanh để biến",
+        "[Ngành Kỹ Thuật Máy Tính]\n\n",
+        "[Chương trình Thương Mại Điện Tử > Mục tiêu đào tạo]\n\n‒ G1: Đào tạo nguồn lực chất lượng cao nắm vừng kiến thức cơ bản và chuyên sâu về Thương mại điện tử như các phương pháp phân tích, thiết kế hệ th",
+        "[Chương Trình Kỹ Thuật Phần Mềm > Vị trí và khả năng làm việc sau tốt nghiệp]\n\nsở đào tạo trong và ngoài nước.",
+        "[Chương trình Thương Mại Điện Tử > Khối kiến thức tốt nghiệp]\n\n\\- Tổng cộng 12 tín chỉ.",
+        "[Chương trình Thương Mại Điện Tử > ... > Nhóm môn học chuyên ngành Thương mại điện tử]\n\nSTT: 8, Mã môn học: IS336, Tên môn học: Hoạch định nguồn lực doanh nghiệp, TC: 4, LT: 3, TH: 1\nMã môn học: Tổng ",
+        "[Ngành Kỹ Thuật Máy Tính > ... > Khối kiến thức giáo dục chuyên nghiệp]\n\n"
+      ],
+      "ground_truth": "",
+      "expected_intent": "overview",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 9,
+        "total_time_ms": 6550.59814453125
+      },
+      "sources": [
+        {
+          "section_id": "68954882575c",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Thương Mại Điện Tử]\n\n",
+          "score": 0.90871596
+        },
+        {
+          "section_id": "95fdd463ce40",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Thương Mại Điện Tử > CHUẨN ĐẦU RA]\n\nra (CĐR) sau:\n\n**Về nhận thức:**\n\n‒ LO1: Nắm vững kiến thức nền tảng về khoa học tự nhiên, khoa học xã hội và hiểu khả năng vận dụng những kiến thức đ",
+          "score": 0.89554787
+        },
+        {
+          "section_id": "c582a4703b5b",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Thương Mại Điện Tử > Vị trí và khả năng làm việc sau tốt nghiệp]\n\nều mà sinh viên có thể nhắm tới và đạt được.\n\n\\- Khởi nghiệp kinh doanh trực tuyến: xây dựng kế hoạch kinh doanh để biến",
+          "score": 0.8947041
+        },
+        {
+          "section_id": "5e586c1c0ae9",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính]\n\n",
+          "score": 0.8906877
+        },
+        {
+          "section_id": "77b1252c32f3",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Thương Mại Điện Tử > Mục tiêu đào tạo]\n\n‒ G1: Đào tạo nguồn lực chất lượng cao nắm vừng kiến thức cơ bản và chuyên sâu về Thương mại điện tử như các phương pháp phân tích, thiết kế hệ th",
+          "score": 0.88750386
+        },
+        {
+          "section_id": "be0311136a43",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Kỹ Thuật Phần Mềm > Vị trí và khả năng làm việc sau tốt nghiệp]\n\nsở đào tạo trong và ngoài nước.",
+          "score": 0.8862519
+        },
+        {
+          "section_id": "40a19ee927c1",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Thương Mại Điện Tử > Khối kiến thức tốt nghiệp]\n\n\\- Tổng cộng 12 tín chỉ.",
+          "score": 0.88511777
+        },
+        {
+          "section_id": "b2d54b6c8836",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Thương Mại Điện Tử > ... > Nhóm môn học chuyên ngành Thương mại điện tử]\n\nSTT: 8, Mã môn học: IS336, Tên môn học: Hoạch định nguồn lực doanh nghiệp, TC: 4, LT: 3, TH: 1\nMã môn học: Tổng ",
+          "score": 0.88472295
+        },
+        {
+          "section_id": "461ff7fc3ace",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > ... > Khối kiến thức giáo dục chuyên nghiệp]\n\n",
+          "score": 0.8808665
+        }
+      ]
+    },
+    {
+      "question": "Chuẩn TOEIC để tốt nghiệp chương trình chính quy là bao nhiêu?",
+      "answer": "Tôi không có đủ thông tin để trả lời.",
+      "contexts": [
+        "[Chương trình An Toàn Thông Tin > GIỚI THIỆU CHUNG]\n\nhi tốt nghiệp vừa có kỹ năng đáp ứng được yêu cầu của công nghệ hiện đại vừa có kiến thức nền tảng cho phép họ có cơ hội tiếp tục học tập và công t",
+        "[Chương Trình Kỹ Thuật Phần Mềm > Điều kiện tốt nghiệp]\n\nCông nhận tốt nghiệp:\n\nSinh viên đã tích lũy tối thiểu 130 tín chỉ, đã hoàn thành các môn học bắt buộc của chương trình đào tạo tương ứng với c",
+        "[Chương trình Truyền Thông Đa Phương Tiện > ĐIỀU KIỆN TỐT NGHIỆP]\n\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n\n· Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công n",
+        "[Chương Trình Thiết Kế Vi Mạch > ĐIỀU KIỆN TỐT NGHIỆP]\n\nCông nhận tốt nghiệp:\n\n– Sinh viên đã tích lũy **tối thiểu 132 tín chỉ**, đã hoàn thành các môn học bắt buộc của chương trình đào tạo tương ứng ",
+        "[Chương trình An Toàn Thông Tin > ĐIỀU KIỆN TỐT NGHIỆP]\n\nCông nhận tốt nghiệp:\n\n– Sinh viên đã tích lũy **tối thiểu 129 tín chỉ**, đã hoàn thành các môn học bắt buộc của chương trình đào tạo tương ứng",
+        "[Chương trình An Toàn Thông Tin]\n\n",
+        "[Ngành Kỹ Thuật Máy Tính > Điều kiện tốt nghiệp]\n\nCông nhận tốt nghiệp:\n\n– Sinh viên đã tích lũy tối thiểu 128 tín chỉ, đã hoàn thành các môn học bắt buộc của chương trình đào tạo tương ứng với định h",
+        "[Ngành Công Nghệ Thông Tin > Điều kiện tốt nghiệp]\n\nCông nhận tốt nghiệp:\n\n\\- Sinh viên đã tích lũy **tối thiểu 125 tín chỉ** (bao gồm 12 tín chỉ Anh văn) và đã hoàn thành các môn học bắt buộc của chư",
+        "[Chương trình Mạng Máy Tính và Truyền Thông Dữ Liệu > ĐIỀU KIỆN TỐT NGHIỆP]\n\nCông nhận tốt nghiệp:\n\n– Sinh viên đã tích lũy **tối thiểu 130 tín chỉ**, đã hoàn thành các môn học bắt buộc của chương trì",
+        "[Chương trình An Toàn Thông Tin > Mục tiêu đào tạo]\n\n, phẩm chất chính trị tốt, ý thức tổ chức kỷ luật và có đạo đức nghề nghiệp."
+      ],
+      "ground_truth": "",
+      "expected_intent": "structure",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 10,
+        "total_time_ms": 2672.0287799835205
+      },
+      "sources": [
+        {
+          "section_id": "7c3120b2a25b",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình An Toàn Thông Tin > GIỚI THIỆU CHUNG]\n\nhi tốt nghiệp vừa có kỹ năng đáp ứng được yêu cầu của công nghệ hiện đại vừa có kiến thức nền tảng cho phép họ có cơ hội tiếp tục học tập và công t",
+          "score": 0.9100113
+        },
+        {
+          "section_id": "c837cbac277d",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Kỹ Thuật Phần Mềm > Điều kiện tốt nghiệp]\n\nCông nhận tốt nghiệp:\n\nSinh viên đã tích lũy tối thiểu 130 tín chỉ, đã hoàn thành các môn học bắt buộc của chương trình đào tạo tương ứng với c",
+          "score": 0.9089749
+        },
+        {
+          "section_id": "dc4cb3971e33",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Truyền Thông Đa Phương Tiện > ĐIỀU KIỆN TỐT NGHIỆP]\n\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n\n· Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công n",
+          "score": 0.9061327
+        },
+        {
+          "section_id": "4e42d1b54c81",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Thiết Kế Vi Mạch > ĐIỀU KIỆN TỐT NGHIỆP]\n\nCông nhận tốt nghiệp:\n\n– Sinh viên đã tích lũy **tối thiểu 132 tín chỉ**, đã hoàn thành các môn học bắt buộc của chương trình đào tạo tương ứng ",
+          "score": 0.90505457
+        },
+        {
+          "section_id": "0a58fdc4584a",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình An Toàn Thông Tin > ĐIỀU KIỆN TỐT NGHIỆP]\n\nCông nhận tốt nghiệp:\n\n– Sinh viên đã tích lũy **tối thiểu 129 tín chỉ**, đã hoàn thành các môn học bắt buộc của chương trình đào tạo tương ứng",
+          "score": 0.9038818
+        },
+        {
+          "section_id": "cdae4b1890c1",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình An Toàn Thông Tin]\n\n",
+          "score": 0.903373
+        },
+        {
+          "section_id": "9feb1f49d68b",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > Điều kiện tốt nghiệp]\n\nCông nhận tốt nghiệp:\n\n– Sinh viên đã tích lũy tối thiểu 128 tín chỉ, đã hoàn thành các môn học bắt buộc của chương trình đào tạo tương ứng với định h",
+          "score": 0.903353
+        },
+        {
+          "section_id": "a76ce75c6272",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > Điều kiện tốt nghiệp]\n\nCông nhận tốt nghiệp:\n\n\\- Sinh viên đã tích lũy **tối thiểu 125 tín chỉ** (bao gồm 12 tín chỉ Anh văn) và đã hoàn thành các môn học bắt buộc của chư",
+          "score": 0.90330815
+        },
+        {
+          "section_id": "09e2565b765c",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Mạng Máy Tính và Truyền Thông Dữ Liệu > ĐIỀU KIỆN TỐT NGHIỆP]\n\nCông nhận tốt nghiệp:\n\n– Sinh viên đã tích lũy **tối thiểu 130 tín chỉ**, đã hoàn thành các môn học bắt buộc của chương trì",
+          "score": 0.9030304
+        },
+        {
+          "section_id": "631c8b9f818b",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình An Toàn Thông Tin > Mục tiêu đào tạo]\n\n, phẩm chất chính trị tốt, ý thức tổ chức kỷ luật và có đạo đức nghề nghiệp.",
+          "score": 0.9024861
+        }
+      ]
+    },
+    {
+      "question": "Quy định miễn học môn tiếng Anh như thế nào?",
+      "answer": "Sinh viên được xét miễn học các môn tiếng Anh tương ứng nếu có một trong các chứng chỉ/chứng nhận đạt trình độ tối thiểu theo quy định tại Bảng 3. Sinh viên được miễn môn học nào thì đồng thời được miễn những môn học ở cấp độ thấp hơn mà sinh viên chưa học hoặc chưa đạt.",
+      "contexts": [
+        "[Quy định liên quan đến học bổng sinh viên > ... > QUY ĐỊNH]\n\n",
+        "[Quy định liên quan đến học bổng sinh viên > ... > QUY ĐỊNH]\n\n",
+        "[Quy định liên quan đến học bổng sinh viên]\n\n",
+        "[QUYẾT ĐỊNH Ban hành quy định đào tạo ngoại ngữ đối với hệ đại học chính quy của Trường Đại học Công nghệ Thông tỉn > ... > Điều 5. Xét miễn các môn học tiếng Anh]\n\n1. Sinh viên được xét miễn học các ",
+        "[IS336 -- Hoạch Định Nguồn Lực Doanh Nghiệp > QUY ĐỊNH CỦA MÔN HỌC]\n\n- *Các quy định của môn học: Dự lớp: đầy đủ (sinh viên vắng từ **5** buổi trở lên sẽ bị cấm thi lý thuyết).*",
+        "[Chương trình Truyền Thông Đa Phương Tiện > ... > Học kỳ II (16 tín chỉ)]\n\nMã MH: ENG02, Tên môn học (Tiếng Việt): Anh văn 2, Tên môn học (Tiếng Anh): English 2, Loại MH: Bắt buộc, Tín chỉ: 4, LT: 4, ",
+        "[IS254 -- HỆ HỖ TRỢ QUYẾT ĐỊNH > ĐÁNH GIÁ CHUẨN ĐẦU RA]\n\nviết bằng tiếng Anh)",
+        "[Một số quy trình dành cho sinh viên > 3. CHUYỂN NGÀNH]\n\nNgoài các quy định này, sinh viên chương trình nâng cao, chương trình tiên tiến và chương trình tài năng thực hiện theo các quy định riêng (nếu",
+        "[Quy định liên quan đến học bổng sinh viên > Quy định cấp học bổng cho SV Chương trình Tiên tiến]\n\n",
+        "[Quy định liên quan đến học bổng sinh viên > ... > Điều 6. Điều khoản thi hành]\n\nQuy định này có hiệu lực kể từ ngày ký và thay thế các quy định trước đây liên quan đến học bổng Chương trình Chất lượn"
+      ],
+      "ground_truth": "",
+      "expected_intent": "structure",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 10,
+        "total_time_ms": 3570.5819129943848
+      },
+      "sources": [
+        {
+          "section_id": "f8da8f7d6922",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > ... > QUY ĐỊNH]\n\n",
+          "score": 0.87948394
+        },
+        {
+          "section_id": "64435dc4f00a",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > ... > QUY ĐỊNH]\n\n",
+          "score": 0.87948394
+        },
+        {
+          "section_id": "824c76c15fd4",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên]\n\n",
+          "score": 0.8790684
+        },
+        {
+          "section_id": "81b88ddb0482",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[QUYẾT ĐỊNH Ban hành quy định đào tạo ngoại ngữ đối với hệ đại học chính quy của Trường Đại học Công nghệ Thông tỉn > ... > Điều 5. Xét miễn các môn học tiếng Anh]\n\n1. Sinh viên được xét miễn học các ",
+          "score": 0.8756392
+        },
+        {
+          "section_id": "1f171527e21f",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS336 -- Hoạch Định Nguồn Lực Doanh Nghiệp > QUY ĐỊNH CỦA MÔN HỌC]\n\n- *Các quy định của môn học: Dự lớp: đầy đủ (sinh viên vắng từ **5** buổi trở lên sẽ bị cấm thi lý thuyết).*",
+          "score": 0.87083745
+        },
+        {
+          "section_id": "595670881634",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Truyền Thông Đa Phương Tiện > ... > Học kỳ II (16 tín chỉ)]\n\nMã MH: ENG02, Tên môn học (Tiếng Việt): Anh văn 2, Tên môn học (Tiếng Anh): English 2, Loại MH: Bắt buộc, Tín chỉ: 4, LT: 4, ",
+          "score": 0.8707192
+        },
+        {
+          "section_id": "f391e125a10f",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS254 -- HỆ HỖ TRỢ QUYẾT ĐỊNH > ĐÁNH GIÁ CHUẨN ĐẦU RA]\n\nviết bằng tiếng Anh)",
+          "score": 0.8695061
+        },
+        {
+          "section_id": "f757cdf19765",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Một số quy trình dành cho sinh viên > 3. CHUYỂN NGÀNH]\n\nNgoài các quy định này, sinh viên chương trình nâng cao, chương trình tiên tiến và chương trình tài năng thực hiện theo các quy định riêng (nếu",
+          "score": 0.8683219
+        },
+        {
+          "section_id": "992aa831cf9f",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > Quy định cấp học bổng cho SV Chương trình Tiên tiến]\n\n",
+          "score": 0.8682091
+        },
+        {
+          "section_id": "1650196c67ef",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > ... > Điều 6. Điều khoản thi hành]\n\nQuy định này có hiệu lực kể từ ngày ký và thay thế các quy định trước đây liên quan đến học bổng Chương trình Chất lượn",
+          "score": 0.86756134
+        }
+      ]
+    },
+    {
+      "question": "Điều kiện nhận học bổng khuyến khích học tập là gì?",
+      "answer": "Điều kiện nhận học bổng khuyến khích học tập (HBKKHT) dựa trên kết quả học tập và kết quả rèn luyện của sinh viên trong học kỳ xét học bổng. Cụ thể:\n\n*   Sinh viên được xét theo kết quả học tập và kết quả rèn luyện.\n*   Sinh viên không bị kỷ luật từ mức khiển trách trở lên trong học kỳ dùng để xét học bổng.\n*   Sinh viên thuộc diện chính sách vẫn được xét học bổng như các sinh viên khác.\n*   Sinh viên chưa nhận bất kỳ học bổng nào tương đương 01 suất học bổng học tập.",
+      "contexts": [
+        "[Quy định liên quan đến học bổng sinh viên > ... > Điều 3. Xếp loại học bổng và mức học bổng]\n\nViệc xếp loại học bổng khuyến khích học tập (HBKKHT) được căn cứ vào **kết quả học tập** và **kết quả rèn",
+        "[Quy định liên quan đến học bổng sinh viên > ... > Điều 11. Đánh giá kết quả học tập]\n\n* Hình thức đánh giá và trọng số được quy định rõ trong đề cương chi tiết học phần.\n* Các bài kiểm tra, báo cáo v",
+        "[Quy định liên quan đến học bổng sinh viên > ... > Điều 3. Mức học bổng]\n\nCăn cứ kết quả học tập và rèn luyện, Trường xét cấp **03 suất học bổng** cho mỗi khóa của từng ngành, gồm:\n\nĐối với **học bổng",
+        "[Quy định liên quan đến học bổng sinh viên > ... > Điều 1. Đối tượng và phạm vi áp dụng]\n\n2. Sinh viên không bị kỷ luật từ mức khiển trách trở lên trong học kỳ dùng để xét học bổng.\n3. Sinh viên thuộc",
+        "[Quy định liên quan đến học bổng sinh viên > ... > Điều 3. Điều kiện xét học bổng và mức học bổng Sinh viên được nhận]\n\n* Điều kiện xét học bổng và mức học bổng Sinh viên được nhận do đơn vị tài trợ h",
+        "[IS401 -- KHÓA LUẬN TỐT NGHIỆP > MÔ TẢ MÔN HỌC (Course description)]\n\nvấn đề hoặc đề tài nghiên cứu. Ngoài ra, sinh viên cũng nâng cao thái độ làm việc và trách nhiệm trong công việc của mình, và tích",
+        "[Quy định liên quan đến học bổng sinh viên > Quy định học bổng KK học tập ngoại ngữ - UIT Global]\n\n",
+        "[Quy định liên quan đến học bổng sinh viên > ... > Điều 8. Điều kiện và phương thức tuyển sinh]\n\n",
+        "[Chương Trình Kỹ Thuật Phần Mềm > ... > Nhóm các môn học khác]\n\n**Lưu ý:&#xA0;**&#x53;inh viên có thể chọn các môn học thuộc khối kiến thức giáo dục chuyên nghiệp trong các chương trình đào tạo đại",
+        "[Chương Trình Kỹ Thuật Phần Mềm > ... > Khối kiến thức tốt nghiệp]\n\nKhối kiến thức tốt nghiệp trang bị cho sinh viên khả năng vận dụng tổng hợp kiến thức và kỹ năng đã học để thực hiện các dự án thực "
+      ],
+      "ground_truth": "",
+      "expected_intent": "structure",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 10,
+        "total_time_ms": 5584.410905838013
+      },
+      "sources": [
+        {
+          "section_id": "4b79d5653b71",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > ... > Điều 3. Xếp loại học bổng và mức học bổng]\n\nViệc xếp loại học bổng khuyến khích học tập (HBKKHT) được căn cứ vào **kết quả học tập** và **kết quả rèn",
+          "score": 0.89018846
+        },
+        {
+          "section_id": "51a761d8f7ab",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > ... > Điều 11. Đánh giá kết quả học tập]\n\n* Hình thức đánh giá và trọng số được quy định rõ trong đề cương chi tiết học phần.\n* Các bài kiểm tra, báo cáo v",
+          "score": 0.8751893
+        },
+        {
+          "section_id": "2aaa2b12e6ac",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > ... > Điều 3. Mức học bổng]\n\nCăn cứ kết quả học tập và rèn luyện, Trường xét cấp **03 suất học bổng** cho mỗi khóa của từng ngành, gồm:\n\nĐối với **học bổng",
+          "score": 0.87171245
+        },
+        {
+          "section_id": "dc37180a9d8e",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > ... > Điều 1. Đối tượng và phạm vi áp dụng]\n\n2. Sinh viên không bị kỷ luật từ mức khiển trách trở lên trong học kỳ dùng để xét học bổng.\n3. Sinh viên thuộc",
+          "score": 0.87113667
+        },
+        {
+          "section_id": "946e4b98be7e",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > ... > Điều 3. Điều kiện xét học bổng và mức học bổng Sinh viên được nhận]\n\n* Điều kiện xét học bổng và mức học bổng Sinh viên được nhận do đơn vị tài trợ h",
+          "score": 0.8703227
+        },
+        {
+          "section_id": "34b520b64455",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS401 -- KHÓA LUẬN TỐT NGHIỆP > MÔ TẢ MÔN HỌC (Course description)]\n\nvấn đề hoặc đề tài nghiên cứu. Ngoài ra, sinh viên cũng nâng cao thái độ làm việc và trách nhiệm trong công việc của mình, và tích",
+          "score": 0.8691013
+        },
+        {
+          "section_id": "87afe3d47f49",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > Quy định học bổng KK học tập ngoại ngữ - UIT Global]\n\n",
+          "score": 0.86903954
+        },
+        {
+          "section_id": "c2c1b187ef6e",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > ... > Điều 8. Điều kiện và phương thức tuyển sinh]\n\n",
+          "score": 0.86901903
+        },
+        {
+          "section_id": "333f0255c177",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Kỹ Thuật Phần Mềm > ... > Nhóm các môn học khác]\n\n**Lưu ý:&#xA0;**&#x53;inh viên có thể chọn các môn học thuộc khối kiến thức giáo dục chuyên nghiệp trong các chương trình đào tạo đại",
+          "score": 0.86857295
+        },
+        {
+          "section_id": "c3cf6058086e",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Kỹ Thuật Phần Mềm > ... > Khối kiến thức tốt nghiệp]\n\nKhối kiến thức tốt nghiệp trang bị cho sinh viên khả năng vận dụng tổng hợp kiến thức và kỹ năng đã học để thực hiện các dự án thực ",
+          "score": 0.86854935
+        }
+      ]
+    },
+    {
+      "question": "Các loại học bổng ngoài ngân sách gồm những gì?",
+      "answer": "Tôi không có đủ thông tin để trả lời câu hỏi này.",
+      "contexts": [
+        "[IS401 -- KHÓA LUẬN TỐT NGHIỆP > MÔ TẢ MÔN HỌC (Course description)]\n\nvấn đề hoặc đề tài nghiên cứu. Ngoài ra, sinh viên cũng nâng cao thái độ làm việc và trách nhiệm trong công việc của mình, và tích",
+        "[EC214 -- NHẬP MÔN QUẢN TRỊ CHUỖI CUNG ỨNG > MÔ TẢ MÔN HỌC (Course description)]\n\nNhập Môn Quản trị Chuỗi Cung Ứng cung cấp cho sinh viên nền tảng vững chắc về những khái niệm cơ bản trong quản lý ",
+        "[EC214 -- NHẬP MÔN QUẢN TRỊ CHUỖI CUNG ỨNG > NỘI DUNG MÔN HỌC, KẾ HOẠCH GIẢNG DẠY (Course content, lesson plan)]\n\nứng 1.1.3 Quản trị chuỗi cung ứng là gì? 1.2 Cách thức hoạt động của chuỗi cung ứng 1.",
+        "[IS335 -- AN TOÀN VÀ BẢO MẬT HỆ THỐNG THÔNG TIN > MÔ TẢ MÔN HỌC(Course description)]\n\nMôn học thuộc nhóm môn học tự chọn tự do, mục đích của môn học cung cấp cho sinh viên các kiến thức:\n\n- Về các loạ",
+        "[IS403 -- PHÂN TÍCH DỮ LIỆU KINH DOANH > NỘI DUNG MÔN HỌC, KẾ HOẠCH GIẢNG DẠY (Course content, Lesson plan)]\n\n**Lý thuyết**\n\nBảng 3:\n\n[Bảng 1] Bảng 8 hàng x 5 cột. Các cột: Buổi (4 tiết) [1], Nội dung",
+        "[Ngành Kỹ Thuật Máy Tính > ... > Học kỳ 8 – 10 tín chỉ]\n\n**Tổng TC HK8:** 10\n\n[Bảng 1] Bảng 1 hàng x 6 cột. Các cột: Mã MH, Tên môn học, Loại MH, ...\n: Mã MH, : Tên môn học, : Loại MH, : TC, : LT, : T",
+        "[IS405 -- DỮ LIỆU LỚN > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\n**G4**                 Không phối hợp được với nhóm, khả năng thích ứng kém, dựa dẫm vào các bạn khác.                               ",
+        "[IS005 -- GIỚI THIỆU NGÀNH HỆ THỐNG THÔNG TIN > CÁC CHỦ ĐỀ CHÍNH]\n\n- Các nhóm có bài làm giống nhau sẽ bị 0 điểm.\n\n<!-- -->\n\n- **Lưu ý: Các file phải được nộp lên courses.uit.edu.vn trước ngày báo cáo",
+        "[Ngành Kỹ Thuật Máy Tính > ... > Học kỳ 7 – 13 tín chỉ]\n\n**Tổng TC HK7:** 13\n\n---\n\n[Bảng 1] Bảng 5 hàng x 6 cột. Các cột: Mã MH, Tên môn học, Loại MH, ...\n: Mã MH, : Tên môn học, : Loại MH, : TC, : LT",
+        "[Ngành Kỹ Thuật Máy Tính > ... > Học kỳ 2 – 19 tín chỉ]\n\n**Tổng TC HK2:** 19\n\n---\n\n[Bảng 1] Bảng 5 hàng x 6 cột. Các cột: Mã MH, Tên môn học, Loại MH, ...\n: Mã MH, : Tên môn học, : Loại MH, : TC, : LT"
+      ],
+      "ground_truth": "",
+      "expected_intent": "structure",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 10,
+        "total_time_ms": 4489.488840103149
+      },
+      "sources": [
+        {
+          "section_id": "34b520b64455",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS401 -- KHÓA LUẬN TỐT NGHIỆP > MÔ TẢ MÔN HỌC (Course description)]\n\nvấn đề hoặc đề tài nghiên cứu. Ngoài ra, sinh viên cũng nâng cao thái độ làm việc và trách nhiệm trong công việc của mình, và tích",
+          "score": 0.8834095
+        },
+        {
+          "section_id": "eb9aafce0410",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[EC214 -- NHẬP MÔN QUẢN TRỊ CHUỖI CUNG ỨNG > MÔ TẢ MÔN HỌC (Course description)]\n\nNhập Môn Quản trị Chuỗi Cung Ứng cung cấp cho sinh viên nền tảng vững chắc về những khái niệm cơ bản trong quản lý ",
+          "score": 0.8727596
+        },
+        {
+          "section_id": "15e564b81dbf",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[EC214 -- NHẬP MÔN QUẢN TRỊ CHUỖI CUNG ỨNG > NỘI DUNG MÔN HỌC, KẾ HOẠCH GIẢNG DẠY (Course content, lesson plan)]\n\nứng 1.1.3 Quản trị chuỗi cung ứng là gì? 1.2 Cách thức hoạt động của chuỗi cung ứng 1.",
+          "score": 0.8722136
+        },
+        {
+          "section_id": "fcf089c163c7",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS335 -- AN TOÀN VÀ BẢO MẬT HỆ THỐNG THÔNG TIN > MÔ TẢ MÔN HỌC(Course description)]\n\nMôn học thuộc nhóm môn học tự chọn tự do, mục đích của môn học cung cấp cho sinh viên các kiến thức:\n\n- Về các loạ",
+          "score": 0.8685069
+        },
+        {
+          "section_id": "74bb30056814",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS403 -- PHÂN TÍCH DỮ LIỆU KINH DOANH > NỘI DUNG MÔN HỌC, KẾ HOẠCH GIẢNG DẠY (Course content, Lesson plan)]\n\n**Lý thuyết**\n\nBảng 3:\n\n[Bảng 1] Bảng 8 hàng x 5 cột. Các cột: Buổi (4 tiết) [1], Nội dung",
+          "score": 0.8663361
+        },
+        {
+          "section_id": "330402dbaec0",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > ... > Học kỳ 8 – 10 tín chỉ]\n\n**Tổng TC HK8:** 10\n\n[Bảng 1] Bảng 1 hàng x 6 cột. Các cột: Mã MH, Tên môn học, Loại MH, ...\n: Mã MH, : Tên môn học, : Loại MH, : TC, : LT, : T",
+          "score": 0.86627245
+        },
+        {
+          "section_id": "d0a38d4240f4",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS405 -- DỮ LIỆU LỚN > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\n**G4**                 Không phối hợp được với nhóm, khả năng thích ứng kém, dựa dẫm vào các bạn khác.                               ",
+          "score": 0.8658378
+        },
+        {
+          "section_id": "3a64aead373d",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS005 -- GIỚI THIỆU NGÀNH HỆ THỐNG THÔNG TIN > CÁC CHỦ ĐỀ CHÍNH]\n\n- Các nhóm có bài làm giống nhau sẽ bị 0 điểm.\n\n<!-- -->\n\n- **Lưu ý: Các file phải được nộp lên courses.uit.edu.vn trước ngày báo cáo",
+          "score": 0.86535835
+        },
+        {
+          "section_id": "09ecee5526db",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > ... > Học kỳ 7 – 13 tín chỉ]\n\n**Tổng TC HK7:** 13\n\n---\n\n[Bảng 1] Bảng 5 hàng x 6 cột. Các cột: Mã MH, Tên môn học, Loại MH, ...\n: Mã MH, : Tên môn học, : Loại MH, : TC, : LT",
+          "score": 0.8644686
+        },
+        {
+          "section_id": "02f663f4c0b8",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > ... > Học kỳ 2 – 19 tín chỉ]\n\n**Tổng TC HK2:** 19\n\n---\n\n[Bảng 1] Bảng 5 hàng x 6 cột. Các cột: Mã MH, Tên môn học, Loại MH, ...\n: Mã MH, : Tên môn học, : Loại MH, : TC, : LT",
+          "score": 0.8620961
+        }
+      ]
+    },
+    {
+      "question": "Quy trình xét học bổng ngoài ngân sách như thế nào?",
+      "answer": "Quy trình xét học bổng ngoài ngân sách như sau:\n\n**Bước 1:** Khoa nhận thông tin học bổng, ban hành thông báo, tổng hợp đăng ký nhận học bổng của Sinh viên và công khai danh sách Sinh viên đăng ký xét học bổng.\n\n**Bước 2:** Khoa thành lập Tổ xét học bổng và tiến hành xét theo tiêu chuẩn đã ban hành.\n\nHội đồng xét học bổng ngoài ngân sách gồm: Hiệu trưởng hoặc Phó Hiệu trưởng phụ trách công tác Sinh viên; Đại diện lãnh đạo Phòng Công tác Sinh viên; Đại diện Thường trực Đoàn Thanh niên; Đại diện Thường trực Hội Sinh viên; Chuyên viên phụ trách học bổng của Phòng CTSV.",
+      "contexts": [
+        "[Quy định liên quan đến học bổng sinh viên > ... > Điều 4. Quy trình xét học bổng ngoài ngân sách]\n\n",
+        "[Quy định liên quan đến học bổng sinh viên > ... > Về việc xét, cấp học bổng học tập cho sinh viên Chương trình Chất lượng cao và Chương trình Tiên tiến]\n\n---",
+        "[Quy định liên quan đến học bổng sinh viên > ... > Điều 5. Hội đồng xét cấp học bổng]\n\nHội đồng xét cấp học bổng do Hiệu trưởng thành lập, có nhiệm vụ tổ chức xét và đề xuất cấp học bổng theo đúng quy",
+        "[Quy định liên quan đến học bổng sinh viên > ... > Điều 4. Nguyên tắc phân bổ học bổng]\n\n3. Hội đồng xét chọn đủ số lượng suất học bổng theo quy định.\n4. Trường hợp đặc biệt do Hội đồng xem xét và quy",
+        "[Quy định liên quan đến học bổng sinh viên > ... > Về việc xét, cấp học bổng ngoài ngân sách cho Sinh viên]\n\n*(Ban hành kèm theo Quyết định số …/QĐ-ĐHCNTT ngày … tháng … năm 2022)*\n\nTrường Đại học Côn",
+        "[Quy định liên quan đến học bổng sinh viên > ... > Điều 5. Quy trình xét học bổng do doanh nghiệp tài trợ cho Sinh viên các Khoa]\n\n* **Bước 1:** Khoa nhận thông tin học bổng, ban hành thông báo, tổng ",
+        "[Quy định liên quan đến học bổng sinh viên > ... > Điều 3. Mức học bổng]\n\nCăn cứ kết quả học tập và rèn luyện, Trường xét cấp **03 suất học bổng** cho mỗi khóa của từng ngành, gồm:\n\nĐối với **học bổng",
+        "[QUYẾT ĐỊNH Ban hành quy định đào tạo ngoại ngữ đối với hệ đại học chính quy của Trường Đại học Công nghệ Thông tỉn > ... > Điều 8. Chuẩn quá trình về ngoại ngữ]\n\n4. Thời điểm nộp chứng chỉ để xét chu",
+        "[Quy định liên quan đến học bổng sinh viên > ... > Điều 3. Hội đồng xét học bổng ngoài ngân sách]\n\nHội đồng xét học bổng ngoài ngân sách gồm:\n\n* Hiệu trưởng hoặc Phó Hiệu trưởng phụ trách công tác Sin",
+        "[Chương Trình Kỹ Thuật Phần Mềm > Vị trí và khả năng làm việc sau tốt nghiệp]\n\nsở đào tạo trong và ngoài nước."
+      ],
+      "ground_truth": "",
+      "expected_intent": "structure",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 10,
+        "total_time_ms": 6636.286020278931
+      },
+      "sources": [
+        {
+          "section_id": "42fa13f74a77",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > ... > Điều 4. Quy trình xét học bổng ngoài ngân sách]\n\n",
+          "score": 0.91200924
+        },
+        {
+          "section_id": "7111995e1254",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > ... > Về việc xét, cấp học bổng học tập cho sinh viên Chương trình Chất lượng cao và Chương trình Tiên tiến]\n\n---",
+          "score": 0.8968353
+        },
+        {
+          "section_id": "f3f17fdf596e",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > ... > Điều 5. Hội đồng xét cấp học bổng]\n\nHội đồng xét cấp học bổng do Hiệu trưởng thành lập, có nhiệm vụ tổ chức xét và đề xuất cấp học bổng theo đúng quy",
+          "score": 0.89204884
+        },
+        {
+          "section_id": "f61608232296",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > ... > Điều 4. Nguyên tắc phân bổ học bổng]\n\n3. Hội đồng xét chọn đủ số lượng suất học bổng theo quy định.\n4. Trường hợp đặc biệt do Hội đồng xem xét và quy",
+          "score": 0.8889189
+        },
+        {
+          "section_id": "c7aa57928eb0",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > ... > Về việc xét, cấp học bổng ngoài ngân sách cho Sinh viên]\n\n*(Ban hành kèm theo Quyết định số …/QĐ-ĐHCNTT ngày … tháng … năm 2022)*\n\nTrường Đại học Côn",
+          "score": 0.8877511
+        },
+        {
+          "section_id": "1c17e15f77c6",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > ... > Điều 5. Quy trình xét học bổng do doanh nghiệp tài trợ cho Sinh viên các Khoa]\n\n* **Bước 1:** Khoa nhận thông tin học bổng, ban hành thông báo, tổng ",
+          "score": 0.88541746
+        },
+        {
+          "section_id": "2aaa2b12e6ac",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > ... > Điều 3. Mức học bổng]\n\nCăn cứ kết quả học tập và rèn luyện, Trường xét cấp **03 suất học bổng** cho mỗi khóa của từng ngành, gồm:\n\nĐối với **học bổng",
+          "score": 0.88333464
+        },
+        {
+          "section_id": "ad03b542e65d",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[QUYẾT ĐỊNH Ban hành quy định đào tạo ngoại ngữ đối với hệ đại học chính quy của Trường Đại học Công nghệ Thông tỉn > ... > Điều 8. Chuẩn quá trình về ngoại ngữ]\n\n4. Thời điểm nộp chứng chỉ để xét chu",
+          "score": 0.8829813
+        },
+        {
+          "section_id": "9ccf3041d5ae",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > ... > Điều 3. Hội đồng xét học bổng ngoài ngân sách]\n\nHội đồng xét học bổng ngoài ngân sách gồm:\n\n* Hiệu trưởng hoặc Phó Hiệu trưởng phụ trách công tác Sin",
+          "score": 0.8817897
+        },
+        {
+          "section_id": "be0311136a43",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Kỹ Thuật Phần Mềm > Vị trí và khả năng làm việc sau tốt nghiệp]\n\nsở đào tạo trong và ngoài nước.",
+          "score": 0.8806641
+        }
+      ]
+    },
+    {
+      "question": "Sinh viên chương trình tiên tiến có học bổng gì?",
+      "answer": "Sinh viên Chương trình Tiên tiến được xét và hưởng học bổng khuyến khích học tập của Nhà nước, cùng với học bổng của Chương trình Tiên tiến, bao gồm học bổng học tập.",
+      "contexts": [
+        "[Quy định liên quan đến học bổng sinh viên > ... > Điều 15. Học bổng]\n\n1. Sinh viên Chương trình Tiên tiến (CTTT) được xét và hưởng **học bổng khuyến khích học tập của Nhà nước** theo quy định của Trư",
+        "[Quy định liên quan đến học bổng sinh viên > ... > Về việc xét, cấp học bổng học tập cho sinh viên Chương trình Chất lượng cao và Chương trình Tiên tiến]\n\n---",
+        "[Quy định liên quan đến học bổng sinh viên > ... > Điều 2. Giải thích từ ngữ]\n\n* **Chương trình Tiên tiến (CTTT)**: là chương trình đào tạo trình độ đại học hệ chính quy được ĐHQG-HCM cho phép triển k",
+        "[Quy định liên quan đến học bổng sinh viên > ... > Điều 1. Đối tượng và phạm vi áp dụng]\n\nviên của Trường; học bổng do các doanh nghiệp, tổ chức, cá nhân tài trợ cho ĐHQG-HCM; và các học bổng khác có ",
+        "[Quy định liên quan đến học bổng sinh viên > ... > Điều 5. Tổ chức chương trình]\n\n* Các lớp CTTT được bố trí cơ sở vật chất, phòng học riêng với trang thiết bị hiện đại.\n* Có đầy đủ giáo trình, tài li",
+        "[Quy định liên quan đến học bổng sinh viên > ... > 1. Đối với học bổng ngoài ngân sách tài trợ trực tiếp cho Trường]\n\n* **Bước 7:** Phòng CTSV thực hiện thủ tục cấp học bổng.",
+        "[Quy định liên quan đến học bổng sinh viên > ... > Điều 1. Phạm vi học bổng]\n\n* Học bổng do các công ty, doanh nghiệp, tổ chức tài trợ trực tiếp cho Sinh viên (SV) các Khoa.\n\n---",
+        "[Quy định liên quan đến học bổng sinh viên > Quy định cấp học bổng học tập cho SV Chương trình CLC, Chương trình Tiên tiến]\n\n",
+        "[Quy định liên quan đến học bổng sinh viên > ... > Điều 6. Điều khoản thi hành]\n\nQuy định này có hiệu lực kể từ ngày ký và thay thế các quy định trước đây liên quan đến học bổng Chương trình Chất lượn"
+      ],
+      "ground_truth": "",
+      "expected_intent": "structure",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 9,
+        "total_time_ms": 4026.445150375366
+      },
+      "sources": [
+        {
+          "section_id": "20e7fad42770",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > ... > Điều 15. Học bổng]\n\n1. Sinh viên Chương trình Tiên tiến (CTTT) được xét và hưởng **học bổng khuyến khích học tập của Nhà nước** theo quy định của Trư",
+          "score": 0.9076526
+        },
+        {
+          "section_id": "7111995e1254",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > ... > Về việc xét, cấp học bổng học tập cho sinh viên Chương trình Chất lượng cao và Chương trình Tiên tiến]\n\n---",
+          "score": 0.9054942
+        },
+        {
+          "section_id": "161324e6a626",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > ... > Điều 2. Giải thích từ ngữ]\n\n* **Chương trình Tiên tiến (CTTT)**: là chương trình đào tạo trình độ đại học hệ chính quy được ĐHQG-HCM cho phép triển k",
+          "score": 0.905303
+        },
+        {
+          "section_id": "ca885000c75e",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > ... > Điều 1. Đối tượng và phạm vi áp dụng]\n\nviên của Trường; học bổng do các doanh nghiệp, tổ chức, cá nhân tài trợ cho ĐHQG-HCM; và các học bổng khác có ",
+          "score": 0.90423226
+        },
+        {
+          "section_id": "b53ee65589aa",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > ... > Điều 5. Tổ chức chương trình]\n\n* Các lớp CTTT được bố trí cơ sở vật chất, phòng học riêng với trang thiết bị hiện đại.\n* Có đầy đủ giáo trình, tài li",
+          "score": 0.90293765
+        },
+        {
+          "section_id": "1edbbf478015",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > ... > 1. Đối với học bổng ngoài ngân sách tài trợ trực tiếp cho Trường]\n\n* **Bước 7:** Phòng CTSV thực hiện thủ tục cấp học bổng.",
+          "score": 0.8998091
+        },
+        {
+          "section_id": "04a96defedf1",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > ... > Điều 1. Phạm vi học bổng]\n\n* Học bổng do các công ty, doanh nghiệp, tổ chức tài trợ trực tiếp cho Sinh viên (SV) các Khoa.\n\n---",
+          "score": 0.89924574
+        },
+        {
+          "section_id": "628cea237711",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > Quy định cấp học bổng học tập cho SV Chương trình CLC, Chương trình Tiên tiến]\n\n",
+          "score": 0.89900064
+        },
+        {
+          "section_id": "1650196c67ef",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Quy định liên quan đến học bổng sinh viên > ... > Điều 6. Điều khoản thi hành]\n\nQuy định này có hiệu lực kể từ ngày ký và thay thế các quy định trước đây liên quan đến học bổng Chương trình Chất lượn",
+          "score": 0.8989439
+        }
+      ]
+    },
+    {
+      "question": "Bố cục làm đồ án tốt nghiệp như nào nhỉ?",
+      "answer": "Dựa trên các thông tin được cung cấp, bố cục làm đồ án tốt nghiệp như sau:\n\n1.  **Yêu cầu tín chỉ:** Sinh viên cần tích lũy tối thiểu 130 tín chỉ và hoàn thành các môn học bắt buộc của chương trình.\n2.  **Lựa chọn hình thức:** Sinh viên có thể chọn làm Đồ án tốt nghiệp (6 TC) và đăng ký học tối thiểu một môn chuyên đề tốt nghiệp để thay thế cho Khóa luận tốt nghiệp.\n3.  **Số tín chỉ:** Đồ án tốt nghiệp có số tín chỉ là 6 (hoặc 10 nếu kết hợp với các môn chuyên đề).\n4.  **Thời gian thực hiện:** Đồ án tốt nghiệp có thể thực hiện trong một hoặc hai học kỳ liên tiếp.\n\n",
+      "contexts": [
+        "[Chương Trình Kỹ Thuật Phần Mềm > ... > Đồ án tốt nghiệp tại doanh nghiệp]\n\nSinh viên khi đủ điều kiện thực hiện Đồ án tốt nghiệp tại doanh nghiệp theo quy chế của Trường có thể đăng ký làm Đồ án tốt ",
+        "[QUY CHẾ ĐÀO TẠO ĐẠI HỌC THEO HỆ THỐNG TÍN CHỈ > Điều 28. Thực tập cuối khóa và làm đồ án/khóa luận tốt nghiệp]\n\n* Đầu mỗi học kỳ cuối, Trường công bố danh sách sinh viên đủ điều kiện làm đồ án hoặc k",
+        "[Chương Trình Kỹ Thuật Phần Mềm > ... > Khối kiến thức tốt nghiệp]\n\nNhóm gồm Đồ án tốt nghiệp và các môn học chuyên đề tốt nghiệp\n\nNhóm này yêu cầu sinh viên học Đồ án tốt nghiệp (6 TC, bắt buộc) và t",
+        "[Ngành Kỹ Thuật Máy Tính > ... > Mô tả các môn học mới và việc xét tương đương môn học]\n\nvà Đồ án tốt nghiệp tại doanh nghiệp trong cùng một học kỳ hoặc hai học kỳ liên tiếp để thuận tiện cho việc thự",
+        "[Chương trình Thương Mại Điện Tử > Vị trí và khả năng làm việc sau tốt nghiệp]\n\nều mà sinh viên có thể nhắm tới và đạt được.\n\n\\- Khởi nghiệp kinh doanh trực tuyến: xây dựng kế hoạch kinh doanh để biến",
+        "[Chương trình Mạng Máy Tính và Truyền Thông Dữ Liệu > ... > Khóa luận tốt nghiệp]\n\nSinh viên đủ điều kiện làm khóa luận tốt nghiệp theo qui chế của trường có thể đăng ký thực hiện Khóa luận tốt nghiệp",
+        "[Chương Trình Kỹ Thuật Phần Mềm > Điều kiện tốt nghiệp]\n\nCông nhận tốt nghiệp:\n\nSinh viên đã tích lũy tối thiểu 130 tín chỉ, đã hoàn thành các môn học bắt buộc của chương trình đào tạo tương ứng với c",
+        "[Ngành Trí Tuệ Nhân Tạo > Cơ hội nghề nghiệp]\n\nSinh viên tốt nghiệp ngành Trí tuệ nhân tạo có thể làm việc:\n\\- Chuyên gia lập trình Trí tuệ nhân tạo, tham gia phát triển các phần mềm, ứng dụng, các h",
+        "[Chương trình Khoa Học Dữ Liệu > ... > Học kỳ 8 (Tốt nghiệp)]\n\n− (\\*\\*): Sinh viên chọn học các môn học chuyên ngành theo hướng dẫn tại mục **3****.4.2.1**.\n\n− (\\*\\*\\*): Sinh viên bắt buộc chọn môn Ch"
+      ],
+      "ground_truth": "",
+      "expected_intent": "structure",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 9,
+        "total_time_ms": 7698.255777359009
+      },
+      "sources": [
+        {
+          "section_id": "107f49ca1378",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Kỹ Thuật Phần Mềm > ... > Đồ án tốt nghiệp tại doanh nghiệp]\n\nSinh viên khi đủ điều kiện thực hiện Đồ án tốt nghiệp tại doanh nghiệp theo quy chế của Trường có thể đăng ký làm Đồ án tốt ",
+          "score": 0.8958821
+        },
+        {
+          "section_id": "15edf23ff797",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[QUY CHẾ ĐÀO TẠO ĐẠI HỌC THEO HỆ THỐNG TÍN CHỈ > Điều 28. Thực tập cuối khóa và làm đồ án/khóa luận tốt nghiệp]\n\n* Đầu mỗi học kỳ cuối, Trường công bố danh sách sinh viên đủ điều kiện làm đồ án hoặc k",
+          "score": 0.8949392
+        },
+        {
+          "section_id": "c3cf6058086e",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Kỹ Thuật Phần Mềm > ... > Khối kiến thức tốt nghiệp]\n\nNhóm gồm Đồ án tốt nghiệp và các môn học chuyên đề tốt nghiệp\n\nNhóm này yêu cầu sinh viên học Đồ án tốt nghiệp (6 TC, bắt buộc) và t",
+          "score": 0.8928914
+        },
+        {
+          "section_id": "63469d22ec7e",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > ... > Mô tả các môn học mới và việc xét tương đương môn học]\n\nvà Đồ án tốt nghiệp tại doanh nghiệp trong cùng một học kỳ hoặc hai học kỳ liên tiếp để thuận tiện cho việc thự",
+          "score": 0.8916271
+        },
+        {
+          "section_id": "c582a4703b5b",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Thương Mại Điện Tử > Vị trí và khả năng làm việc sau tốt nghiệp]\n\nều mà sinh viên có thể nhắm tới và đạt được.\n\n\\- Khởi nghiệp kinh doanh trực tuyến: xây dựng kế hoạch kinh doanh để biến",
+          "score": 0.8896363
+        },
+        {
+          "section_id": "7f7b941671cf",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Mạng Máy Tính và Truyền Thông Dữ Liệu > ... > Khóa luận tốt nghiệp]\n\nSinh viên đủ điều kiện làm khóa luận tốt nghiệp theo qui chế của trường có thể đăng ký thực hiện Khóa luận tốt nghiệp",
+          "score": 0.88839793
+        },
+        {
+          "section_id": "c837cbac277d",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Kỹ Thuật Phần Mềm > Điều kiện tốt nghiệp]\n\nCông nhận tốt nghiệp:\n\nSinh viên đã tích lũy tối thiểu 130 tín chỉ, đã hoàn thành các môn học bắt buộc của chương trình đào tạo tương ứng với c",
+          "score": 0.8880429
+        },
+        {
+          "section_id": "edcf7864a797",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > Cơ hội nghề nghiệp]\n\nSinh viên tốt nghiệp ngành Trí tuệ nhân tạo có thể làm việc:\n\\- Chuyên gia lập trình Trí tuệ nhân tạo, tham gia phát triển các phần mềm, ứng dụng, các h",
+          "score": 0.8879955
+        },
+        {
+          "section_id": "0309f950a24f",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Khoa Học Dữ Liệu > ... > Học kỳ 8 (Tốt nghiệp)]\n\n− (\\*\\*): Sinh viên chọn học các môn học chuyên ngành theo hướng dẫn tại mục **3****.4.2.1**.\n\n− (\\*\\*\\*): Sinh viên bắt buộc chọn môn Ch",
+          "score": 0.8870063
+        }
+      ]
+    },
+    {
+      "question": "Làm sao để chuyển ngành trong trường?",
+      "answer": "Tôi không có đủ thông tin để trả lời.",
+      "contexts": [
+        "[Chương Trình Thiết Kế Vi Mạch > Vị trí và khả năng làm việc sau tốt nghiệp]\n\n\\- Làm việc ở bộ phận công nghệ thông tin hoặc cần ứng dụng công nghệ thông tin của tất cả các đơn vị có nhu cầu (h",
+        "[Chương Trình Khoa Học Máy Tính > Vị trí và khả năng làm việc sau tốt nghiệp]\n\n\\- Làm việc trong các công ty sản xuất, gia công phần mềm trong nước cũng như nước ngoài. Làm việc tại các công t",
+        "[Ngành Kỹ Thuật Máy Tính > ... > Khối kiến thức giáo dục chuyên nghiệp]\n\n",
+        "[Chương Trình Kỹ Thuật Phần Mềm > Vị trí và khả năng làm việc sau tốt nghiệp]\n\nsở đào tạo trong và ngoài nước.",
+        "[Ngành Kỹ Thuật Máy Tính > Chuẩn đầu ra]\n\nt3.3, gac2.c).\n\n− LO7: Trình bày được kiến thức về lãnh đạo và quản lý; áp dụng được kỹ năng lãnh đạo và quản lý trong công việc nhóm; thể hiện được tự tin và",
+        "[Chương trình An Toàn Thông Tin]\n\n",
+        "[Chương trình An Toàn Thông Tin > Khối kiến thức giáo dục chuyên nghiệp]\n\n",
+        "[Ngành Trí Tuệ Nhân Tạo > Quan điểm xây dựng chương trình đào tạo]\n\ncách làm việc hiện đại, hiệu quả.\n\\- Chương trình đào tạo ngành Trí tuệ nhân tạo được xây dựng trên nền tảng về Khoa học máy tính, t",
+        "[Chương Trình Khoa Học Máy Tính > Chuẩn đầu ra]\n\np hợp, lãnh đạo, quản lý, tạo động lực và truyền cảm hứng cho các nhóm chuyên môn để giải quyết các vấn đề, đạt được các mục tiêu cụ thể\nPLO5. Giao tiế"
+      ],
+      "ground_truth": "",
+      "expected_intent": "structure",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 9,
+        "total_time_ms": 3556.212902069092
+      },
+      "sources": [
+        {
+          "section_id": "21fcd01c4e95",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Thiết Kế Vi Mạch > Vị trí và khả năng làm việc sau tốt nghiệp]\n\n\\- Làm việc ở bộ phận công nghệ thông tin hoặc cần ứng dụng công nghệ thông tin của tất cả các đơn vị có nhu cầu (h",
+          "score": 0.89234877
+        },
+        {
+          "section_id": "4abd997e63d3",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Khoa Học Máy Tính > Vị trí và khả năng làm việc sau tốt nghiệp]\n\n\\- Làm việc trong các công ty sản xuất, gia công phần mềm trong nước cũng như nước ngoài. Làm việc tại các công t",
+          "score": 0.89212155
+        },
+        {
+          "section_id": "461ff7fc3ace",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > ... > Khối kiến thức giáo dục chuyên nghiệp]\n\n",
+          "score": 0.8905759
+        },
+        {
+          "section_id": "be0311136a43",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Kỹ Thuật Phần Mềm > Vị trí và khả năng làm việc sau tốt nghiệp]\n\nsở đào tạo trong và ngoài nước.",
+          "score": 0.88835526
+        },
+        {
+          "section_id": "7d5370df2d13",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > Chuẩn đầu ra]\n\nt3.3, gac2.c).\n\n− LO7: Trình bày được kiến thức về lãnh đạo và quản lý; áp dụng được kỹ năng lãnh đạo và quản lý trong công việc nhóm; thể hiện được tự tin và",
+          "score": 0.88686633
+        },
+        {
+          "section_id": "cdae4b1890c1",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình An Toàn Thông Tin]\n\n",
+          "score": 0.88548446
+        },
+        {
+          "section_id": "e69f7f93fc6d",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình An Toàn Thông Tin > Khối kiến thức giáo dục chuyên nghiệp]\n\n",
+          "score": 0.88494015
+        },
+        {
+          "section_id": "94e6e0f0674f",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > Quan điểm xây dựng chương trình đào tạo]\n\ncách làm việc hiện đại, hiệu quả.\n\\- Chương trình đào tạo ngành Trí tuệ nhân tạo được xây dựng trên nền tảng về Khoa học máy tính, t",
+          "score": 0.8845501
+        },
+        {
+          "section_id": "4038088ace48",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Khoa Học Máy Tính > Chuẩn đầu ra]\n\np hợp, lãnh đạo, quản lý, tạo động lực và truyền cảm hứng cho các nhóm chuyên môn để giải quyết các vấn đề, đạt được các mục tiêu cụ thể\nPLO5. Giao tiế",
+          "score": 0.8837533
+        }
+      ]
+    },
+    {
+      "question": "Bảo lưu thì làm như thế nào?",
+      "answer": "Tôi không có đủ thông tin để trả lời câu hỏi này.",
+      "contexts": [
+        "[Chương Trình Kỹ Thuật Phần Mềm > Vị trí và khả năng làm việc sau tốt nghiệp]\n\nsở đào tạo trong và ngoài nước.",
+        "[Chương trình Truyền Thông Đa Phương Tiện > Khối kiến thức chuyên ngành]\n\nnày có thể là: Thực hành hoặc bài tập lớn…",
+        "[IS405 -- DỮ LIỆU LỚN > NỘI DUNG CHI TIẾT]\n\nnhau. + Các công cụ truy vấn phân tán đơn/đa nguồn. + Các công cụ xử lý đồ thị dữ liệu lớn, tính toán trên bộ nhớ trong, lập lịch tác vụ, hỗ trợ bảo mật, qu",
+        "[Chương Trình Kỹ Thuật Phần Mềm > Mục tiêu đào tạo]\n\n\\- Khóa luận tốt nghiệp có thể ươm mầm cho các phần mềm trong tương lai.",
+        "[Chương Trình Thiết Kế Vi Mạch > Vị trí và khả năng làm việc sau tốt nghiệp]\n\n\\- Làm việc ở bộ phận công nghệ thông tin hoặc cần ứng dụng công nghệ thông tin của tất cả các đơn vị có nhu cầu (h",
+        "[Chương trình An Toàn Thông Tin > Quan điểm xây dựng chương trình đào tạo]\n\nhế giới, làm tiền đề cho các dự án hợp tác quốc tế và đào tạo nâng cao về sau.",
+        "[Chương Trình Khoa Học Máy Tính > Vị trí và khả năng làm việc sau tốt nghiệp]\n\n\\- Làm việc trong các công ty sản xuất, gia công phần mềm trong nước cũng như nước ngoài. Làm việc tại các công t",
+        "[Ngành Trí Tuệ Nhân Tạo > CHUẨN ĐẦU RA]\n\n| 7 | 1 | Tập hợp, lãnh đạo, quản lý, tạo động lực và truyền cảm hứng cho các nhóm chuyên môn để giải quyết các vấn đề, đạt được các mục tiêu cụ thể | | |\n| ",
+        "[Chương Trình Thiết Kế Vi Mạch > Mục tiêu đào tạo]\n\ntác, kết nối hiệu quả với các cá nhân và tập thể trong những ngữ cảnh chuyên ngành nhất định; kỹ năng giao tiếp trong công việc, đọc hiểu tài liệu v",
+        "[IS336 -- Hoạch Định Nguồn Lực Doanh Nghiệp > QUY ĐỊNH CỦA MÔN HỌC]\n\n- *Cách thức hoạt động trong lớp, làm việc nhóm: Hình thành nhóm, nhóm thảo luận, phân công công việc và lập bảng kế hoạch thực hiệ"
+      ],
+      "ground_truth": "",
+      "expected_intent": "structure",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 10,
+        "total_time_ms": 8030.372142791748
+      },
+      "sources": [
+        {
+          "section_id": "be0311136a43",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Kỹ Thuật Phần Mềm > Vị trí và khả năng làm việc sau tốt nghiệp]\n\nsở đào tạo trong và ngoài nước.",
+          "score": 0.868675
+        },
+        {
+          "section_id": "657b32694d34",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Truyền Thông Đa Phương Tiện > Khối kiến thức chuyên ngành]\n\nnày có thể là: Thực hành hoặc bài tập lớn…",
+          "score": 0.8638387
+        },
+        {
+          "section_id": "8ce735a5edb9",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS405 -- DỮ LIỆU LỚN > NỘI DUNG CHI TIẾT]\n\nnhau. + Các công cụ truy vấn phân tán đơn/đa nguồn. + Các công cụ xử lý đồ thị dữ liệu lớn, tính toán trên bộ nhớ trong, lập lịch tác vụ, hỗ trợ bảo mật, qu",
+          "score": 0.86339855
+        },
+        {
+          "section_id": "da44e346033a",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Kỹ Thuật Phần Mềm > Mục tiêu đào tạo]\n\n\\- Khóa luận tốt nghiệp có thể ươm mầm cho các phần mềm trong tương lai.",
+          "score": 0.8632722
+        },
+        {
+          "section_id": "21fcd01c4e95",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Thiết Kế Vi Mạch > Vị trí và khả năng làm việc sau tốt nghiệp]\n\n\\- Làm việc ở bộ phận công nghệ thông tin hoặc cần ứng dụng công nghệ thông tin của tất cả các đơn vị có nhu cầu (h",
+          "score": 0.8625386
+        },
+        {
+          "section_id": "b6db5a3c777e",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình An Toàn Thông Tin > Quan điểm xây dựng chương trình đào tạo]\n\nhế giới, làm tiền đề cho các dự án hợp tác quốc tế và đào tạo nâng cao về sau.",
+          "score": 0.8616996
+        },
+        {
+          "section_id": "4abd997e63d3",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Khoa Học Máy Tính > Vị trí và khả năng làm việc sau tốt nghiệp]\n\n\\- Làm việc trong các công ty sản xuất, gia công phần mềm trong nước cũng như nước ngoài. Làm việc tại các công t",
+          "score": 0.8599038
+        },
+        {
+          "section_id": "ab134b763c77",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > CHUẨN ĐẦU RA]\n\n| 7 | 1 | Tập hợp, lãnh đạo, quản lý, tạo động lực và truyền cảm hứng cho các nhóm chuyên môn để giải quyết các vấn đề, đạt được các mục tiêu cụ thể | | |\n| ",
+          "score": 0.85772514
+        },
+        {
+          "section_id": "04be9b4c310a",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Thiết Kế Vi Mạch > Mục tiêu đào tạo]\n\ntác, kết nối hiệu quả với các cá nhân và tập thể trong những ngữ cảnh chuyên ngành nhất định; kỹ năng giao tiếp trong công việc, đọc hiểu tài liệu v",
+          "score": 0.85719466
+        },
+        {
+          "section_id": "1f171527e21f",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS336 -- Hoạch Định Nguồn Lực Doanh Nghiệp > QUY ĐỊNH CỦA MÔN HỌC]\n\n- *Cách thức hoạt động trong lớp, làm việc nhóm: Hình thành nhóm, nhóm thảo luận, phân công công việc và lập bảng kế hoạch thực hiệ",
+          "score": 0.85576534
+        }
+      ]
+    },
+    {
+      "question": "Làm sao để đăng ký môn học trên hệ thống?",
+      "answer": "Tôi không có đủ thông tin để trả lời.",
+      "contexts": [
+        "[Chương trình An Toàn Thông Tin > Quan điểm xây dựng chương trình đào tạo]\n\nhế giới, làm tiền đề cho các dự án hợp tác quốc tế và đào tạo nâng cao về sau.",
+        "[Chương trình Truyền Thông Đa Phương Tiện > Quy chế đào tạo]\n\nệ thông tin được ứng dụng trong ngành Truyền thông đa phương tiện, bên cạnh kỹ năng và thái độ thiết yếu trong phát triển nghề nghiệp.",
+        "[Chương trình Thương Mại Điện Tử > ... > Học kỳ 3]\n\nMã môn: Tổng, Tên môn: Tổng số tín chỉ HK3, TC: 17, LT: 15, TH: 2",
+        "[IS005 -- GIỚI THIỆU NGÀNH HỆ THỐNG THÔNG TIN > MÔ TẢ MÔN HỌC(Course description)]\n\nMôn học trình bày cho sinh viên các khái niệm cơ bản về ngành hệ thống thông tin (IS) , cung cấp nền tảng kỹ thuật c",
+        "[IS005 -- GIỚI THIỆU NGÀNH HỆ THỐNG THÔNG TIN > CÁC CHỦ ĐỀ CHÍNH]\n\n- **01 file PPT** để trình bày trong ngày báo cáo\n\n- Ngoài nội dung được yêu cầu báo cáo của bài tập, file báo cáo cần phải thể hiện ",
+        "[Ngành Hệ Thống Thông Tin > Quan điểm xây dựng chương trình đào tạo]\n\nHệ thống thông tin là sự kết hợp của phần cứng, phần mềm và mạng truyền thông được sử dụng để thu thập, tạo, tái tạo, phân phối và",
+        "[Ngành Hệ Thống Thông Tin > Kế hoạch giảng dạy mẫu]\n\nChương trình đào tạo ngành Hệ thống thông tin gồm 8 học kỳ với 2 chuyên ngành chính.",
+        "[Chương Trình Thiết Kế Vi Mạch > Vị trí và khả năng làm việc sau tốt nghiệp]\n\n\\- Làm việc ở bộ phận công nghệ thông tin hoặc cần ứng dụng công nghệ thông tin của tất cả các đơn vị có nhu cầu (h",
+        "[Chương trình Thương Mại Điện Tử > ... > Học kỳ 7]\n\nMã môn: Tổng, Tên môn: Tổng số tín chỉ HK7, TC: 12, LT: 12, TH: 0"
+      ],
+      "ground_truth": "",
+      "expected_intent": "structure",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 9,
+        "total_time_ms": 335641.9849395752
+      },
+      "sources": [
+        {
+          "section_id": "b6db5a3c777e",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình An Toàn Thông Tin > Quan điểm xây dựng chương trình đào tạo]\n\nhế giới, làm tiền đề cho các dự án hợp tác quốc tế và đào tạo nâng cao về sau.",
+          "score": 0.9009714
+        },
+        {
+          "section_id": "b8a11c1317b8",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Truyền Thông Đa Phương Tiện > Quy chế đào tạo]\n\nệ thông tin được ứng dụng trong ngành Truyền thông đa phương tiện, bên cạnh kỹ năng và thái độ thiết yếu trong phát triển nghề nghiệp.",
+          "score": 0.8981271
+        },
+        {
+          "section_id": "e4bdc02b968d",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Thương Mại Điện Tử > ... > Học kỳ 3]\n\nMã môn: Tổng, Tên môn: Tổng số tín chỉ HK3, TC: 17, LT: 15, TH: 2",
+          "score": 0.89732933
+        },
+        {
+          "section_id": "b2c7673a98a4",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS005 -- GIỚI THIỆU NGÀNH HỆ THỐNG THÔNG TIN > MÔ TẢ MÔN HỌC(Course description)]\n\nMôn học trình bày cho sinh viên các khái niệm cơ bản về ngành hệ thống thông tin (IS) , cung cấp nền tảng kỹ thuật c",
+          "score": 0.89689374
+        },
+        {
+          "section_id": "3a64aead373d",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS005 -- GIỚI THIỆU NGÀNH HỆ THỐNG THÔNG TIN > CÁC CHỦ ĐỀ CHÍNH]\n\n- **01 file PPT** để trình bày trong ngày báo cáo\n\n- Ngoài nội dung được yêu cầu báo cáo của bài tập, file báo cáo cần phải thể hiện ",
+          "score": 0.8963325
+        },
+        {
+          "section_id": "3628fa028d49",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Hệ Thống Thông Tin > Quan điểm xây dựng chương trình đào tạo]\n\nHệ thống thông tin là sự kết hợp của phần cứng, phần mềm và mạng truyền thông được sử dụng để thu thập, tạo, tái tạo, phân phối và",
+          "score": 0.8959489
+        },
+        {
+          "section_id": "f9cc10e24688",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Hệ Thống Thông Tin > Kế hoạch giảng dạy mẫu]\n\nChương trình đào tạo ngành Hệ thống thông tin gồm 8 học kỳ với 2 chuyên ngành chính.",
+          "score": 0.8946898
+        },
+        {
+          "section_id": "21fcd01c4e95",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Thiết Kế Vi Mạch > Vị trí và khả năng làm việc sau tốt nghiệp]\n\n\\- Làm việc ở bộ phận công nghệ thông tin hoặc cần ứng dụng công nghệ thông tin của tất cả các đơn vị có nhu cầu (h",
+          "score": 0.89424276
+        },
+        {
+          "section_id": "c7d61b382424",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Thương Mại Điện Tử > ... > Học kỳ 7]\n\nMã môn: Tổng, Tên môn: Tổng số tín chỉ HK7, TC: 12, LT: 12, TH: 0",
+          "score": 0.89417386
+        }
+      ]
+    },
+    {
+      "question": "Cách tính điểm môn Phân tích thiết kế HTTT?",
+      "answer": "Tôi không có đủ thông tin để trả lời.",
+      "contexts": [
+        "[Chương Trình Thiết Kế Vi Mạch > Mô tả các môn học mới và việc xét tương đương môn học]\n\nrực tiếp từ cố vấn học tập hoặc giáo vụ khoa. Sinh viên có thể tham khảo danh sách các đối tác của Khoa KTMT và",
+        "[Ngành Kỹ Thuật Máy Tính > Tỷ lệ các khối kiến thức]\n\nChương trình cho phép sinh viên đăng ký các môn học tương đương hoặc thay thế nhằm tích lũy tín chỉ đầy đủ và linh hoạt. Các môn học tương đ",
+        "[Chương Trình Thiết Kế Vi Mạch > Mục tiêu đào tạo]\n\ntác, kết nối hiệu quả với các cá nhân và tập thể trong những ngữ cảnh chuyên ngành nhất định; kỹ năng giao tiếp trong công việc, đọc hiểu tài liệu v",
+        "[Chương trình Truyền Thông Đa Phương Tiện > Phân bố các khối kiến thức]\n\ng số tín chỉ tích lũy.",
+        "[Ngành Kỹ Thuật Máy Tính > ... > Mô tả các môn học mới và việc xét tương đương môn học]\n\nặc của các trường đại học khác ngoài ĐHQG –HCM mà có ký kết hợp tác với Trường ĐH CNTT, hoặc các chương trình đ",
+        "[Chương Trình Thiết Kế Vi Mạch > Vị trí và khả năng làm việc sau tốt nghiệp]\n\nSinh viên tốt nghiệp ngành Thiết kế vi mạch có thể làm việc ở các phạm vi và lĩnh vực khác nhau như:\n\n\\- Chuyên vi",
+        "[Chương trình An Toàn Thông Tin > ... > Nhóm các môn học khác]\n\nể tích lũy 6 tín chỉ tự chọn tự do. Các môn học tương đương nhau chỉ được tính một lần vào tổng số tín chỉ tích lũy.\n\n[Bảng 1] Bảng 3",
+        "[QUY CHẾ ĐÀO TẠO ĐẠI HỌC THEO HỆ THỐNG TÍN CHỈ > Điều 31. Điều kiện xét tốt nghiệp và công nhận tốt nghiệp Sinh viên được Trường xét và công nhận tốt nghiệp khi hội đủ các điều kiện sau:]\n\n3. Điểm tru"
+      ],
+      "ground_truth": "",
+      "expected_intent": "structure",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 8,
+        "total_time_ms": 6342.959880828857
+      },
+      "sources": [
+        {
+          "section_id": "21d91f5490e4",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Thiết Kế Vi Mạch > Mô tả các môn học mới và việc xét tương đương môn học]\n\nrực tiếp từ cố vấn học tập hoặc giáo vụ khoa. Sinh viên có thể tham khảo danh sách các đối tác của Khoa KTMT và",
+          "score": 0.90986013
+        },
+        {
+          "section_id": "1db8e31bb4ac",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > Tỷ lệ các khối kiến thức]\n\nChương trình cho phép sinh viên đăng ký các môn học tương đương hoặc thay thế nhằm tích lũy tín chỉ đầy đủ và linh hoạt. Các môn học tương đ",
+          "score": 0.9053304
+        },
+        {
+          "section_id": "04be9b4c310a",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Thiết Kế Vi Mạch > Mục tiêu đào tạo]\n\ntác, kết nối hiệu quả với các cá nhân và tập thể trong những ngữ cảnh chuyên ngành nhất định; kỹ năng giao tiếp trong công việc, đọc hiểu tài liệu v",
+          "score": 0.90227103
+        },
+        {
+          "section_id": "ea2823f99647",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Truyền Thông Đa Phương Tiện > Phân bố các khối kiến thức]\n\ng số tín chỉ tích lũy.",
+          "score": 0.9017756
+        },
+        {
+          "section_id": "63469d22ec7e",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > ... > Mô tả các môn học mới và việc xét tương đương môn học]\n\nặc của các trường đại học khác ngoài ĐHQG –HCM mà có ký kết hợp tác với Trường ĐH CNTT, hoặc các chương trình đ",
+          "score": 0.90165544
+        },
+        {
+          "section_id": "21fcd01c4e95",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Thiết Kế Vi Mạch > Vị trí và khả năng làm việc sau tốt nghiệp]\n\nSinh viên tốt nghiệp ngành Thiết kế vi mạch có thể làm việc ở các phạm vi và lĩnh vực khác nhau như:\n\n\\- Chuyên vi",
+          "score": 0.90137744
+        },
+        {
+          "section_id": "e72e373a6076",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình An Toàn Thông Tin > ... > Nhóm các môn học khác]\n\nể tích lũy 6 tín chỉ tự chọn tự do. Các môn học tương đương nhau chỉ được tính một lần vào tổng số tín chỉ tích lũy.\n\n[Bảng 1] Bảng 3",
+          "score": 0.90104866
+        },
+        {
+          "section_id": "fdabb8cde195",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[QUY CHẾ ĐÀO TẠO ĐẠI HỌC THEO HỆ THỐNG TÍN CHỈ > Điều 31. Điều kiện xét tốt nghiệp và công nhận tốt nghiệp Sinh viên được Trường xét và công nhận tốt nghiệp khi hội đủ các điều kiện sau:]\n\n3. Điểm tru",
+          "score": 0.9003098
+        }
+      ]
+    },
+    {
+      "question": "Rubric đánh giá môn Hệ quản trị CSDL như thế nào?",
+      "answer": "Dựa trên các thông tin được cung cấp, rubric đánh giá môn Hệ quản trị CSDL như sau:\n\n*   **IS201 -- PHÂN TÍNH THIẾT KẾ HỆ THỐNG THÔNG TIN:** Rubric đánh giá dựa trên khả năng mô hình hóa hệ thống, phân tích, thiết kế hệ thống, sử dụng công cụ hỗ trợ mô hình hóa, và kỹ năng thiết kế giao diện và lập trình kết nối CSDL.\n*   **EC213 -- QUẢN TRỊ QUAN HỆ KHÁCH HÀNG VÀ NHÀ CUNG CẤP:** Rubric đánh giá dựa trên việc chuyển đổi từ lược đồ E-R sang lược đồ CSDL logic, xác định các thuộc tính thông thường của các thực thể, và đánh giá chất lượng của một lược đồ CSDL quan hệ.\n*   **IT004 -- CƠ SỞ DỮ LIỆU:** Rubric đánh giá dựa trên khả năng chuyển đổi từ ERD sang lược đồ CSDL quan hệ, viết đúng cú pháp câu lệnh, xác định dư bảng, và sử dụng MS SQLServer.\n*   **IS208 -- QUẢN LÝ DỰ ÁN CÔNG NGHỆ THÔNG TIN:** Rubric đánh giá dựa trên khả năng sử dụng các công cụ và phần mềm hỗ trợ quản lý dự án.\n\nCác mức đánh giá (G2, G3, G4, G5, G6, G7, G8, G9, G10) và các mức điểm (1-10) được sử dụng để đánh giá mức độ đạt được của từng mục tiêu.",
+      "contexts": [
+        "[IS201 -- PHÂN TÍCH THIẾT KẾ HỆ THỐNG THÔNG TIN > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\nệu. Vẽ Diagram hoàn chỉnh.\nRubric criteria/Mục tiêu môn học: G3, Từ 0 đến <3: - Không hiểu cách thức mô hình hóa ",
+        "[EC213 -- QUẢN TRỊ QUAN HỆ KHÁCH HÀNG VÀ NHÀ CUNG CẤP (2022) > Ví dụ: Rubric của thành phần đánh giá A4 (Đánh giá cuối kỳ) của môn học Cơ sở dữ liệu]\n\nng thường của các thực thể, ## Kém(0đ): ## Không ",
+        "[IT004 -- CƠ SỞ DỮ LIỆU (2022-RUBRIC) > MÔ TẢ MÔN HỌC (Course description)]\n\nr), phục vụ cho nhiều môn học nâng cao về CSDL trong những học kỳ kế tiếp.",
+        "[IS335 -- AN TOÀN VÀ BẢO MẬT HỆ THỐNG THÔNG TIN > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\nRubric criteria: G3, <3: - Không hiểu nguyên lý xác thực người dùng và kiểm soát truy cập. -Không biết rõ cách sử dụ",
+        "[IS402 -- ĐIỆN TOÁN ĐÁM MÂY > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\nRubric criteria/Mục tiêu môn học: G2, Từ 0 đến <3: - Biết các phân loại mô hình triển khai trong điện toán đám mây như riêng tư, công khai, cộ",
+        "[IS216 -- LẬP TRÌNH JAVA (2022-RUBRIC) > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\nRubric criteria/Mục tiêu môn học: G3, < 3: Không nhận diện và trình bày được đầy đủ các thành phần trên giao diện, 3 -- 4.9: Trình ",
+        "[IT004 -- CƠ SỞ DỮ LIỆU (2022-RUBRIC) > MỤC TIÊU MÔN HỌC (Course Goals)]\n\n## Chuẩn đầu ra trong CTĐT: LO3 (3.1, 3.2, 3.3)\n## Mục tiêu: ## G3, ## Mục tiêu môn học: ## - Đánh giá chất lượng của một lược",
+        "[IT004 -- CƠ SỞ DỮ LIỆU (2022-RUBRIC) > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\nphần nhỏ từ ERD sang lược đồ CSDL quan hệ. -Viết đúng cú pháp câu lệnh, xác định dư bảng, thiếu các điều kiện kết, xác định thiếu mộ",
+        "[IS208 -- QUẢN LÝ DỰ ÁN CÔNG NGHỆ THÔNG TIN > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\nRubric criteria: G3 Có khả năng sử dụng các công cụ và phần mềm hỗ trợ quản lý dự án, <3: -Không biết rõ cách sử dụng côn"
+      ],
+      "ground_truth": "",
+      "expected_intent": "structure",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 9,
+        "total_time_ms": 13851.258754730225
+      },
+      "sources": [
+        {
+          "section_id": "f55d568748ac",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS201 -- PHÂN TÍCH THIẾT KẾ HỆ THỐNG THÔNG TIN > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\nệu. Vẽ Diagram hoàn chỉnh.\nRubric criteria/Mục tiêu môn học: G3, Từ 0 đến <3: - Không hiểu cách thức mô hình hóa ",
+          "score": 0.9267857
+        },
+        {
+          "section_id": "f0c53a2b5349",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[EC213 -- QUẢN TRỊ QUAN HỆ KHÁCH HÀNG VÀ NHÀ CUNG CẤP (2022) > Ví dụ: Rubric của thành phần đánh giá A4 (Đánh giá cuối kỳ) của môn học Cơ sở dữ liệu]\n\nng thường của các thực thể, ## Kém(0đ): ## Không ",
+          "score": 0.9206183
+        },
+        {
+          "section_id": "bc656ae34ed3",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IT004 -- CƠ SỞ DỮ LIỆU (2022-RUBRIC) > MÔ TẢ MÔN HỌC (Course description)]\n\nr), phục vụ cho nhiều môn học nâng cao về CSDL trong những học kỳ kế tiếp.",
+          "score": 0.91588473
+        },
+        {
+          "section_id": "5286834d7ff9",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS335 -- AN TOÀN VÀ BẢO MẬT HỆ THỐNG THÔNG TIN > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\nRubric criteria: G3, <3: - Không hiểu nguyên lý xác thực người dùng và kiểm soát truy cập. -Không biết rõ cách sử dụ",
+          "score": 0.91401625
+        },
+        {
+          "section_id": "c00878f8a132",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS402 -- ĐIỆN TOÁN ĐÁM MÂY > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\nRubric criteria/Mục tiêu môn học: G2, Từ 0 đến <3: - Biết các phân loại mô hình triển khai trong điện toán đám mây như riêng tư, công khai, cộ",
+          "score": 0.9135499
+        },
+        {
+          "section_id": "bd715f2b6e7b",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS216 -- LẬP TRÌNH JAVA (2022-RUBRIC) > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\nRubric criteria/Mục tiêu môn học: G3, < 3: Không nhận diện và trình bày được đầy đủ các thành phần trên giao diện, 3 -- 4.9: Trình ",
+          "score": 0.9123483
+        },
+        {
+          "section_id": "247ba6098ada",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IT004 -- CƠ SỞ DỮ LIỆU (2022-RUBRIC) > MỤC TIÊU MÔN HỌC (Course Goals)]\n\n## Chuẩn đầu ra trong CTĐT: LO3 (3.1, 3.2, 3.3)\n## Mục tiêu: ## G3, ## Mục tiêu môn học: ## - Đánh giá chất lượng của một lược",
+          "score": 0.91146636
+        },
+        {
+          "section_id": "c015336e2aa9",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IT004 -- CƠ SỞ DỮ LIỆU (2022-RUBRIC) > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\nphần nhỏ từ ERD sang lược đồ CSDL quan hệ. -Viết đúng cú pháp câu lệnh, xác định dư bảng, thiếu các điều kiện kết, xác định thiếu mộ",
+          "score": 0.911052
+        },
+        {
+          "section_id": "c8c05d033cc0",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS208 -- QUẢN LÝ DỰ ÁN CÔNG NGHỆ THÔNG TIN > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\nRubric criteria: G3 Có khả năng sử dụng các công cụ và phần mềm hỗ trợ quản lý dự án, <3: -Không biết rõ cách sử dụng côn",
+          "score": 0.9098625
+        }
+      ]
+    },
+    {
+      "question": "Chuẩn đầu ra G1 của môn Dữ Liệu Lớn là gì?",
+      "answer": "Chuẩn đầu ra G1 của môn Dữ Liệu Lớn là: Chưa nắm rõ đa số các khái niệm, cơ hội và ứng dụng của dữ liệu lớn. Chưa hiểu rõ hoặc hiểu không chính xác.",
+      "contexts": [
+        "[IS405 -- DỮ LIỆU LỚN > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\nnhưng chưa tốt lắm.                                              - Nắm rõ được một số kiến trúc hệ thống xử lý dữ liệu lớn.\n\n                  **G2*",
+        "[IS211 -- CƠ SỞ DỮ LIỆU PHÂN TÁN > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\n**G4**                     Phối hợp rât tốt với nhóm, có vai trò tiên phong, lãnh đạo nhóm, đồng thời khả năng làm việc đô",
+        "[IS211 -- CƠ SỞ DỮ LIỆU PHÂN TÁN > NỘI DUNG, KẾ HOẠCH GIẢNG DẠY]\n\nặc trưng của giao dịch - Các tính chất giao dịch - Các loại giao dịch - Điều khiển đồng thời phân tán, Hoạt động dạy và học: - Seminar",
+        "[EC214 -- NHẬP MÔN QUẢN TRỊ CHUỖI CUNG ỨNG > a. Rubric của đánh giá thành phần A1]\n\nĐi học đầy đủ và đúng giờ.                                                Có mặt 80% số buổi và luôn đúng giờ.      ",
+        "[1], Chuẩn đầu ra: G2.1 G3.1 G3.2, Thành phần đánh giá: A1, A3\nTuần/Thời lượng (4 tiết): 8, Nội dung: Chương 5: Kiểm toán bảo mật - Kiến trúc kiểm toán bảo mật - Theo dõi kiểm định bảo mật - Hiện thực",
+        "[Chương Trình Kỹ Thuật Phần Mềm > ... > Nhóm các môn học tự chọn chuyên ngành: 16TC]\n\nMã môn học: SE320, Tên môn: Lập trình đồ họa 3 chiều với Direct 3D (1), TC: 4, LT: 3, TH: 1\nMã môn học: S",
+        "[Chương trình Khoa Học Dữ Liệu > CHUẨN ĐẦU RA]\n\nChuẩn đầu ra (Learning Outcomes – LO) của CTĐT bao gồm những chuẩn đầu ra chung dưới đây, được tham chiếu theo Khung trình độ quốc gia Việt Nam, chuẩn"
+      ],
+      "ground_truth": "",
+      "expected_intent": "structure",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 7,
+        "total_time_ms": 5928.739070892334
+      },
+      "sources": [
+        {
+          "section_id": "d0a38d4240f4",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS405 -- DỮ LIỆU LỚN > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\nnhưng chưa tốt lắm.                                              - Nắm rõ được một số kiến trúc hệ thống xử lý dữ liệu lớn.\n\n                  **G2*",
+          "score": 0.884078
+        },
+        {
+          "section_id": "bcc82be97ea3",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS211 -- CƠ SỞ DỮ LIỆU PHÂN TÁN > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\n**G4**                     Phối hợp rât tốt với nhóm, có vai trò tiên phong, lãnh đạo nhóm, đồng thời khả năng làm việc đô",
+          "score": 0.87619734
+        },
+        {
+          "section_id": "fa8db1977b17",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS211 -- CƠ SỞ DỮ LIỆU PHÂN TÁN > NỘI DUNG, KẾ HOẠCH GIẢNG DẠY]\n\nặc trưng của giao dịch - Các tính chất giao dịch - Các loại giao dịch - Điều khiển đồng thời phân tán, Hoạt động dạy và học: - Seminar",
+          "score": 0.87512064
+        },
+        {
+          "section_id": "14f156504064",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[EC214 -- NHẬP MÔN QUẢN TRỊ CHUỖI CUNG ỨNG > a. Rubric của đánh giá thành phần A1]\n\nĐi học đầy đủ và đúng giờ.                                                Có mặt 80% số buổi và luôn đúng giờ.      ",
+          "score": 0.8713255
+        },
+        {
+          "section_id": "5b3d48c6dd26",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[1], Chuẩn đầu ra: G2.1 G3.1 G3.2, Thành phần đánh giá: A1, A3\nTuần/Thời lượng (4 tiết): 8, Nội dung: Chương 5: Kiểm toán bảo mật - Kiến trúc kiểm toán bảo mật - Theo dõi kiểm định bảo mật - Hiện thực",
+          "score": 0.8684468
+        },
+        {
+          "section_id": "54413f88fec1",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Kỹ Thuật Phần Mềm > ... > Nhóm các môn học tự chọn chuyên ngành: 16TC]\n\nMã môn học: SE320, Tên môn: Lập trình đồ họa 3 chiều với Direct 3D (1), TC: 4, LT: 3, TH: 1\nMã môn học: S",
+          "score": 0.86763644
+        },
+        {
+          "section_id": "38dd95350c53",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Khoa Học Dữ Liệu > CHUẨN ĐẦU RA]\n\nChuẩn đầu ra (Learning Outcomes – LO) của CTĐT bao gồm những chuẩn đầu ra chung dưới đây, được tham chiếu theo Khung trình độ quốc gia Việt Nam, chuẩn",
+          "score": 0.8659859
+        }
+      ]
+    },
+    {
+      "question": "Ngành CNTT có thể làm nghề gì sau khi ra trường?",
+      "answer": "Sinh viên tốt nghiệp ngành Công Nghệ Thông Tin có khả năng làm việc ở những phạm vi và lĩnh vực khác nhau như:\n\n1) Chuyên viên thiết kế, xây dựng và quản lý các dự án nghiên cứu và ứng dụng CNTT, chủ yếu trong lĩnh vực: giao thông, xây dựng, địa lý, môi trường, viễn thám.\n2) Chuyên viên quản lý, giám sát, đầu tư các dự án công nghệ thông tin.\n3) Chuyên viên phân tích, thiết kế, phát triển thuộc các dự án phát triển giải pháp phần mềm máy tính, thiết kế các hệ thống số, hệ thống nhúng, hệ thống IoT và ứng dụng trí tuệ nhân tạo.\n4) Cán bộ nghiên cứu và ứng dụng Công nghệ thông tin ở các viện, trung tâm nghiên cứu và các trường đại học, cao đẳng.",
+      "contexts": [
+        "[Ngành Công Nghệ Thông Tin]\n\n",
+        "[Ngành Công Nghệ Thông Tin > Quan điểm xây dựng chương trình đào tạo]\n\nv.v. Tuy không mô tả hết tất cả các khía cạnh của ngành CNTT, nhưng nó sẽ làm rõ mô tả của những mối quan hệ của các thành phần c",
+        "[Ngành Kỹ Thuật Máy Tính > Vị trí và khả năng làm việc sau tốt nghiệp]\n\nSinh viên tốt nghiệp ngành Kỹ thuật máy tính có thể làm việc ở các phạm vi và lĩnh vực khác nhau như:\n\n- Chuyên viên p",
+        "[Ngành Trí Tuệ Nhân Tạo > Cơ hội nghề nghiệp]\n\nSinh viên tốt nghiệp ngành Trí tuệ nhân tạo có thể làm việc:\n\\- Chuyên gia lập trình Trí tuệ nhân tạo, tham gia phát triển các phần mềm, ứng dụng, các h",
+        "[IS005 -- GIỚI THIỆU NGÀNH HỆ THỐNG THÔNG TIN > CÁC CHỦ ĐỀ CHÍNH]\n\n- **01 file PPT** để trình bày trong ngày báo cáo\n\n- Ngoài nội dung được yêu cầu báo cáo của bài tập, file báo cáo cần phải thể hiện ",
+        "[Chương Trình Thiết Kế Vi Mạch > Vị trí và khả năng làm việc sau tốt nghiệp]\n\n\\- Làm việc ở bộ phận công nghệ thông tin hoặc cần ứng dụng công nghệ thông tin của tất cả các đơn vị có nhu cầu (h",
+        "[Ngành Hệ Thống Thông Tin > Vị trí và khả năng làm việc sau tốt nghiệp]\n\ncác trường.\n3. Quản lý bộ phận CNTT, quản lý thông tin (CIO), cán bộ quản lý dự án, quản trị viên cơ sở dữ liệu.\n4. Chuyên viên",
+        "[Ngành Kỹ Thuật Máy Tính > ... > Khối kiến thức tốt nghiệp]\n\n\\- Trong trường hợp sinh viên đủ điều kiện làm Khóa luận tốt nghiệp nhưng không muốn làm, hoặc sinh viên không đủ điều kiện làm Khóa luận t",
+        "[Ngành Công Nghệ Thông Tin > Vị trí và khả năng làm việc sau tốt nghiệp]\n\nSinh viên tốt nghiệp Chương trình đào tạo Cử nhân Công nghệ Thông tin có khả năng làm việc ở những phạm vi và lĩnh vực",
+        "[Ngành Kỹ Thuật Máy Tính]\n\n"
+      ],
+      "ground_truth": "",
+      "expected_intent": "structure",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 10,
+        "total_time_ms": 8024.729013442993
+      },
+      "sources": [
+        {
+          "section_id": "e421da5daef2",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin]\n\n",
+          "score": 0.89465714
+        },
+        {
+          "section_id": "197c31f4cd93",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > Quan điểm xây dựng chương trình đào tạo]\n\nv.v. Tuy không mô tả hết tất cả các khía cạnh của ngành CNTT, nhưng nó sẽ làm rõ mô tả của những mối quan hệ của các thành phần c",
+          "score": 0.89251685
+        },
+        {
+          "section_id": "4a360f19b8ed",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > Vị trí và khả năng làm việc sau tốt nghiệp]\n\nSinh viên tốt nghiệp ngành Kỹ thuật máy tính có thể làm việc ở các phạm vi và lĩnh vực khác nhau như:\n\n- Chuyên viên p",
+          "score": 0.890532
+        },
+        {
+          "section_id": "edcf7864a797",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > Cơ hội nghề nghiệp]\n\nSinh viên tốt nghiệp ngành Trí tuệ nhân tạo có thể làm việc:\n\\- Chuyên gia lập trình Trí tuệ nhân tạo, tham gia phát triển các phần mềm, ứng dụng, các h",
+          "score": 0.88937306
+        },
+        {
+          "section_id": "3a64aead373d",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS005 -- GIỚI THIỆU NGÀNH HỆ THỐNG THÔNG TIN > CÁC CHỦ ĐỀ CHÍNH]\n\n- **01 file PPT** để trình bày trong ngày báo cáo\n\n- Ngoài nội dung được yêu cầu báo cáo của bài tập, file báo cáo cần phải thể hiện ",
+          "score": 0.88666177
+        },
+        {
+          "section_id": "21fcd01c4e95",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Thiết Kế Vi Mạch > Vị trí và khả năng làm việc sau tốt nghiệp]\n\n\\- Làm việc ở bộ phận công nghệ thông tin hoặc cần ứng dụng công nghệ thông tin của tất cả các đơn vị có nhu cầu (h",
+          "score": 0.88611794
+        },
+        {
+          "section_id": "d62ab162f1b5",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Hệ Thống Thông Tin > Vị trí và khả năng làm việc sau tốt nghiệp]\n\ncác trường.\n3. Quản lý bộ phận CNTT, quản lý thông tin (CIO), cán bộ quản lý dự án, quản trị viên cơ sở dữ liệu.\n4. Chuyên viên",
+          "score": 0.88580346
+        },
+        {
+          "section_id": "1e361d658458",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > ... > Khối kiến thức tốt nghiệp]\n\n\\- Trong trường hợp sinh viên đủ điều kiện làm Khóa luận tốt nghiệp nhưng không muốn làm, hoặc sinh viên không đủ điều kiện làm Khóa luận t",
+          "score": 0.88418865
+        },
+        {
+          "section_id": "2fb5bcadd897",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > Vị trí và khả năng làm việc sau tốt nghiệp]\n\nSinh viên tốt nghiệp Chương trình đào tạo Cử nhân Công nghệ Thông tin có khả năng làm việc ở những phạm vi và lĩnh vực",
+          "score": 0.883924
+        },
+        {
+          "section_id": "5e586c1c0ae9",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính]\n\n",
+          "score": 0.88327956
+        }
+      ]
+    },
+    {
+      "question": "Khối kiến thức đại cương ngành TTNT gồm những gì?",
+      "answer": "Khối kiến thức giáo dục đại cương ngành Công Nghệ Thông Tin bao gồm các môn sau:\n\n*   Toán – Tin học – Khoa học tự nhiên (18 TC)\n*   Giải tích (4 TC)\n*   Đại số tuyến tính (3 TC)\n*   Cấu trúc rời rạc (4 TC)\n*   Xác suất thống kê (3 TC)\n*   Nhập môn lập trình (4 TC, LT: 3, TH: 1)\n*   Ngôn ngữ Anh (12 TC, ENG01: Anh văn 1, TC: 4, LT: 4, TH: 0)",
+      "contexts": [
+        "[Ngành Công Nghệ Thông Tin > ... > Khối kiến thức giáo dục đại cương]\n\nSTT: Tổng số tín chỉ, TC: 45",
+        "[Chương trình An Toàn Thông Tin > GIỚI THIỆU CHUNG]\n\nhi tốt nghiệp vừa có kỹ năng đáp ứng được yêu cầu của công nghệ hiện đại vừa có kiến thức nền tảng cho phép họ có cơ hội tiếp tục học tập và công t",
+        "[Ngành Trí Tuệ Nhân Tạo > ... > Khối kiến thức tốt nghiệp]\n\nSTT: 8., Mã môn học: CS412, Tên môn học: Web ngữ nghĩa, TC: 4, LT: 3, TH: 1\nSTT: 9., Mã môn học: Hoặc, các môn học chuyên ngành, nếu các m",
+        "[Ngành Kỹ Thuật Máy Tính > ... > Mô tả các môn học mới và việc xét tương đương môn học]\n\n\\- Đối với các môn học **Tự chọn chuyên ngành**, sinh viên có thể chọn đăng ký học các môn bất kỳ trong Bảng 8.",
+        "[Chương trình Thương Mại Điện Tử > Khối kiến thức tốt nghiệp]\n\n\\- Tổng cộng 12 tín chỉ.",
+        "[Ngành Trí Tuệ Nhân Tạo > ... > Khối kiến thức giáo dục chuyên nghiệp]\n\nKhối kiến thức giáo dục chuyên nghiệp gồm tối thiểu **73 tín chỉ**.",
+        "[Chương Trình Kỹ Thuật Phần Mềm > ... > Khối kiến thức tốt nghiệp]\n\nKhối kiến thức tốt nghiệp trang bị cho sinh viên khả năng vận dụng tổng hợp kiến thức và kỹ năng đã học để thực hiện các dự án thực ",
+        "[Ngành Kỹ Thuật Máy Tính > ... > Khối kiến thức tốt nghiệp]\n\n\\- Trong trường hợp sinh viên đủ điều kiện làm Khóa luận tốt nghiệp nhưng không muốn làm, hoặc sinh viên không đủ điều kiện làm Khóa luận t"
+      ],
+      "ground_truth": "",
+      "expected_intent": "structure",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 8,
+        "total_time_ms": 7149.764060974121
+      },
+      "sources": [
+        {
+          "section_id": "aa19a5e191b1",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > ... > Khối kiến thức giáo dục đại cương]\n\nSTT: Tổng số tín chỉ, TC: 45",
+          "score": 0.8914304
+        },
+        {
+          "section_id": "7c3120b2a25b",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình An Toàn Thông Tin > GIỚI THIỆU CHUNG]\n\nhi tốt nghiệp vừa có kỹ năng đáp ứng được yêu cầu của công nghệ hiện đại vừa có kiến thức nền tảng cho phép họ có cơ hội tiếp tục học tập và công t",
+          "score": 0.8858571
+        },
+        {
+          "section_id": "f5d601d2c758",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > ... > Khối kiến thức tốt nghiệp]\n\nSTT: 8., Mã môn học: CS412, Tên môn học: Web ngữ nghĩa, TC: 4, LT: 3, TH: 1\nSTT: 9., Mã môn học: Hoặc, các môn học chuyên ngành, nếu các m",
+          "score": 0.8835068
+        },
+        {
+          "section_id": "63469d22ec7e",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > ... > Mô tả các môn học mới và việc xét tương đương môn học]\n\n\\- Đối với các môn học **Tự chọn chuyên ngành**, sinh viên có thể chọn đăng ký học các môn bất kỳ trong Bảng 8.",
+          "score": 0.8816414
+        },
+        {
+          "section_id": "40a19ee927c1",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Thương Mại Điện Tử > Khối kiến thức tốt nghiệp]\n\n\\- Tổng cộng 12 tín chỉ.",
+          "score": 0.8813596
+        },
+        {
+          "section_id": "3471e4ec5b24",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > ... > Khối kiến thức giáo dục chuyên nghiệp]\n\nKhối kiến thức giáo dục chuyên nghiệp gồm tối thiểu **73 tín chỉ**.",
+          "score": 0.8810992
+        },
+        {
+          "section_id": "c3cf6058086e",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Kỹ Thuật Phần Mềm > ... > Khối kiến thức tốt nghiệp]\n\nKhối kiến thức tốt nghiệp trang bị cho sinh viên khả năng vận dụng tổng hợp kiến thức và kỹ năng đã học để thực hiện các dự án thực ",
+          "score": 0.8810282
+        },
+        {
+          "section_id": "1e361d658458",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > ... > Khối kiến thức tốt nghiệp]\n\n\\- Trong trường hợp sinh viên đủ điều kiện làm Khóa luận tốt nghiệp nhưng không muốn làm, hoặc sinh viên không đủ điều kiện làm Khóa luận t",
+          "score": 0.8797076
+        }
+      ]
+    },
+    {
+      "question": "Học kỳ 1 ngành TTNT học những môn gì?",
+      "answer": "Dựa trên thông tin được cung cấp, học kỳ 1 ngành Kỹ thuật Máy tính học các môn sau:\n\n*   Giới thiệu ngành KTMT (CE005)\n*   Nhập môn Lập trình (IT001)\n*   Giải tích (MA006)\n*   Đại số tuyến tính (MA003)\n*   Triết học Mác – Lênin (SS007)\n*   Anh văn 1 (ENG01)\n*   Giáo dục quốc phòng (ME001)",
+      "contexts": [
+        "[Ngành Trí Tuệ Nhân Tạo > ... > Các môn học tự chọn liên ngành]\n\n4, TH: 0\nSTT: 16., Mã môn học: CS333, Tên môn học tự chọn tự do: Đồ họa game, TC: 3, LT: 2, TH: 1\nSTT: 17., Mã môn học: CS527, Tên môn",
+        "[Ngành Kỹ Thuật Máy Tính > ... > Học kỳ 1 – 19 tín chỉ]\n\n**Tổng TC HK1:** 19\n\n---\n\n[Bảng 1] Bảng 7 hàng x 6 cột. Các cột: Mã MH, Tên môn học, Loại MH, ...\n: Mã MH, : Tên môn học, : Loại MH, : TC, : LT",
+        "[Ngành Công Nghệ Thông Tin > ... > Học kì 3]\n\nMã môn: ENG03, Tên môn học: Anh văn 3 (*), TC: 4, LT: 4, TH: 0\nTên môn học: Tổng số tín chỉ HK3, TC: 19",
+        "[Ngành Kỹ Thuật Máy Tính > ... > Học kỳ 8 – 10 tín chỉ]\n\n**Tổng TC HK8:** 10\n\n[Bảng 1] Bảng 1 hàng x 6 cột. Các cột: Mã MH, Tên môn học, Loại MH, ...\n: Mã MH, : Tên môn học, : Loại MH, : TC, : LT, : T",
+        "[Ngành Kỹ Thuật Máy Tính > ... > Học kỳ 7 – 13 tín chỉ]\n\n**Tổng TC HK7:** 13\n\n---\n\n[Bảng 1] Bảng 5 hàng x 6 cột. Các cột: Mã MH, Tên môn học, Loại MH, ...\n: Mã MH, : Tên môn học, : Loại MH, : TC, : LT",
+        "[Ngành Công Nghệ Thông Tin > ... > Học kì 2]\n\nMã môn: ENG02, Tên môn học: Anh văn 2 (*), TC: 4, LT: 4, TH: 0\nTên môn học: Tổng số tín chỉ HK2, TC: 18",
+        "[Ngành Trí Tuệ Nhân Tạo > ... > Học kỳ 3]\n\nMã MH: Tổng số tín chỉ Học kỳ 3, TC: 20, LT: 17, TH: 3",
+        "[Ngành Trí Tuệ Nhân Tạo > ... > Khối kiến thức giáo dục đại cương]\n\nSTT: 10., Mã môn học: MA006, Tên môn học: Giải tích, Bắt buộc/Chọn: BB, TC: 4, LT: 4, TH: 0\nSTT: 11., Mã môn học: CS115, Tên m",
+        "[Ngành Kỹ Thuật Máy Tính > ... > Học kỳ 2 – 19 tín chỉ]\n\n**Tổng TC HK2:** 19\n\n---\n\n[Bảng 1] Bảng 5 hàng x 6 cột. Các cột: Mã MH, Tên môn học, Loại MH, ...\n: Mã MH, : Tên môn học, : Loại MH, : TC, : LT"
+      ],
+      "ground_truth": "",
+      "expected_intent": "roadmap",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 9,
+        "total_time_ms": 256849.20239448547
+      },
+      "sources": [
+        {
+          "section_id": "f1b34cca2b28",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > ... > Các môn học tự chọn liên ngành]\n\n4, TH: 0\nSTT: 16., Mã môn học: CS333, Tên môn học tự chọn tự do: Đồ họa game, TC: 3, LT: 2, TH: 1\nSTT: 17., Mã môn học: CS527, Tên môn",
+          "score": 0.9036207
+        },
+        {
+          "section_id": "159c1e4ba4a3",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > ... > Học kỳ 1 – 19 tín chỉ]\n\n**Tổng TC HK1:** 19\n\n---\n\n[Bảng 1] Bảng 7 hàng x 6 cột. Các cột: Mã MH, Tên môn học, Loại MH, ...\n: Mã MH, : Tên môn học, : Loại MH, : TC, : LT",
+          "score": 0.90265393
+        },
+        {
+          "section_id": "e740375553f1",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > ... > Học kì 3]\n\nMã môn: ENG03, Tên môn học: Anh văn 3 (*), TC: 4, LT: 4, TH: 0\nTên môn học: Tổng số tín chỉ HK3, TC: 19",
+          "score": 0.8999417
+        },
+        {
+          "section_id": "330402dbaec0",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > ... > Học kỳ 8 – 10 tín chỉ]\n\n**Tổng TC HK8:** 10\n\n[Bảng 1] Bảng 1 hàng x 6 cột. Các cột: Mã MH, Tên môn học, Loại MH, ...\n: Mã MH, : Tên môn học, : Loại MH, : TC, : LT, : T",
+          "score": 0.8993249
+        },
+        {
+          "section_id": "09ecee5526db",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > ... > Học kỳ 7 – 13 tín chỉ]\n\n**Tổng TC HK7:** 13\n\n---\n\n[Bảng 1] Bảng 5 hàng x 6 cột. Các cột: Mã MH, Tên môn học, Loại MH, ...\n: Mã MH, : Tên môn học, : Loại MH, : TC, : LT",
+          "score": 0.89927673
+        },
+        {
+          "section_id": "28a66127704f",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > ... > Học kì 2]\n\nMã môn: ENG02, Tên môn học: Anh văn 2 (*), TC: 4, LT: 4, TH: 0\nTên môn học: Tổng số tín chỉ HK2, TC: 18",
+          "score": 0.8984828
+        },
+        {
+          "section_id": "24e541d68db4",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > ... > Học kỳ 3]\n\nMã MH: Tổng số tín chỉ Học kỳ 3, TC: 20, LT: 17, TH: 3",
+          "score": 0.8982911
+        },
+        {
+          "section_id": "9bc4f70e56fc",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > ... > Khối kiến thức giáo dục đại cương]\n\nSTT: 10., Mã môn học: MA006, Tên môn học: Giải tích, Bắt buộc/Chọn: BB, TC: 4, LT: 4, TH: 0\nSTT: 11., Mã môn học: CS115, Tên m",
+          "score": 0.89777565
+        },
+        {
+          "section_id": "02f663f4c0b8",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > ... > Học kỳ 2 – 19 tín chỉ]\n\n**Tổng TC HK2:** 19\n\n---\n\n[Bảng 1] Bảng 5 hàng x 6 cột. Các cột: Mã MH, Tên môn học, Loại MH, ...\n: Mã MH, : Tên môn học, : Loại MH, : TC, : LT",
+          "score": 0.8976157
+        }
+      ]
+    },
+    {
+      "question": "Học kỳ 6 ngành CNTT học những môn gì?",
+      "answer": "Dựa trên thông tin được cung cấp, học kỳ 6 ngành Kỹ thuật Máy Tính học các môn sau:\n\n*   CE212: Điều khiển tự động (4 TC, 3 LT, 1 TH)\n*   Tự chọn chuyên ngành (1) (4 TC, 3 LT, 1 TH)",
+      "contexts": [
+        "[Ngành Kỹ Thuật Máy Tính > ... > Học kỳ 6 – 15 tín chỉ]\n\n**Tổng TC HK6:** 15\n\n---\n\n[Bảng 1] Bảng 6 hàng x 6 cột. Các cột: Mã MH, Tên môn học, Loại MH, ...\n: Mã MH, : Tên môn học, : Loại MH, : TC, : LT",
+        "[Ngành Kỹ Thuật Máy Tính > ... > Học kỳ 8 – 10 tín chỉ]\n\n**Tổng TC HK8:** 10\n\n[Bảng 1] Bảng 1 hàng x 6 cột. Các cột: Mã MH, Tên môn học, Loại MH, ...\n: Mã MH, : Tên môn học, : Loại MH, : TC, : LT, : T",
+        "[Ngành Kỹ Thuật Máy Tính > ... > Mô tả các môn học mới và việc xét tương đương môn học]\n\nng ký nơi thực hiện cho môn học này, sinh viên cần chọn các công ty có ký kết hợp tác chính thức với Khoa KTMT ",
+        "[Ngành Trí Tuệ Nhân Tạo > ... > Các môn học tự chọn liên ngành]\n\n4, TH: 0\nSTT: 16., Mã môn học: CS333, Tên môn học tự chọn tự do: Đồ họa game, TC: 3, LT: 2, TH: 1\nSTT: 17., Mã môn học: CS527, Tên môn",
+        "[Ngành Công Nghệ Thông Tin > ... > Học kì 7]\n\n[Bảng 1] Bảng 4 hàng x 6 cột. Các cột: Mã môn, Tên môn học, TC, ...\n: Mã môn, : Tên môn học, : TC, : LT, : TH\nMã môn: IE400, Tên môn học: Chuyên đề tốt ng",
+        "[Ngành Công Nghệ Thông Tin > ... > Học kì 6]\n\nTên môn học: Các môn học chuyên ngành (**), TC: ≥ 10\nTên môn học: Tổng số tín chỉ HK6, TC: ≥ 16",
+        "[Ngành Hệ Thống Thông Tin > ... > Học kỳ 6 (Chuyên ngành HTTT quản lý)]\n\n---\n\n[Bảng 1] Bảng 6 hàng x 5 cột. Các cột: Mã MH, Tên môn học, TC, ...\n: Mã MH, : Tên môn học, : TC, : LT, : TH\nMã MH: PE232, ",
+        "[Ngành Công Nghệ Thông Tin > ... > Học kì 3]\n\n[Bảng 1] Bảng 6 hàng x 5 cột. Các cột: Mã môn, Tên môn học, TC, ...\n: Mã môn, : Tên môn học, : TC, : LT, : TH\nMã môn: IT004, Tên môn học: Cơ sở dữ liệu, T",
+        "[Ngành Kỹ Thuật Máy Tính > ... > Học kỳ 3 – 18 tín chỉ]\n\n**Tổng TC HK3:** 18\n\n---\n\n[Bảng 1] Bảng 6 hàng x 6 cột. Các cột: Mã MH, Tên môn học, Loại MH, ...\n: Mã MH, : Tên môn học, : Loại MH, : TC, : LT"
+      ],
+      "ground_truth": "",
+      "expected_intent": "roadmap",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 9,
+        "total_time_ms": 9051.849126815796
+      },
+      "sources": [
+        {
+          "section_id": "2e78061abb0a",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > ... > Học kỳ 6 – 15 tín chỉ]\n\n**Tổng TC HK6:** 15\n\n---\n\n[Bảng 1] Bảng 6 hàng x 6 cột. Các cột: Mã MH, Tên môn học, Loại MH, ...\n: Mã MH, : Tên môn học, : Loại MH, : TC, : LT",
+          "score": 0.90602374
+        },
+        {
+          "section_id": "330402dbaec0",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > ... > Học kỳ 8 – 10 tín chỉ]\n\n**Tổng TC HK8:** 10\n\n[Bảng 1] Bảng 1 hàng x 6 cột. Các cột: Mã MH, Tên môn học, Loại MH, ...\n: Mã MH, : Tên môn học, : Loại MH, : TC, : LT, : T",
+          "score": 0.89749455
+        },
+        {
+          "section_id": "63469d22ec7e",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > ... > Mô tả các môn học mới và việc xét tương đương môn học]\n\nng ký nơi thực hiện cho môn học này, sinh viên cần chọn các công ty có ký kết hợp tác chính thức với Khoa KTMT ",
+          "score": 0.8966179
+        },
+        {
+          "section_id": "f1b34cca2b28",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > ... > Các môn học tự chọn liên ngành]\n\n4, TH: 0\nSTT: 16., Mã môn học: CS333, Tên môn học tự chọn tự do: Đồ họa game, TC: 3, LT: 2, TH: 1\nSTT: 17., Mã môn học: CS527, Tên môn",
+          "score": 0.8961134
+        },
+        {
+          "section_id": "b66123da3d05",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > ... > Học kì 7]\n\n[Bảng 1] Bảng 4 hàng x 6 cột. Các cột: Mã môn, Tên môn học, TC, ...\n: Mã môn, : Tên môn học, : TC, : LT, : TH\nMã môn: IE400, Tên môn học: Chuyên đề tốt ng",
+          "score": 0.8942611
+        },
+        {
+          "section_id": "ec503a07eeb1",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > ... > Học kì 6]\n\nTên môn học: Các môn học chuyên ngành (**), TC: ≥ 10\nTên môn học: Tổng số tín chỉ HK6, TC: ≥ 16",
+          "score": 0.8941798
+        },
+        {
+          "section_id": "5d40543de23d",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Hệ Thống Thông Tin > ... > Học kỳ 6 (Chuyên ngành HTTT quản lý)]\n\n---\n\n[Bảng 1] Bảng 6 hàng x 5 cột. Các cột: Mã MH, Tên môn học, TC, ...\n: Mã MH, : Tên môn học, : TC, : LT, : TH\nMã MH: PE232, ",
+          "score": 0.89349294
+        },
+        {
+          "section_id": "e740375553f1",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > ... > Học kì 3]\n\n[Bảng 1] Bảng 6 hàng x 5 cột. Các cột: Mã môn, Tên môn học, TC, ...\n: Mã môn, : Tên môn học, : TC, : LT, : TH\nMã môn: IT004, Tên môn học: Cơ sở dữ liệu, T",
+          "score": 0.8929596
+        },
+        {
+          "section_id": "07c4264ea965",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > ... > Học kỳ 3 – 18 tín chỉ]\n\n**Tổng TC HK3:** 18\n\n---\n\n[Bảng 1] Bảng 6 hàng x 6 cột. Các cột: Mã MH, Tên môn học, Loại MH, ...\n: Mã MH, : Tên môn học, : Loại MH, : TC, : LT",
+          "score": 0.89207125
+        }
+      ]
+    },
+    {
+      "question": "kì mấy t làm đồ án tốt nghiệp đối với ngành Trí Tuệ Nhân Tạo?",
+      "answer": "Dựa trên thông tin được cung cấp, sinh viên ngành Trí Tuệ Nhân Tạo có thể thực hiện Đồ án tốt nghiệp tại doanh nghiệp khi đủ điều kiện theo quy chế của Trường. Thông tin cụ thể về thời điểm thực hiện Đồ án tốt nghiệp không được nêu rõ trong các đoạn văn trên.",
+      "contexts": [
+        "[Ngành Trí Tuệ Nhân Tạo > 7\\. ĐIỀU KIỆN TỐT NGHIỆP]\n\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n3\\. Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công nghệ Thông tin",
+        "[Ngành Trí Tuệ Nhân Tạo > Cơ hội nghề nghiệp]\n\nSinh viên tốt nghiệp ngành Trí tuệ nhân tạo có thể làm việc:\n\\- Chuyên gia lập trình Trí tuệ nhân tạo, tham gia phát triển các phần mềm, ứng dụng, các h",
+        "[Ngành Trí Tuệ Nhân Tạo]\n\n",
+        "[Ngành Trí Tuệ Nhân Tạo > ... > Khối kiến thức giáo dục chuyên nghiệp]\n\nKhối kiến thức giáo dục chuyên nghiệp gồm tối thiểu **73 tín chỉ**.",
+        "[Ngành Trí Tuệ Nhân Tạo > CHUẨN ĐẦU RA]\n\n| 7 | 1 | Tập hợp, lãnh đạo, quản lý, tạo động lực và truyền cảm hứng cho các nhóm chuyên môn để giải quyết các vấn đề, đạt được các mục tiêu cụ thể | | |\n| ",
+        "[Ngành Kỹ Thuật Máy Tính > Điều kiện tốt nghiệp]\n\nCông nhận tốt nghiệp:\n\n– Sinh viên đã tích lũy tối thiểu 128 tín chỉ, đã hoàn thành các môn học bắt buộc của chương trình đào tạo tương ứng với định h",
+        "[Chương Trình Kỹ Thuật Phần Mềm > ... > Đồ án tốt nghiệp tại doanh nghiệp]\n\nSinh viên khi đủ điều kiện thực hiện Đồ án tốt nghiệp tại doanh nghiệp theo quy chế của Trường có thể đăng ký làm Đồ án tốt "
+      ],
+      "ground_truth": "",
+      "expected_intent": "factual",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 7,
+        "total_time_ms": 5265.691041946411
+      },
+      "sources": [
+        {
+          "section_id": "6dbaaf0fd117",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > 7\\. ĐIỀU KIỆN TỐT NGHIỆP]\n\n\\- Kiến thức tốt nghiệp: tối thiểu 10 tín chỉ.\n3\\. Đáp ứng các điều kiện khác theo quy chế đào tạo hiện hành của Trường Đại học Công nghệ Thông tin",
+          "score": 0.9341092
+        },
+        {
+          "section_id": "edcf7864a797",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > Cơ hội nghề nghiệp]\n\nSinh viên tốt nghiệp ngành Trí tuệ nhân tạo có thể làm việc:\n\\- Chuyên gia lập trình Trí tuệ nhân tạo, tham gia phát triển các phần mềm, ứng dụng, các h",
+          "score": 0.93252516
+        },
+        {
+          "section_id": "1cba9a2251c9",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo]\n\n",
+          "score": 0.91919875
+        },
+        {
+          "section_id": "3471e4ec5b24",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > ... > Khối kiến thức giáo dục chuyên nghiệp]\n\nKhối kiến thức giáo dục chuyên nghiệp gồm tối thiểu **73 tín chỉ**.",
+          "score": 0.9082768
+        },
+        {
+          "section_id": "ab134b763c77",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Trí Tuệ Nhân Tạo > CHUẨN ĐẦU RA]\n\n| 7 | 1 | Tập hợp, lãnh đạo, quản lý, tạo động lực và truyền cảm hứng cho các nhóm chuyên môn để giải quyết các vấn đề, đạt được các mục tiêu cụ thể | | |\n| ",
+          "score": 0.90781
+        },
+        {
+          "section_id": "9feb1f49d68b",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > Điều kiện tốt nghiệp]\n\nCông nhận tốt nghiệp:\n\n– Sinh viên đã tích lũy tối thiểu 128 tín chỉ, đã hoàn thành các môn học bắt buộc của chương trình đào tạo tương ứng với định h",
+          "score": 0.9067631
+        },
+        {
+          "section_id": "107f49ca1378",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Kỹ Thuật Phần Mềm > ... > Đồ án tốt nghiệp tại doanh nghiệp]\n\nSinh viên khi đủ điều kiện thực hiện Đồ án tốt nghiệp tại doanh nghiệp theo quy chế của Trường có thể đăng ký làm Đồ án tốt ",
+          "score": 0.90509987
+        }
+      ]
+    },
+    {
+      "question": "Môn cơ sở dữ liệu phân tán khác gì với môn dữ liệu lớn?",
+      "answer": "Dựa trên thông tin được cung cấp, môn Cơ sở dữ liệu phân tán tập trung vào thiết kế và quản lý các hệ thống cơ sở dữ liệu phân tán, bao gồm các khái niệm như: nguyên lý thiết kế cơ sở dữ liệu phân tán, quản lý giao tác, điều khiển tương tranh và phục hồi dữ liệu, lựa chọn kỹ thuật phân mảnh, hiểu kỹ thuật nhân bản, xử lý dữ liệu ở các mức \"Trong suốt ánh xạ địa phương\", \"Trong suốt về vị trí\", \"Trong suốt phân đoạn\", \"Không trong suốt\" và tối ưu hóa câu truy vấn.\n\nMôn Dữ liệu lớn tập trung vào việc xử lý các bài toán liên quan đến dữ liệu lớn, bao gồm việc xác định và phát biểu bài toán, vận dụng các kỹ thuật xử lý dữ liệu lớn để giải quyết bài toán.\n",
+      "contexts": [
+        "[IS211 -- CƠ SỞ DỮ LIỆU PHÂN TÁN > MÔ TẢ MÔN HỌC]\n\nSinh viên được trang bị các kiến thức về nguyên lý thiết kế cơ sở dữ liệu phân tán, quản lý giao tác, điều khiển tương tranh và phục hồi dữ liệu\\... ",
+        "[IS211 -- CƠ SỞ DỮ LIỆU PHÂN TÁN > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\nKhông phối hợp được với nhóm, khả năng thích ứng kém/dựa dẫm vào các bạn khác.",
+        "[Chương trình Khoa Học Dữ Liệu > ... > Nhóm các môn học tự chọn tự do]\n\nSTT: Và các môn học khác theo đề nghị của Khoa.",
+        "[IS211 -- CƠ SỞ DỮ LIỆU PHÂN TÁN]\n\n",
+        "[Chương trình Khoa Học Dữ Liệu > Mục tiêu chung]\n\n− Chuyên viên có kỹ năng khai thác, xây dựng phần mềm phân tích dữ liệu trên các hệ thống tính toán tập trung, phân tán; có khả năng chọn mô hình lưu ",
+        "[Chương trình Khoa Học Dữ Liệu > Sơ đồ mối liên hệ thứ tự học giữa các môn học]\n\n![](/sites/daa/files/uploads/so_do_moi_lien_he_khdl_2024.png)",
+        "[IS405 -- DỮ LIỆU LỚN > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\nhoặc thiếu chính xác.\\                           \\- Xác định được bài toán về dữ liệu lớn nhưng phát biểu bài toán còn một số thiếu sót.\\           "
+      ],
+      "ground_truth": "",
+      "expected_intent": "compare",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 7,
+        "total_time_ms": 7848.976135253906
+      },
+      "sources": [
+        {
+          "section_id": "d1c17c9a1d16",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS211 -- CƠ SỞ DỮ LIỆU PHÂN TÁN > MÔ TẢ MÔN HỌC]\n\nSinh viên được trang bị các kiến thức về nguyên lý thiết kế cơ sở dữ liệu phân tán, quản lý giao tác, điều khiển tương tranh và phục hồi dữ liệu\\... ",
+          "score": 0.8940971
+        },
+        {
+          "section_id": "bcc82be97ea3",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS211 -- CƠ SỞ DỮ LIỆU PHÂN TÁN > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\nKhông phối hợp được với nhóm, khả năng thích ứng kém/dựa dẫm vào các bạn khác.",
+          "score": 0.8917303
+        },
+        {
+          "section_id": "26da4024cdbe",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Khoa Học Dữ Liệu > ... > Nhóm các môn học tự chọn tự do]\n\nSTT: Và các môn học khác theo đề nghị của Khoa.",
+          "score": 0.8898196
+        },
+        {
+          "section_id": "0f274589b615",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS211 -- CƠ SỞ DỮ LIỆU PHÂN TÁN]\n\n",
+          "score": 0.8890717
+        },
+        {
+          "section_id": "7a073a24a597",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Khoa Học Dữ Liệu > Mục tiêu chung]\n\n− Chuyên viên có kỹ năng khai thác, xây dựng phần mềm phân tích dữ liệu trên các hệ thống tính toán tập trung, phân tán; có khả năng chọn mô hình lưu ",
+          "score": 0.88775444
+        },
+        {
+          "section_id": "effa039d190f",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Khoa Học Dữ Liệu > Sơ đồ mối liên hệ thứ tự học giữa các môn học]\n\n![](/sites/daa/files/uploads/so_do_moi_lien_he_khdl_2024.png)",
+          "score": 0.88720345
+        },
+        {
+          "section_id": "d0a38d4240f4",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[IS405 -- DỮ LIỆU LỚN > ĐÁNH GIÁ MÔN HỌC CHI TIẾT]\n\nhoặc thiếu chính xác.\\                           \\- Xác định được bài toán về dữ liệu lớn nhưng phát biểu bài toán còn một số thiếu sót.\\           ",
+          "score": 0.8851633
+        }
+      ]
+    },
+    {
+      "question": "Môn cơ sơ dữ liệu có gì khác với hệ quản trị cơ sở dữ liệu?",
+      "answer": "Tôi không có đủ thông tin để trả lời câu hỏi này.",
+      "contexts": [
+        "[Chương trình Khoa Học Dữ Liệu]\n\n",
+        "[Chương trình Khoa Học Dữ Liệu > ... > Nhóm các môn học tự chọn tự do]\n\nSTT: Và các môn học khác theo đề nghị của Khoa.",
+        "[Chương trình Khoa Học Dữ Liệu > ... > Học kỳ 3]\n\n---\n\n[Bảng 1] Bảng 6 hàng x 5 cột. Các cột: Mã MH, Tên môn học, TC, ...\n: Mã MH, : Tên môn học, : TC, : LT, : TH\nMã MH: IT004, Tên môn học: Cơ sở dữ l",
+        "[Chương trình Khoa Học Dữ Liệu > ... > Nhóm các môn học cơ sở ngành]\n\nSTT: Kiến thức nền tảng về Khoa học Dữ liệu, TC: 19, LT: 14, TH: 5\nSTT: 8, Mã môn học: DS107, Tên môn học: Tư duy tính toán cho Kh",
+        "[Chương trình Khoa Học Dữ Liệu > ... > Học kỳ 4]\n\nMã MH: Tổng, Tên môn học: Tổng số tín chỉ, TC: 15, LT: 12, TH: 3",
+        "[Chương trình Khoa Học Dữ Liệu > ... > Học kỳ 5]\n\n---\n\n[Bảng 1] Bảng 6 hàng x 5 cột. Các cột: Mã MH, Tên môn học, TC, ...\n: Mã MH, : Tên môn học, : TC, : LT, : TH\nMã MH: SS008, Tên môn học: Kinh tế ch",
+        "[Chương trình Khoa Học Dữ Liệu > Sơ đồ mối liên hệ thứ tự học giữa các môn học]\n\n![](/sites/daa/files/uploads/so_do_moi_lien_he_khdl_2024.png)"
+      ],
+      "ground_truth": "",
+      "expected_intent": "compare",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 7,
+        "total_time_ms": 4145.17617225647
+      },
+      "sources": [
+        {
+          "section_id": "b3b58adadac5",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Khoa Học Dữ Liệu]\n\n",
+          "score": 0.89940596
+        },
+        {
+          "section_id": "26da4024cdbe",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Khoa Học Dữ Liệu > ... > Nhóm các môn học tự chọn tự do]\n\nSTT: Và các môn học khác theo đề nghị của Khoa.",
+          "score": 0.89838123
+        },
+        {
+          "section_id": "1b9bef17e461",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Khoa Học Dữ Liệu > ... > Học kỳ 3]\n\n---\n\n[Bảng 1] Bảng 6 hàng x 5 cột. Các cột: Mã MH, Tên môn học, TC, ...\n: Mã MH, : Tên môn học, : TC, : LT, : TH\nMã MH: IT004, Tên môn học: Cơ sở dữ l",
+          "score": 0.89793086
+        },
+        {
+          "section_id": "dd088817123a",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Khoa Học Dữ Liệu > ... > Nhóm các môn học cơ sở ngành]\n\nSTT: Kiến thức nền tảng về Khoa học Dữ liệu, TC: 19, LT: 14, TH: 5\nSTT: 8, Mã môn học: DS107, Tên môn học: Tư duy tính toán cho Kh",
+          "score": 0.89677763
+        },
+        {
+          "section_id": "f36e98f4f366",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Khoa Học Dữ Liệu > ... > Học kỳ 4]\n\nMã MH: Tổng, Tên môn học: Tổng số tín chỉ, TC: 15, LT: 12, TH: 3",
+          "score": 0.8943505
+        },
+        {
+          "section_id": "1d9b04533310",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Khoa Học Dữ Liệu > ... > Học kỳ 5]\n\n---\n\n[Bảng 1] Bảng 6 hàng x 5 cột. Các cột: Mã MH, Tên môn học, TC, ...\n: Mã MH, : Tên môn học, : TC, : LT, : TH\nMã MH: SS008, Tên môn học: Kinh tế ch",
+          "score": 0.8922794
+        },
+        {
+          "section_id": "effa039d190f",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình Khoa Học Dữ Liệu > Sơ đồ mối liên hệ thứ tự học giữa các môn học]\n\n![](/sites/daa/files/uploads/so_do_moi_lien_he_khdl_2024.png)",
+          "score": 0.8919146
+        }
+      ]
+    },
+    {
+      "question": "Ngành Kĩ thuật phần mềm khác gì với ngành công nghệ thông tin v",
+      "answer": "Dựa trên thông tin được cung cấp, ngành Kỹ thuật Phần mềm và ngành Công nghệ Thông tin có những điểm khác biệt sau:\n\n*   **Tập trung:** Ngành Kỹ thuật Phần mềm tập trung vào thiết kế, phát triển, cài đặt, quản trị và bảo trì các phần mềm máy tính, trong khi ngành Công nghệ Thông tin có phạm vi rộng hơn, bao gồm cả kiến thức nền tảng về khoa học tự nhiên, khoa học xã hội và khả năng ứng dụng chúng vào ngành Công nghệ Thông tin.\n*   **Kỹ năng:** Ngành Kỹ thuật Phần mềm nhấn mạnh vào các kỹ năng thực tế trong việc phát triển phần mềm, còn ngành Công nghệ Thông tin tập trung vào việc khảo sát, phân tích tài liệu chuyên ngành, lập luận, phân tích và đề xuất giải pháp cho các vấn đề liên quan đến Hệ thống thông tin.\n*   **Vị trí công việc:** Sinh viên tốt nghiệp ngành Kỹ thuật phần mềm có thể làm việc trong các lĩnh vực như chuyên viên phân tích, thiết kế, cài đặt, quản trị, bảo trì các phần mềm máy tính, trong khi sinh viên tốt nghiệp ngành Công nghệ Thông tin có thể làm việc trong nhiều lĩnh vực khác nhau liên quan đến Hệ thống thông tin.",
+      "contexts": [
+        "[Ngành Công Nghệ Thông Tin]\n\n",
+        "[Ngành Công Nghệ Thông Tin > ... > Khối kiến thức giáo dục đại cương]\n\nSTT: Tổng số tín chỉ, TC: 45",
+        "[Ngành Công Nghệ Thông Tin > ... > Học kì 3]\n\nMã môn: ENG03, Tên môn học: Anh văn 3 (*), TC: 4, LT: 4, TH: 0\nTên môn học: Tổng số tín chỉ HK3, TC: 19",
+        "[Ngành Kỹ Thuật Máy Tính > Chuẩn đầu ra]\n\nKỹ thuật Phần mềm và thực tiễn. (abet 3.1, gac1.a)\n\n− LO2: Trình bày được kiến thức nền tảng và chuyên sâu về Công nghệ Thông tin và Kỹ thuật Phần mềm; giải t",
+        "[Ngành Công Nghệ Thông Tin > ... > Học kì 2]\n\nMã môn: ENG02, Tên môn học: Anh văn 2 (*), TC: 4, LT: 4, TH: 0\nTên môn học: Tổng số tín chỉ HK2, TC: 18",
+        "[Ngành Công Nghệ Thông Tin > ... > Học kì 1]\n\nMã môn: MA003, Tên môn học: Đại số tuyến tính, TC: 3, LT: 3, TH: 0\nMã môn: IE005, Tên môn học: Giới thiệu ngành Công nghệ Thông tin, TC: 1, LT: 1, TH: 0\nM",
+        "[Ngành Kỹ Thuật Máy Tính]\n\n",
+        "[Ngành Công Nghệ Thông Tin > Chuẩn đầu ra]\n\nu:\n\n− (LO1) Nắm vững kiến thức nền tảng về khoa học tự nhiên, khoa học xã hội và hiểu khả năng vận dụng những kiến thức đó vào ngành Công nghệ thông tin và ",
+        "[Chương trình An Toàn Thông Tin > GIỚI THIỆU CHUNG]\n\nhi tốt nghiệp vừa có kỹ năng đáp ứng được yêu cầu của công nghệ hiện đại vừa có kiến thức nền tảng cho phép họ có cơ hội tiếp tục học tập và công t",
+        "[Chương Trình Kỹ Thuật Phần Mềm > Vị trí và khả năng làm việc sau tốt nghiệp]\n\nSinh viên tốt nghiệp ngành Kỹ thuật phần mềm có thể làm việc ở các phạm vi và lĩnh vực khác nhau như:\n\nChuyên viê"
+      ],
+      "ground_truth": "",
+      "expected_intent": "compare",
+      "metadata": {
+        "major_used": null,
+        "chunks_retrieved": 10,
+        "sections_retrieved": 10,
+        "total_time_ms": 9789.39700126648
+      },
+      "sources": [
+        {
+          "section_id": "e421da5daef2",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin]\n\n",
+          "score": 0.9232998
+        },
+        {
+          "section_id": "aa19a5e191b1",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > ... > Khối kiến thức giáo dục đại cương]\n\nSTT: Tổng số tín chỉ, TC: 45",
+          "score": 0.9123292
+        },
+        {
+          "section_id": "e740375553f1",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > ... > Học kì 3]\n\nMã môn: ENG03, Tên môn học: Anh văn 3 (*), TC: 4, LT: 4, TH: 0\nTên môn học: Tổng số tín chỉ HK3, TC: 19",
+          "score": 0.9120202
+        },
+        {
+          "section_id": "7d5370df2d13",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính > Chuẩn đầu ra]\n\nKỹ thuật Phần mềm và thực tiễn. (abet 3.1, gac1.a)\n\n− LO2: Trình bày được kiến thức nền tảng và chuyên sâu về Công nghệ Thông tin và Kỹ thuật Phần mềm; giải t",
+          "score": 0.9119792
+        },
+        {
+          "section_id": "28a66127704f",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > ... > Học kì 2]\n\nMã môn: ENG02, Tên môn học: Anh văn 2 (*), TC: 4, LT: 4, TH: 0\nTên môn học: Tổng số tín chỉ HK2, TC: 18",
+          "score": 0.9116981
+        },
+        {
+          "section_id": "7171b7bcc2da",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > ... > Học kì 1]\n\nMã môn: MA003, Tên môn học: Đại số tuyến tính, TC: 3, LT: 3, TH: 0\nMã môn: IE005, Tên môn học: Giới thiệu ngành Công nghệ Thông tin, TC: 1, LT: 1, TH: 0\nM",
+          "score": 0.9104092
+        },
+        {
+          "section_id": "5e586c1c0ae9",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Kỹ Thuật Máy Tính]\n\n",
+          "score": 0.90384126
+        },
+        {
+          "section_id": "4a93d7365158",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Ngành Công Nghệ Thông Tin > Chuẩn đầu ra]\n\nu:\n\n− (LO1) Nắm vững kiến thức nền tảng về khoa học tự nhiên, khoa học xã hội và hiểu khả năng vận dụng những kiến thức đó vào ngành Công nghệ thông tin và ",
+          "score": 0.90330577
+        },
+        {
+          "section_id": "7c3120b2a25b",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương trình An Toàn Thông Tin > GIỚI THIỆU CHUNG]\n\nhi tốt nghiệp vừa có kỹ năng đáp ứng được yêu cầu của công nghệ hiện đại vừa có kiến thức nền tảng cho phép họ có cơ hội tiếp tục học tập và công t",
+          "score": 0.9029815
+        },
+        {
+          "section_id": "be0311136a43",
+          "title": "Unknown",
+          "hierarchy_path": "",
+          "text_preview": "[Chương Trình Kỹ Thuật Phần Mềm > Vị trí và khả năng làm việc sau tốt nghiệp]\n\nSinh viên tốt nghiệp ngành Kỹ thuật phần mềm có thể làm việc ở các phạm vi và lĩnh vực khác nhau như:\n\nChuyên viê",
+          "score": 0.90286493
+        }
+      ]
+    }
+  ]
+}

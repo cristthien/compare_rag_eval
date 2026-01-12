@@ -1,0 +1,177 @@
+[
+  {
+    "original": "Tốt nghiệp ngành TTNT cần bao nhiêu tín chỉ?",
+    "expected_intent": "factual",
+    "answer": "Để tốt nghiệp ngành Trí tuệ nhân tạo, sinh viên cần tích lũy tối thiểu 128 tín chỉ (đã bao gồm 12 tín chỉ Anh văn)."
+  },
+  {
+    "original": "Ngành Trí Tuệ Nhân Tạo yêu cầu tối thiểu bao nhiêu tín chỉ để tốt nghiệp?",
+    "expected_intent": "factual",
+    "answer": "Yêu cầu tối thiểu là 128 tín chỉ, bao gồm các khối kiến thức giáo dục đại cương, cơ sở nhóm ngành, ngành, chuyên ngành và tốt nghiệp."
+  },
+  {
+    "original": "Khóa luận tốt nghiệp ngành Trí Tuệ Nhân Tạo có bao nhiêu tín chỉ?",
+    "expected_intent": "factual",
+    "answer": "Khóa luận tốt nghiệp ngành Trí Tuệ Nhân Tạo (mã AI505) có khối lượng là 10 tín chỉ."
+  },
+  {
+    "original": "Ngành Trí Tuệ Nhân Tạo yêu cầu bao nhiêu tín chỉ ngoại ngữ?",
+    "expected_intent": "factual",
+    "answer": "Chương trình yêu cầu tích lũy 12 tín chỉ Anh văn trong tổng số tín chỉ tốt nghiệp."
+  },
+  {
+    "original": "Ngành CNTT yêu cầu tổng cộng bao nhiêu tín chỉ để tốt nghiệp?",
+    "expected_intent": "factual",
+    "answer": "Ngành Công nghệ thông tin yêu cầu tổng số tín chỉ tích lũy toàn khóa là ≥ 125 tín chỉ (đã bao gồm 12 tín chỉ Anh văn)."
+  },
+  {
+    "original": "Tự chọn chuyên ngành ngành Trí Tuệ Nhân Tạo yêu cầu tối thiểu bao nhiêu tín chỉ?",
+    "expected_intent": "factual",
+    "answer": "Sinh viên ngành TTNT cần tối thiểu 8 tín chỉ từ các môn tự chọn chuyên ngành."
+  },
+  {
+    "original": "Môn Hoạch định nguồn lực doanh nghiệp học bao nhiêu tín chỉ?",
+    "expected_intent": "factual",
+    "answer": "Môn Hoạch định nguồn lực doanh nghiệp (IS336) có 4 tín chỉ (3 lý thuyết và 1 thực hành)."
+  },
+  {
+    "original": "Môn tiên quyết của Dữ Liệu Lớn là gì?",
+    "expected_intent": "factual",
+    "answer": "Môn học trước (tiên quyết) của môn Dữ liệu lớn là môn Cơ sở dữ liệu."
+  },
+  {
+    "original": "T có thể học 3 môn thay thế để tốt nghiệp đối với công nghệ thông tin được không",
+    "expected_intent": "structure",
+    "answer": "KHÔNG, sinh viên không được học các môn lý thuyết thuần túy để thay thế hoàn toàn khối kiến thức tốt nghiệp mà bắt buộc phải chọn một trong ba hình thức yêu cầu thực hiện báo cáo hoặc đồ án thực hành: Hình thức 1 là Khóa luận tốt nghiệp (10 tín chỉ), Hình thức 2 là sự kết hợp giữa Chuyên đề tốt nghiệp (4 tín chỉ) và Đồ án tốt nghiệp (6 tín chỉ), hoặc Hình thức 3 là Đồ án tốt nghiệp tại doanh nghiệp (10 tín chỉ), đảm bảo sinh viên luôn phải hoàn thành ít nhất 06 tín chỉ dành cho việc thực hiện đồ án thực tế."
+  },
+  {
+    "original": "Môn Dữ liệu lớn có cần học môn tiên quyết nào không?",
+    "expected_intent": "factual",
+    "answer": "Có, sinh viên bắt buộc phải hoàn thành môn Cơ sở dữ liệu (IT004) trước khi đăng ký môn Dữ liệu lớn (IS405)."
+  },
+  {
+    "original": "Ngành CNTT học những gì?",
+    "expected_intent": "overview",
+    "answer": "Chương trình Cử nhân Công nghệ Thông tin tại UIT được đào tạo theo hình thức chính quy tập trung trong thời gian 04 năm (chia làm 08 học kỳ chính), với mục tiêu hình thành đội ngũ chuyên viên có đạo đức nghề nghiệp, nắm vững kiến thức từ cơ bản đến chuyên sâu để đáp ứng nhu cầu nghiên cứu, phát triển và tư vấn các ứng dụng công nghệ trong xã hội. Cấu trúc chương trình đòi hỏi sinh viên tích lũy tối thiểu 125 tín chỉ, bao gồm khối kiến thức giáo dục đại cương (Toán, Tin học, Khoa học tự nhiên, Khoa học xã hội, Ngoại ngữ) và khối giáo dục chuyên nghiệp tập trung vào các trụ cột cốt lõi như Lập trình, Mạng máy tính, Cơ sở dữ liệu, Hệ thống Web dựa trên tiêu chuẩn ACM và IEEE. Sau khi tốt nghiệp, sinh viên có khả năng đảm nhận các vị trí từ chuyên viên thiết kế dự án, quản lý đầu tư CNTT đến khai thác dữ liệu và phát triển ứng dụng Web, đồng thời có đủ năng lực để tiếp tục nghiên cứu hoặc giảng dạy tại các cơ sở đào tạo cao hơn."
+  },
+  {
+    "original": "Môn Hoạch Định Nguồn Lực Doanh Nghiệp học gì?",
+    "expected_intent": "overview",
+    "answer": "Dựa trên định hướng đào tạo tại UIT, môn Hoạch định nguồn lực doanh nghiệp (ERP) trang bị cho sinh viên kiến thức về quản trị quy trình kinh doanh tích hợp. Cụ thể, bạn sẽ được học:\n\n* **Kiến thức nghiệp vụ:** Nắm vững các quy trình vận hành chuẩn trong một tổ chức bao gồm: Bán hàng (Sales), Thu mua (Purchasing), Quản lý kho (Inventory), Sản xuất (Manufacturing), và Kế toán (Accounting).\n* **Luồng thông tin tích hợp:** Hiểu cách ERP kết nối các phòng ban để dữ liệu chảy thông suốt, giúp tối ưu hóa hiệu quả hoạt động và hỗ trợ nhà quản trị đưa ra quyết định dựa trên dữ liệu thời gian thực.\n* **Kỹ năng thực hành:** Thao tác trực tiếp trên các phần mềm ERP phổ biến như **Odoo, SAP Business One, hoặc ERPNext** để hiện thực hóa các quy trình nghiệp vụ đã học vào hệ thống phần mềm.\n* **Triển khai dự án:** Tìm hiểu về các điều kiện cần thiết, thách thức và phương pháp luận khi triển khai một hệ thống ERP phức tạp vào thực tế doanh nghiệp."
+  },
+  {
+    "original": "Ngành Khoa Học Máy Tính gồm những mảng chính nào?",
+    "expected_intent": "overview",
+    "answer": "Chương trình đào tạo ngành Khoa học Máy tính được cấu trúc bao gồm các mảng chính: Khối kiến thức giáo dục đại cương (45 TC) tập trung vào Lý luận chính trị, Pháp luật, Toán - Tin học - Khoa học tự nhiên (18 TC), Ngoại ngữ (12 TC) và Kỹ năng nghề nghiệp; Khối kiến thức giáo dục chuyên nghiệp (71 TC) chia thành Cơ sở ngành (tối thiểu 45 TC) và các hướng Chuyên ngành sâu (tối thiểu 16 TC) như Trí tuệ nhân tạo, Thị giác máy tính hay Xử lý ngôn ngữ tự nhiên; cuối cùng là Khối kiến thức tốt nghiệp (10 TC) sinh viên có thể lựa chọn giữa Khóa luận tốt nghiệp, Đồ án tại doanh nghiệp hoặc Đồ án tốt nghiệp kết hợp môn chuyên đề để hoàn tất chương trình."
+  },
+  {
+    "original": "Ngành Thương Mại Điện tử học như nào vậy?",
+    "expected_intent": "overview",
+    "answer": "Ngành Thương mại điện tử là một ngành học đa ngành với thời gian đào tạo 04 năm (125 tín chỉ), kết hợp chặt chẽ giữa kiến thức Khoa học máy tính (Lập trình Java/Python/PHP, Cơ sở dữ liệu, Mạng máy tính) và lĩnh vực Kinh tế - Quản trị (Kinh tế vi mô/vĩ mô, Quản trị chuỗi cung ứng, Marketing trực tuyến, Luật TMĐT). Sinh viên được đào tạo qua các khối kiến thức đại cương (45 TC), kiến thức chuyên ngành (68 TC) tập trung vào thiết kế hệ thống kinh doanh trực tuyến, thanh toán điện tử và an toàn bảo mật, kết thúc bằng khối kiến thức tốt nghiệp (12 TC) bao gồm Thực tập doanh nghiệp và lựa chọn giữa Khóa luận, Đồ án hoặc Chuyên đề tốt nghiệp. Sau khi tốt nghiệp, sinh viên có khả năng đảm nhận các vị trí từ Chuyên viên phát triển hệ thống, Chuyên viên Marketing trực tuyến, Phân tích nghiệp vụ (BA) cho đến khởi nghiệp kinh doanh trực tuyến hoặc giảng dạy nghiên cứu chuyên sâu."
+  },
+  {
+    "original": "Chuẩn TOEIC để tốt nghiệp chương trình chính quy là bao nhiêu?",
+    "expected_intent": "structure",
+    "answer": "Dựa trên quy định đào tạo ngoại ngữ của trường (áp dụng từ khóa 2022), chuẩn điểm TOEIC (Nghe - Đọc) để xét công nhận tốt nghiệp được phân loại cụ thể theo từng chương trình học như sau:\n\n* **Chương trình Chuẩn (CTC), Văn bằng 2 (VB2) và Liên thông (LT):** Tối thiểu đạt **450 điểm**.\n* **Chương trình Tài năng (CTTN) và Chất lượng cao (CLC):** Tối thiểu đạt **555 điểm**.\n* **Chương trình Tiên tiến (CTTT):** Tối thiểu đạt **675 điểm**.\n\n**Lưu ý quan trọng:**\n* **Điều kiện đi kèm:** Ngoài việc đạt điểm chứng chỉ quốc tế, sinh viên phải hoàn tất các môn học tiếng Anh trong chương trình giảng dạy tương ứng của từng hệ đào tạo.\n* **Hiệu lực chứng chỉ:** Văn bằng, chứng chỉ ngoại ngữ phải còn thời hạn 02 năm tính từ ngày cấp đến ngày nộp hồ sơ xét đạt chuẩn tại trường.\n* **Hình thức thay thế:** Sinh viên có thể sử dụng các chứng chỉ quốc tế khác tương đương (như IELTS, TOEFL iBT, VNU-EPT) hoặc chứng nhận năng lực tiếng Anh 4 kỹ năng nội bộ do Trung tâm Ngoại ngữ của trường cấp để xét tốt nghiệp."
+  },
+  {
+    "original": "Quy định miễn học môn tiếng Anh như thế nào?",
+    "expected_intent": "structure",
+    "answer": "Dựa trên quy định đào tạo ngoại ngữ (áp dụng từ khóa 2022), sinh viên có chứng chỉ ngoại ngữ quốc tế hoặc chứng nhận nội bộ đạt mức điểm tối thiểu sẽ được xét miễn học các môn Anh văn tương ứng. Cụ thể như sau:\n\n* **Điều kiện miễn học theo chứng chỉ (TOEIC Nghe-Đọc / IELTS):** \n    - **Anh văn 1:** 350 TOEIC hoặc 3.5 IELTS.\n    - **Anh văn 2:** 400 TOEIC hoặc 4.0 IELTS.\n    - **Anh văn 3:** 450 TOEIC hoặc 4.5 IELTS.\n    - **Anh văn 4:** 500 TOEIC hoặc 5.0 IELTS.\n    - **Anh văn 5:** 555 TOEIC hoặc 5.5 IELTS.\n\n**Các lưu ý quan trọng:**\n* **Nguyên tắc miễn:** Khi sinh viên được miễn một môn ở cấp độ cao thì đồng thời được miễn các môn ở cấp độ thấp hơn chưa học hoặc chưa đạt.\n* **Giới hạn thời gian:** Việc xét miễn học chỉ được thực hiện trong vòng **04 học kỳ chính** kể từ khi nhập học. Sau thời gian này, sinh viên phải đăng ký học các môn ngoại ngữ theo lộ trình.\n* **Thời hạn chứng chỉ:** Chứng chỉ phải còn hiệu lực trong vòng **02 năm** tính từ ngày cấp đến ngày nộp hồ sơ.\n* **Cách tính điểm:** Sinh viên được miễn học sẽ nhận điểm 'Miễn' (M) cho môn học đó; điểm này không tính vào điểm trung bình học kỳ hay điểm trung bình tích lũy (GPA)."
+  },
+  {
+    "original": "Điều kiện nhận học bổng khuyến khích học tập là gì?",
+    "expected_intent": "structure",
+    "answer": "Điều kiện nhận học bổng khuyến khích học tập (HBKKHT) tại UIT dựa trên sự kết hợp giữa Kết quả học tập và Kết quả rèn luyện trong từng học kỳ. Đối với hệ đại trà, học bổng được xếp thành 3 loại (Khá, Giỏi, Xuất sắc) với mức hưởng từ 100% đến 120% mức chuẩn C; trong khi đó, hệ CLC và Tiên tiến yêu cầu ĐTBHK từ 8.0, ĐRL từ 70, đăng ký ít nhất 14 tín chỉ và không có môn nào dưới 5.0 để xét các suất học bổng toàn phần (100% học phí) hoặc bán phần (50% học phí). Nguyên tắc xét chọn ưu tiên từ loại cao xuống thấp và theo thứ tự ĐHT, ĐRL cho đến khi hết chỉ tiêu kinh phí của từng lớp sinh viên."
+  },
+  {
+    "original": "Các loại học bổng ngoài ngân sách gồm những gì?",
+    "expected_intent": "structure",
+    "answer": "Học bổng ngoài ngân sách tại UIT bao gồm các nguồn tài trợ không từ ngân sách Nhà nước, chia làm hai loại chính: (1) Học bổng tài trợ trực tiếp cho Trường hoặc ĐHQG-HCM và (2) Học bổng do doanh nghiệp tài trợ riêng cho từng Khoa. Các học bổng này hướng tới hai nhóm đối tượng ưu tiên: sinh viên có hoàn cảnh khó khăn (thương tật, mồ côi, hộ nghèo/cận nghèo, vùng sâu vùng xa) và sinh viên có thành tích tiêu biểu (có bài báo khoa học, kết quả học tập xuất sắc, tích cực tham gia nghiên cứu hoặc hoạt động cộng đồng). Để nhận học bổng, sinh viên phải đăng ký nguyện vọng theo từng học kỳ qua hệ thống của Phòng CTSV hoặc Khoa, đảm bảo không bị kỷ luật, có tham gia BHYT và còn trong thời gian đào tạo thiết kế của chương trình."
+  },
+  {
+    "original": "Quy trình xét học bổng ngoài ngân sách như thế nào?",
+    "expected_intent": "structure",
+    "answer": "Quy trình xét học bổng ngoài ngân sách tại UIT được thực hiện qua các bước chặt chẽ để đảm bảo tính công khai và công bằng. Đầu tiên, Phòng Công tác Sinh viên (CTSV) sẽ ban hành thông báo (thường vào khoảng tháng 10 và tháng 4 hàng năm) để sinh viên đăng ký nguyện vọng trực tuyến trên hệ thống DAA. Sau khi đóng cổng đăng ký, Phòng CTSV công khai danh sách sinh viên đã đăng ký và đối chiếu với tiêu chí cụ thể của từng nguồn tài trợ (doanh nghiệp hoặc tổ chức cá nhân). Sinh viên phù hợp sẽ được yêu cầu nộp hồ sơ minh chứng (hoàn cảnh khó khăn, thành tích nghiên cứu, giải thưởng...). Cuối cùng, Hội đồng xét học bổng sẽ thẩm định, công bố danh sách dự kiến để sinh viên phản hồi trước khi ra quyết định cấp chính thức và giải ngân qua tài khoản ngân hàng."
+  },
+  {
+    "original": "Sinh viên chương trình tiên tiến có học bổng gì?",
+    "expected_intent": "structure",
+    "answer": "Sinh viên Chương trình Tiên tiến được hưởng 03 nhóm học bổng chính: (1) Học bổng khuyến khích học tập của Nhà nước tương tự hệ đại trà; (2) Học bổng riêng của Chương trình Tiên tiến dựa trên kết quả học tập và rèn luyện mỗi học kỳ (gồm 01 suất toàn phần 100% học phí và 02 suất bán phần 50% học phí cho mỗi khóa của từng ngành) với điều kiện ĐTBHK từ 8.0 và ĐRL từ loại Khá trở lên; (3) Học bổng Tân sinh viên dành cho 03 bạn có kết quả xét tuyển đầu vào cao nhất (01 suất 100% và 02 suất 50% học phí học kỳ đầu). Ngoài ra, sinh viên CTTT còn có cơ hội nhận các loại học bổng ngoài ngân sách từ doanh nghiệp và học bổng khuyến khích ngoại ngữ UIT Global (lên đến 15 triệu đồng) nếu đạt chứng chỉ quốc tế cao."
+  },
+  {
+    "original": "Bố cục làm đồ án tốt nghiệp như nào nhỉ?",
+    "expected_intent": "structure",
+    "answer": "Dựa trên quy định của nhà trường, bố cục của một cuốn Khóa luận/Đồ án tốt nghiệp phải đảm bảo tính khoa học và trình bày mạch lạc theo các phần chính sau:\n\n* **Phần nội dung chính (Tối thiểu 50 trang A4):**\n    1. **MỞ ĐẦU:** Lý do chọn đề tài, mục tiêu, đối tượng và phạm vi nghiên cứu.\n    2. **TỔNG QUAN:** Đánh giá các nghiên cứu liên quan và nêu bật vấn đề đề tài cần giải quyết.\n    3. **NGHIÊN CỨU THỰC NGHIỆM/LÝ THUYẾT:** Trình bày phương pháp nghiên cứu, cơ sở lý luận và các giả thiết khoa học.\n    4. **ĐÁNH GIÁ KẾT QUẢ:** Mô tả nghiên cứu đã thực hiện, kết quả thực nghiệm và hồ sơ thiết kế sản phẩm (nếu có).\n    5. **KẾT LUẬN & HƯỚNG PHÁT TRIỂN:** Tóm tắt đóng góp mới và kiến nghị hướng nghiên cứu tiếp theo.\n\n* **Hình thức trình bày quan trọng:**\n    - **Font chữ:** Times New Roman, size 13pt; dãn dòng 1.5 lines.\n    - **Lề giấy:** Trái 3.5cm; Phải 2cm; Trên 3cm; Dưới 3.5cm.\n    - **Đánh số mục:** Sử dụng hệ thống số Ả-rập (ví dụ: 3.1.2), không dùng số La Mã.\n    - **Tài liệu tham khảo:** Trình bày theo **chuẩn IEEE**, tách riêng tiếng Việt và tiếng Anh.\n\n* **Quy trình nộp:** Sinh viên nộp 03 cuốn bìa mềm (kèm đĩa CD/DVD dán ở bìa sau) để chuẩn bị bảo vệ. Sau khi bảo vệ thành công, nộp 02 cuốn bìa cứng nhũ vàng in trên bìa xanh nước biển."
+  },
+  {
+    "original": "Làm sao để chuyển ngành trong trường?",
+    "expected_intent": "structure",
+    "answer": "Dựa trên Quy chế đào tạo và quy trình dành cho sinh viên tại UIT, việc chuyển ngành được xem xét dựa trên các điều kiện khắt khe về học lực và thủ tục hành chính như sau:\n\n* **Điều kiện để được xét chuyển ngành:**\n    1. **Thời gian học:** Không được chuyển ngành khi đang là sinh viên năm nhất hoặc năm cuối.\n    2. **Điểm đầu vào:** Điểm trúng tuyển của bạn phải cao hơn hoặc bằng điểm chuẩn của ngành muốn chuyển đến trong cùng khóa tuyển sinh.\n    3. **Kết quả học tập:** Phải tích lũy đủ số tín chỉ tối thiểu theo quy định và có điểm trung bình tích lũy (ĐTBC) đạt từ **6.0 trở lên**.\n    4. **Kỷ luật:** Sinh viên không trong thời gian bị kỷ luật từ mức cảnh báo trở lên.\n    5. **Chỉ tiêu:** Ngành chuyển đến còn chỉ tiêu và đảm bảo năng lực đào tạo.\n\n* **Quy trình thực hiện (04 Bước):**\n    - **Bước 1:** Sinh viên tải và viết đơn theo [**Mẫu 01 - Đơn xin chuyển ngành**](https://daa.uit.edu.vn/sites/daa/files/201509/mau_01_don_xin_chuyen_nganh.doc). Đơn cần có xác nhận của gia đình.\n    - **Bước 2:** Xin ý kiến đồng ý và chữ ký xác nhận của **Trưởng khoa/Bộ môn nơi chuyển đi** và **Trưởng khoa/Bộ môn nơi chuyển đến**.\n    - **Bước 3:** Nộp đơn trực tiếp tại Phòng Đào tạo Đại học (P.ĐTĐH).\n    - **Bước 4:** Theo dõi email sinh viên để nhận thông báo kết quả. Nếu được phê duyệt, sinh viên đến P.ĐTĐH để nhận Quyết định chính thức."
+  },
+  {
+    "original": "Bảo lưu thì làm như thế nào?",
+    "expected_intent": "structure",
+    "answer": "Theo Quy chế đào tạo và quy trình của Trường ĐHCNTT, việc bảo lưu được chia thành hai trường hợp: Bảo lưu kết quả trúng tuyển và Tạm dừng học tập (bảo lưu kết quả học tập). Quy trình thực hiện như sau:\n\n* **Trường hợp 1: Bảo lưu kết quả trúng tuyển (Tân sinh viên)**\n    - **Điều kiện:** Do bệnh tật, tai nạn hoặc hoàn cảnh khó khăn đột xuất.\n    - **Thời gian:** Nộp đơn chậm nhất 15 ngày kể từ ngày gọi nhập học; thời gian bảo lưu không quá 01 năm.\n    - **Thủ tục:** Nộp đơn theo [**Mẫu 08**](https://daa.uit.edu.vn/sites/daa/files/201410/mau_08_don_xin_bao_luu_ket_qua_tuyen_sinh.doc) tại Phòng Đào tạo Đại học (P.ĐTĐH).\n\n* **Trường hợp 2: Tạm dừng học tập (Sinh viên đang theo học)**\n    - **Điều kiện:** Đi nghĩa vụ quân sự; bị bệnh/tai nạn dài hạn (có xác nhận y tế); hoặc lý do cá nhân (đã học ít nhất 1 học kỳ và không bị đình chỉ học tập).\n    - **Thời gian:** Nghỉ từ 01 đến tối đa 02 học kỳ chính liên tiếp.\n    - **Thủ tục:** Viết đơn theo [**Mẫu 03**](https://daa.uit.edu.vn/sites/daa/files/201410/mau_03_don_xin_tam_ngung_va_bao_luu_ket_qua_hoc_tap.doc), lấy xác nhận của gia đình và Khoa, sau đó nộp tại P.ĐTĐH kèm minh chứng.\n\n* **Lưu ý sau bảo lưu:** Sinh viên phải làm đơn xin nhập học lại ([Mẫu 07](https://daa.uit.edu.vn/sites/daa/files/201410/mau_07_don_xin_hoc_lai.doc) hoặc [Mẫu 09](https://daa.uit.edu.vn/sites/daa/files/201410/mau_09_don_xin_nhap_hoc_lai.doc)) ít nhất 01 tháng trước khi bắt đầu học kỳ mới."
+  },
+  {
+    "original": "Làm sao để đăng ký môn học trên hệ thống?",
+    "expected_intent": "structure",
+    "answer": "Quy trình đăng ký học phần (ĐKHP) tại UIT được thực hiện trực tuyến qua website [dkhp.uit.edu.vn](http://dkhp.uit.edu.vn/) theo 5 đợt chính như sau:\n\n* **Các bước đăng ký:**\n    1. **Xác nhận ĐKHP:** Hệ thống gợi ý môn học theo lộ trình mẫu, sinh viên cần xác nhận để giữ chỗ.\n    2. **Đăng ký đợt 1 (Đợt chính thức):** Sinh viên thêm/bỏ các học phần theo nhu cầu và thời khóa biểu đã công bố.\n    3. **Đăng ký đợt 2 (Đợt hiệu chỉnh):** Điều chỉnh các lớp bị hủy hoặc đăng ký thêm vào các lớp còn chỗ.\n    4. **Đăng ký đợt 3 (Đợt cứu xét):** Chỉ dành cho học lại, cải thiện hoặc điều chỉnh nhỏ (dưới 30% khối lượng).\n\n* **Các quy định quan trọng:**\n    - **Khối lượng:** Đăng ký tối thiểu **14 tín chỉ** và tối đa **25 tín chỉ** (sinh viên GPA ≥ 8.0 được đăng ký tối đa 30 tín chỉ).\n    - **Ràng buộc:** Phải đăng ký lớp thực hành đi kèm lớp lý thuyết và không được trùng giờ học.\n    - **Học kỳ hè:** Đăng ký tối đa **12 tín chỉ**, không quy định mức tối thiểu.\n    - **Tân sinh viên:** Học kỳ 1 năm thứ nhất sẽ được nhà trường sắp xếp thời khóa biểu sẵn, không cần tự đăng ký."
+  },
+  {
+    "original": "Cách tính điểm môn Phân tích thiết kế HTTT?",
+    "expected_intent": "structure",
+    "answer": "Điểm môn Phân tích thiết kế hệ thống thông tin (IS201) được tính theo tỷ lệ 50/50 giữa quá trình thực hành và thi cuối kỳ, cụ thể như sau:\n\n* **Điểm Thực hành & Quá trình (50%):** Bao gồm bài tập lý thuyết về mô hình DFD/ERD (A1), các bài tập thực hành về sơ đồ UML (A2) và quan trọng nhất là Đồ án môn học (A3). Trong đồ án, nhóm tối đa 4 sinh viên phải thực hiện phân tích thiết kế ứng dụng hướng đối tượng, cài đặt chức năng quản lý/thống kê và báo cáo thuyết trình.\n* **Điểm Thi cuối kỳ (50%):** Thực hiện dưới hình thức thi tự luận (A4), tập trung vào khả năng vận dụng kiến thức để giải quyết bài toán thực tế.\n\n**Các lưu ý quan trọng:**\n- **Chuyên cần:** Sinh viên vắng từ 5 buổi trở lên sẽ bị cấm thi lý thuyết; vắng 3 buổi sẽ không được tính điểm chuyên cần.\n- **Yêu cầu đồ án:** Phải hiện thực được ít nhất 2 chức năng quản lý, 2 chức năng tìm kiếm và các báo cáo thống kê trên mô hình cơ sở dữ liệu đã thiết kế."
+  },
+  {
+    "original": "Rubric đánh giá môn Hệ quản trị CSDL như thế nào?",
+    "expected_intent": "structure",
+    "answer": "Môn Hệ quản trị CSDL (IS210) đánh giá sinh viên dựa trên 3 cột điểm: Quá trình & Đồ án thực hành (30%), Thi giữa kỳ (20%) và Thi cuối kỳ (50%). Rubric tập trung vào 3 nhóm kỹ năng: (G1) Hiểu kiến trúc và khái niệm DBMS, (G2) Kỹ năng viết T-SQL nâng cao và quản lý giao tác, (G3) Khả năng tối ưu hóa truy vấn và giải quyết bài toán quản lý thực tế. Sinh viên cần lưu ý tham gia đầy đủ các buổi học (vắng từ 5 buổi sẽ bị cấm thi) và hoàn thành đồ án nhóm với đầy đủ các thành phần kỹ thuật như Trigger, Store Procedure và cơ chế khóa để đạt điểm tối đa."
+  },
+  {
+    "original": "Chuẩn đầu ra G1 của môn Dữ Liệu Lớn là gì?",
+    "expected_intent": "structure",
+    "answer": "Chuẩn đầu ra G1 của môn Dữ liệu lớn (IS405) tập trung vào khối lượng kiến thức nền tảng và tư duy thiết kế hệ thống xử lý dữ liệu quy mô lớn. Cụ thể, sinh viên cần đạt được các yêu cầu sau:\n\n* **Kiến thức nền tảng:** Hiểu và trình bày được định nghĩa, đặc trưng, thách thức và các ứng dụng thực tế của Big Data; nắm vững quy trình xử lý dữ liệu lớn và các khái niệm về NoSQL.\n* **Mô hình MapReduce:** Hiểu rõ ý tưởng, ưu nhược điểm và xây dựng được các giải thuật xử lý dữ liệu trên mô hình MapReduce (sử dụng các mẫu thiết kế như cặp, sọc, tổng hợp cục bộ).\n* **Framework Apache Hadoop:** Mô tả được thành phần và cách thức hoạt động của hệ thống tập tin phân tán HDFS và bộ quản lý tài nguyên YARN.\n* **Framework Apache Spark:** Hiểu về tập dữ liệu phân tán linh hoạt RDD, các API hỗ trợ (Spark SQL, Streaming, MLlib) và kiến trúc cụm máy phân tán.\n* **Kiến trúc hệ thống:** Phân biệt và mô tả được các kiến trúc xử lý dữ liệu hiện đại như Lambda và Kappa."
+  },
+  {
+    "original": "Ngành CNTT có thể làm nghề gì sau khi ra trường?",
+    "expected_intent": "structure",
+    "answer": "Dựa trên chương trình đào tạo Cử nhân Công nghệ Thông tin tại UIT, sinh viên tốt nghiệp có khả năng đảm nhận nhiều vị trí công việc đa dạng trong và ngoài lĩnh vực kỹ thuật thuần túy. Cụ thể:\n\n* **Nhóm Kỹ thuật & Phát triển:**\n    - Chuyên viên thiết kế, phát triển các ứng dụng Web và truyền thông xã hội.\n    - Chuyên viên xây dựng và hiện thực hóa các dự án ứng dụng CNTT trong các lĩnh vực đặc thù như giao thông, xây dựng, viễn thám, môi trường.\n    - Chuyên viên phát triển ứng dụng di động đa nền tảng.\n\n* **Nhóm Quản lý & Tư vấn:**\n    - Chuyên viên quản lý, giám sát và tư vấn đầu tư cho các dự án CNTT.\n    - Chuyên viên thiết kế giao diện người dùng (UI/UX) và tư duy thiết kế hệ thống.\n    - Chuyên viên quản trị quy trình nghiệp vụ doanh nghiệp.\n\n* **Nhóm Dữ liệu & Nghiên cứu:**\n    - Chuyên viên khai thác, phân tích dữ liệu định lượng phục vụ bài toán kinh doanh của doanh nghiệp.\n    - Cán bộ nghiên cứu, giảng dạy về CNTT tại các trường Đại học, Cao đẳng.\n    - Chuyên viên bảo đảm an ninh thông tin và an toàn dữ liệu.\n\n* **Nhóm Thương mại & Khởi nghiệp:**\n    - Chuyên viên tối ưu hóa công cụ tìm kiếm (SEO) và quản trị quan hệ khách hàng (CRM).\n    - Khởi nghiệp trong lĩnh vực công nghệ hoặc quản trị doanh nghiệp CNTT."
+  },
+  {
+    "original": "Khối kiến thức đại cương ngành TTNT gồm những gì?",
+    "expected_intent": "structure",
+    "answer": "Dựa trên chương trình đào tạo của UIT, khối kiến thức giáo dục đại cương ngành Trí tuệ nhân tạo bao gồm tổng cộng **45 tín chỉ** (không tính Giáo dục thể chất và Quốc phòng), được chia thành 4 nhóm chính:\n\n* **Lý luận chính trị và pháp luật (13 TC):** Triết học Mác – Lênin, Kinh tế chính trị Mác – Lênin, Chủ nghĩa xã hội khoa học, Tư tưởng Hồ Chí Minh, Lịch sử Đảng Cộng sản Việt Nam và Pháp luật đại cương.\n* **Toán – Tin học – Khoa học tự nhiên (18 TC):** Giải tích, Đại số tuyến tính, Cấu trúc rời rạc, Xác suất thống kê và môn chuyên sâu là Toán cho Khoa học máy tính.\n* **Ngoại ngữ (12 TC):** Anh văn 1, Anh văn 2 và Anh văn 3.\n* **Kỹ năng nghề nghiệp (2 TC):** Môn Kỹ năng nghề nghiệp (SS004).\n\nNgoài ra, sinh viên bắt buộc hoàn thành các môn Giáo dục thể chất (1 & 2) và Giáo dục quốc phòng để đủ điều kiện xét tốt nghiệp."
+  },
+  {
+    "original": "Học kỳ 1 ngành TTNT học những môn gì?",
+    "expected_intent": "roadmap",
+    "answer": "Theo kế hoạch giảng dạy mẫu, học kỳ 1 của ngành TTNT tại UIT tập trung vào việc xây dựng nền tảng tư duy lập trình và toán học sơ sở. Danh sách các môn học cụ thể bao gồm:\n\n* **Nhập môn Lập trình (IT001):** 4 TC (3 Lý thuyết + 1 Thực hành).\n* **Giải tích (MA006):** 4 TC.\n* **Đại số tuyến tính (MA003):** 3 TC.\n* **Giới thiệu ngành Trí tuệ nhân tạo (AI001):** 1 TC.\n* **Anh văn 1 (ENG01):** 4 TC.\n* **Kỹ năng nghề nghiệp (SS004):** 2 TC.\n* **Pháp luật đại cương (SS006):** 2 TC.\n* **Giáo dục quốc phòng (ME001):** Học tập trung theo quy định.\n\n**Tổng cộng:** 20 tín chỉ. Đây là học kỳ quan trọng để bạn làm quen với phương pháp học đại học và định hướng chuyên sâu về AI thông qua môn Giới thiệu ngành."
+  },
+  {
+    "original": "Học kỳ 6 ngành CNTT học những môn gì?",
+    "expected_intent": "roadmap",
+    "answer": "Dựa trên kế hoạch giảng dạy mẫu của ngành Công nghệ Thông tin tại UIT, học kỳ 6 là giai đoạn sinh viên tập trung hoàn tất khối kiến thức cơ sở ngành và bắt đầu đi sâu vào các môn chuyên ngành tự chọn (tổng cộng ≥ 16 tín chỉ). Cụ thể như sau:\n\n* **Các môn học bắt buộc (10 tín chỉ):**\n    - **Nhập môn Bảo đảm và An ninh thông tin (IE105):** 4 TC - Kiến thức về bảo mật hệ thống.\n    - **Phân tích thiết kế phần mềm (IE108):** 4 TC - Quy trình xây dựng phần mềm chuyên nghiệp.\n    - **Lịch sử Đảng Cộng sản Việt Nam (SS010):** 2 TC.\n    - **Giáo dục thể chất 2 (PE232):** Tính chứng chỉ riêng.\n\n* **Các môn học chuyên ngành tự chọn (Tích lũy ≥ 10 tín chỉ):** Sinh viên chọn môn tùy theo hướng định hướng nghề nghiệp:\n    - **Hướng Truyền thông xã hội & Web:** Kỹ thuật phát triển hệ thống Web (IE213), Công nghệ lập trình di động đa nền tảng (IE307), Tối ưu hóa công cụ tìm kiếm - SEO (IE204), Công nghệ Java (IE303).\n    - **Hướng Khoa học thông tin:** Phân tích và trực quan dữ liệu (IE313), Công nghệ Dữ liệu lớn (IE212), Kiến trúc và tích hợp hệ thống (IE302), Hệ thống thông tin địa lý 3 chiều (IE402).\n\n* **Lưu ý:** Sinh viên nên chủ động chọn các môn tự chọn tự do (như Đồ án, Thực tập doanh nghiệp) để làm quen với môi trường thực tế trước khi bước vào kỳ thực tập tốt nghiệp."
+  },
+  {
+    "original": "kì mấy t làm đồ án tốt nghiệp đối với ngành Trí Tuệ Nhân Tạo?",
+    "expected_intent": "factual",
+    "answer": "Sinh viên ngành Trí tuệ nhân tạo (TTNT) tại UIT sẽ thực hiện đồ án tốt nghiệp vào **Học kỳ 7**. "
+  },
+  {
+    "original": "Môn cơ sở dữ liệu phân tán khác gì với môn dữ liệu lớn?",
+    "expected_intent": "compare",
+    "answer": "Dù cả hai môn học đều giải quyết vấn đề xử lý dữ liệu trên nhiều máy tính, nhưng chúng có sự khác biệt rõ rệt về mục tiêu, kiến trúc và công nghệ xử lý:\n\n* **Cơ sở dữ liệu phân tán (IS211):**\n    - **Trọng tâm:** Tập trung vào việc chia nhỏ một cơ sở dữ liệu quan hệ truyền thống thành nhiều mảnh (phân mảnh ngang, dọc) và đặt chúng ở các vị trí địa lý khác nhau nhưng vẫn đảm bảo tính nhất quán dữ liệu.\n    - **Công nghệ chính:** Sử dụng các hệ quản trị CSDL quan hệ thương mại (RDBMS) như Oracle, MS SQL Server; tập trung vào tính trong suốt vị trí, quản lý giao tác (transaction) và điều khiển tương tranh.\n    - **Bài toán giải quyết:** Làm sao để người dùng truy cập dữ liệu ở nhiều chi nhánh khác nhau mà cảm thấy như đang dùng một CSDL duy nhất.\n\n* **Dữ liệu lớn (IS405):**\n    - **Trọng tâm:** Tập trung vào việc xử lý khối lượng dữ liệu khổng lồ (Big Data) vượt quá khả năng của các CSDL truyền thống, bao gồm cả dữ liệu phi cấu trúc và bán cấu trúc.\n    - **Công nghệ chính:** Sử dụng các framework mã nguồn mở hiện đại như Apache Hadoop (HDFS, MapReduce) và Apache Spark (RDD, DataFrame API). Nghiên cứu các kiến trúc Lambda, Kappa và hệ sinh thái NoSQL.\n    - **Bài toán giải quyết:** Làm sao để lưu trữ và phân tích hàng tỷ bản ghi dữ liệu (ví dụ: log web, mạng xã hội) một cách nhanh chóng và hiệu quả bằng lập trình phân tán.\n\n**Tóm lại:** CSDL phân tán nghiêng về quản trị và tối ưu hóa hệ thống dữ liệu có cấu trúc chặt chẽ, trong khi Dữ liệu lớn nghiêng về khai thác và xử lý dữ liệu quy mô cực lớn với các mô hình lập trình mới."
+  },
+  {
+    "original": "Môn cơ sơ dữ liệu có gì khác với hệ quản trị cơ sở dữ liệu?",
+    "expected_intent": "compare",
+    "answer": "Dựa trên đề cương chi tiết của hai môn học, đây là bảng so sánh giúp bạn phân biệt rõ ràng giữa IT004 và IS210:\n\n| Tiêu chí | Cơ sở dữ liệu (IT004) | Hệ quản trị cơ sở dữ liệu (IS210) |\n| :--- | :--- | :--- |\n| **Mục tiêu** | Cung cấp kiến thức nền tảng để **thiết kế và sử dụng** CSDL quan hệ. | Tập trung vào nguyên lý **vận hành, quản lý và tối ưu hóa** các hệ thống CSDL hiện đại. |\n| **Số tín chỉ** | 4 tín chỉ (3 Lý thuyết + 1 Thực hành). | 4 tín chỉ (3 Lý thuyết + 1 Thực hành). |\n| **Nội dung chính** | - Mô hình Thực thể - Mối liên kết (ERD).<br>- Đại số quan hệ.<br>- Ngôn ngữ SQL cơ bản (DDL, DML, Query).<br>- Phụ thuộc hàm và các dạng chuẩn (1NF, 2NF, 3NF). | - Quản lý giao tác (Transaction) và tính ACID.<br>- Điều khiển truy xuất đồng thời (Locks, Isolation Levels).<br>- Sao lưu và phục hồi dữ liệu sau sự cố.<br>- Tối ưu hóa câu truy vấn (Query Optimization). |\n| **Cơ hội việc làm** | - Chuyên viên phân tích dữ liệu cơ bản.<br>- Lập trình viên (biết thiết kế bảng và viết SQL). | - Quản trị viên CSDL (DBA).<br>- Kỹ sư dữ liệu (Data Engineer).<br>- Chuyên viên tối ưu hóa hệ thống. |\n| **Mức độ tiếp cận** | **Người dùng (User):** Cách xây dựng CSDL sao cho đúng và không dư thừa. | **Hệ thống (Internal):** Cách phần mềm quản lý dữ liệu chạy bên dưới sao cho nhanh và an toàn. |\n| **Chuẩn đầu ra** | LO2 (2.6), LO3 (3.1, 3.2, 3.3). | LO2 (2.7), LO4 (4.1, 4.2). |\n\n**Điểm giống:**\n* Cả hai đều là môn học bắt buộc thuộc khối kiến thức chuyên môn.\n* Cùng sử dụng công cụ thực hành chính là MS SQL Server hoặc các RDBMS thương mại.\n* Đều yêu cầu kỹ năng viết ngôn ngữ truy vấn SQL.\n\n**Điểm khác:**\n* **IT004** dạy bạn cách vẽ sơ đồ và tổ chức dữ liệu vào các bảng sao cho khoa học.\n* **IS210** dạy bạn cách xử lý khi có hàng nghìn người cùng truy cập một lúc mà không bị lỗi dữ liệu, và cách cứu dữ liệu khi server gặp sự cố.\n\n**Kết luận:**\n* **IT004 (Cơ sở dữ liệu)** là bước đệm đầu tiên, cung cấp tư duy thiết kế cấu trúc dữ liệu cho mọi lập trình viên.\n* **IS210 (Hệ quản trị CSDL)** là môn chuyên sâu cho những ai muốn đi sâu vào hạ tầng, quản trị hệ thống và đảm bảo hiệu năng cho các ứng dụng lớn."
+  },
+  {
+    "original": "Ngành Kĩ thuật phần mềm khác gì với ngành công nghệ thông tin v",
+    "expected_intent": "compare",
+    "answer": "Dựa trên chương trình đào tạo tại UIT, hai ngành này có sự khác biệt rõ rệt về mục tiêu chuyên sâu và phạm vi ứng dụng:\n\n* **Ngành Công nghệ Thông tin (CNTT):**\n    - **Trọng tâm:** Có độ phủ rộng, tập trung vào việc vận hành, quản lý, giám sát và ứng dụng CNTT để tạo ra giá trị gia tăng cho doanh nghiệp.\n    - **Kiến thức cốt lõi:** Bao gồm lập trình, mạng máy tính, cơ sở dữ liệu, an ninh thông tin và các hệ thống Web.\n    - **Cơ hội nghề nghiệp:** Chuyên viên quản lý dự án CNTT, khai thác dữ liệu, quản trị quan hệ khách hàng (CRM), hoặc giảng dạy nghiên cứu.\n\n* **Ngành Kỹ thuật Phần mềm (KTPM):**\n    - **Trọng tâm:** Đi sâu vào quy trình phát triển phần mềm một cách chuyên nghiệp và hệ thống (Software Engineering).\n    - **Kiến thức cốt lõi:** Tập trung mạnh vào kỹ năng thiết kế hệ thống, triển khai giải pháp, đánh giá hiệu suất, kiểm chứng phần mềm và quản lý vòng đời phần mềm.\n    - **Cơ hội nghề nghiệp:** Kỹ sư phát triển phần mềm, chuyên viên phân tích yêu cầu, kỹ sư kiểm thử (Tester/QA), quản lý dự án phát triển phần mềm chuyên sâu.\n\n**Tóm lại:** Nếu bạn thích sự đa dạng, ứng dụng CNTT vào nhiều lĩnh vực như địa lý, môi trường, giao thông thì nên chọn **CNTT**. Nếu bạn muốn trở thành một chuyên gia xây dựng những hệ thống phần mềm phức tạp, quy mô lớn với quy trình kỹ thuật chặt chẽ thì **Kỹ thuật Phần mềm** là lựa chọn phù hợp."
+  }
+]
